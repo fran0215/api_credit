@@ -1,0 +1,88 @@
+ERROR - 2025-05-24 21:45:46 --> 11
+ERROR - 2025-05-24 21:45:46 --> clienteeee
+ERROR - 2025-05-24 21:45:46 --> SELECT * FROM creditos 
+                WHERE cliente_id = 11  
+ERROR - 2025-05-24 21:45:49 --> "14"
+ERROR - 2025-05-24 21:45:49 --> clienteeee
+ERROR - 2025-05-24 21:45:49 --> SELECT * FROM transacciones 
+                WHERE id_credito = "14"
+ERROR - 2025-05-24 21:46:39 --> 22
+ERROR - 2025-05-24 21:46:39 --> clienteeee
+ERROR - 2025-05-24 21:46:39 --> SELECT * FROM creditos 
+                WHERE cliente_id = 22  
+ERROR - 2025-05-24 21:48:47 --> Cantidad de pagos: 5
+ERROR - 2025-05-24 21:48:47 --> Fecha Pago: 2025-05-23
+ERROR - 2025-05-24 21:48:47 --> Monto Pago antes de conversión: 48000
+ERROR - 2025-05-24 21:48:47 --> Monto Pago después de conversión: 48000
+ERROR - 2025-05-24 21:48:47 --> Fecha Pago: 2025-05-30
+ERROR - 2025-05-24 21:48:47 --> Monto Pago antes de conversión: 48000
+ERROR - 2025-05-24 21:48:47 --> Monto Pago después de conversión: 48000
+ERROR - 2025-05-24 21:48:47 --> Fecha Pago: 2025-06-06
+ERROR - 2025-05-24 21:48:47 --> Monto Pago antes de conversión: 48000
+ERROR - 2025-05-24 21:48:47 --> Monto Pago después de conversión: 48000
+ERROR - 2025-05-24 21:48:47 --> Fecha Pago: 2025-06-13
+ERROR - 2025-05-24 21:48:47 --> Monto Pago antes de conversión: 48000
+ERROR - 2025-05-24 21:48:47 --> Monto Pago después de conversión: 48000
+ERROR - 2025-05-24 21:48:47 --> Fecha Pago: 2025-06-20
+ERROR - 2025-05-24 21:48:47 --> Monto Pago antes de conversión: 48000
+ERROR - 2025-05-24 21:48:47 --> Monto Pago después de conversión: 48000
+ERROR - 2025-05-24 21:48:58 --> 22
+ERROR - 2025-05-24 21:48:58 --> clienteeee
+ERROR - 2025-05-24 21:48:58 --> SELECT * FROM creditos 
+                WHERE cliente_id = 22  
+ERROR - 2025-05-24 21:49:16 --> "32"
+ERROR - 2025-05-24 21:49:16 --> clienteeee
+ERROR - 2025-05-24 21:49:16 --> SELECT * FROM transacciones 
+                WHERE id_credito = "32"
+ERROR - 2025-05-24 21:50:07 --> 22
+ERROR - 2025-05-24 21:50:07 --> clienteeee
+ERROR - 2025-05-24 21:50:07 --> SELECT * FROM creditos 
+                WHERE cliente_id = 22  
+ERROR - 2025-05-24 21:50:09 --> "32"
+ERROR - 2025-05-24 21:50:09 --> clienteeee
+ERROR - 2025-05-24 21:50:09 --> SELECT * FROM transacciones 
+                WHERE id_credito = "32"
+ERROR - 2025-05-24 21:50:28 --> 12
+ERROR - 2025-05-24 21:50:28 --> clienteeee
+ERROR - 2025-05-24 21:50:28 --> SELECT * FROM creditos 
+                WHERE cliente_id = 12  
+ERROR - 2025-05-24 21:50:32 --> "26"
+ERROR - 2025-05-24 21:50:32 --> clienteeee
+ERROR - 2025-05-24 21:50:32 --> SELECT * FROM transacciones 
+                WHERE id_credito = "26"
+ERROR - 2025-05-24 21:50:51 --> 16
+ERROR - 2025-05-24 21:50:51 --> clienteeee
+ERROR - 2025-05-24 21:50:51 --> SELECT * FROM creditos 
+                WHERE cliente_id = 16  
+ERROR - 2025-05-24 21:50:54 --> 8
+ERROR - 2025-05-24 21:50:54 --> clienteeee
+ERROR - 2025-05-24 21:50:54 --> SELECT * FROM creditos 
+                WHERE cliente_id = 8  
+ERROR - 2025-05-24 21:51:20 --> 22
+ERROR - 2025-05-24 21:51:20 --> clienteeee
+ERROR - 2025-05-24 21:51:20 --> SELECT * FROM creditos 
+                WHERE cliente_id = 22  
+ERROR - 2025-05-24 21:51:24 --> 22
+ERROR - 2025-05-24 21:51:24 --> clienteeee
+ERROR - 2025-05-24 21:51:24 --> SELECT * FROM creditos 
+                WHERE cliente_id = 22  
+ERROR - 2025-05-24 21:51:25 --> "32"
+ERROR - 2025-05-24 21:51:25 --> clienteeee
+ERROR - 2025-05-24 21:51:25 --> SELECT * FROM transacciones 
+                WHERE id_credito = "32"
+ERROR - 2025-05-24 21:51:42 --> 11
+ERROR - 2025-05-24 21:51:42 --> clienteeee
+ERROR - 2025-05-24 21:51:42 --> SELECT * FROM creditos 
+                WHERE cliente_id = 11  
+ERROR - 2025-05-24 21:51:46 --> "14"
+ERROR - 2025-05-24 21:51:46 --> clienteeee
+ERROR - 2025-05-24 21:51:46 --> SELECT * FROM transacciones 
+                WHERE id_credito = "14"
+ERROR - 2025-05-24 21:52:31 --> 12
+ERROR - 2025-05-24 21:52:31 --> clienteeee
+ERROR - 2025-05-24 21:52:31 --> SELECT * FROM creditos 
+                WHERE cliente_id = 12  
+ERROR - 2025-05-24 21:52:33 --> "26"
+ERROR - 2025-05-24 21:52:33 --> clienteeee
+ERROR - 2025-05-24 21:52:33 --> SELECT * FROM transacciones 
+                WHERE id_credito = "26"

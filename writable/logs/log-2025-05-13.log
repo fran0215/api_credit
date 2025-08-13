@@ -1,0 +1,766 @@
+ERROR - 2025-05-13 03:58:55 --> "17"
+ERROR - 2025-05-13 03:58:55 --> clienteeee
+ERROR - 2025-05-13 03:59:27 --> "17"
+ERROR - 2025-05-13 03:59:27 --> clienteeee
+ERROR - 2025-05-13 03:59:27 --> []
+ERROR - 2025-05-13 04:03:53 --> "17"
+ERROR - 2025-05-13 04:03:53 --> clienteeee
+ERROR - 2025-05-13 04:03:53 --> []
+ERROR - 2025-05-13 04:04:34 --> "13"
+ERROR - 2025-05-13 04:04:34 --> clienteeee
+ERROR - 2025-05-13 04:04:34 --> SELECT * FROM creditos 
+                WHERE cliente_id = '"13"'  
+ERROR - 2025-05-13 04:05:15 --> "13"
+ERROR - 2025-05-13 04:05:15 --> clienteeee
+ERROR - 2025-05-13 04:05:15 --> SELECT * FROM creditos 
+                WHERE cliente_id = "13"  
+ERROR - 2025-05-13 04:08:14 --> "13"
+ERROR - 2025-05-13 04:08:14 --> clienteeee
+ERROR - 2025-05-13 04:08:14 --> SELECT * FROM creditos 
+                WHERE cliente_id = "13"  
+ERROR - 2025-05-13 04:08:32 --> "13"
+ERROR - 2025-05-13 04:08:32 --> clienteeee
+ERROR - 2025-05-13 04:08:32 --> SELECT * FROM creditos 
+                WHERE cliente_id = "13"  
+ERROR - 2025-05-13 04:08:41 --> "13"
+ERROR - 2025-05-13 04:08:41 --> clienteeee
+ERROR - 2025-05-13 04:08:41 --> SELECT * FROM creditos 
+                WHERE cliente_id = "13"  
+ERROR - 2025-05-13 04:08:49 --> "13"
+ERROR - 2025-05-13 04:08:49 --> clienteeee
+ERROR - 2025-05-13 04:08:49 --> SELECT * FROM creditos 
+                WHERE cliente_id = "13"  
+ERROR - 2025-05-13 04:10:08 --> "13"
+ERROR - 2025-05-13 04:10:08 --> clienteeee
+ERROR - 2025-05-13 04:10:08 --> SELECT * FROM creditos 
+                WHERE cliente_id = "13"  
+ERROR - 2025-05-13 04:10:11 --> "13"
+ERROR - 2025-05-13 04:10:11 --> clienteeee
+ERROR - 2025-05-13 04:10:11 --> SELECT * FROM creditos 
+                WHERE cliente_id = "13"  
+ERROR - 2025-05-13 04:10:52 --> "13"
+ERROR - 2025-05-13 04:10:52 --> clienteeee
+ERROR - 2025-05-13 04:10:52 --> SELECT * FROM creditos 
+                WHERE cliente_id = "13"  
+ERROR - 2025-05-13 04:11:47 --> "13"
+ERROR - 2025-05-13 04:11:47 --> clienteeee
+ERROR - 2025-05-13 04:11:47 --> SELECT * FROM creditos 
+                WHERE cliente_id = "13"  
+ERROR - 2025-05-13 04:12:51 --> "8"
+ERROR - 2025-05-13 04:12:51 --> clienteeee
+ERROR - 2025-05-13 04:12:51 --> SELECT * FROM creditos 
+                WHERE cliente_id = "8"  
+ERROR - 2025-05-13 04:13:18 --> "8"
+ERROR - 2025-05-13 04:13:18 --> clienteeee
+ERROR - 2025-05-13 04:13:18 --> SELECT * FROM creditos 
+                WHERE cliente_id = "8"  
+ERROR - 2025-05-13 04:14:26 --> "8"
+ERROR - 2025-05-13 04:14:26 --> clienteeee
+ERROR - 2025-05-13 04:14:26 --> SELECT * FROM creditos 
+                WHERE cliente_id = "8"  
+ERROR - 2025-05-13 04:16:33 --> "8"
+ERROR - 2025-05-13 04:16:33 --> clienteeee
+ERROR - 2025-05-13 04:16:33 --> SELECT * FROM creditos 
+                WHERE cliente_id = "8"  
+ERROR - 2025-05-13 04:18:04 --> "8"
+ERROR - 2025-05-13 04:18:04 --> clienteeee
+ERROR - 2025-05-13 04:18:04 --> SELECT * FROM creditos 
+                WHERE cliente_id = "8"  
+ERROR - 2025-05-13 04:18:38 --> "8"
+ERROR - 2025-05-13 04:18:38 --> clienteeee
+ERROR - 2025-05-13 04:18:38 --> SELECT * FROM creditos 
+                WHERE cliente_id = "8"  
+ERROR - 2025-05-13 04:18:45 --> "7"
+ERROR - 2025-05-13 04:18:45 --> clienteeee
+ERROR - 2025-05-13 04:18:45 --> SELECT * FROM creditos 
+                WHERE cliente_id = "7"  
+ERROR - 2025-05-13 04:22:08 --> "7"
+ERROR - 2025-05-13 04:22:08 --> clienteeee
+ERROR - 2025-05-13 04:22:08 --> SELECT * FROM creditos 
+                WHERE cliente_id = "7"  
+ERROR - 2025-05-13 04:25:22 --> "8"
+ERROR - 2025-05-13 04:25:22 --> clienteeee
+ERROR - 2025-05-13 04:25:22 --> SELECT * FROM creditos 
+                WHERE cliente_id = "8"  
+ERROR - 2025-05-13 04:25:36 --> "8"
+ERROR - 2025-05-13 04:25:36 --> clienteeee
+ERROR - 2025-05-13 04:25:36 --> SELECT * FROM creditos 
+                WHERE cliente_id = "8"  
+ERROR - 2025-05-13 04:25:45 --> "8"
+ERROR - 2025-05-13 04:25:45 --> clienteeee
+ERROR - 2025-05-13 04:25:45 --> SELECT * FROM creditos 
+                WHERE cliente_id = "8"  
+ERROR - 2025-05-13 04:25:50 --> "14"
+ERROR - 2025-05-13 04:25:50 --> clienteeee
+ERROR - 2025-05-13 04:25:50 --> SELECT * FROM creditos 
+                WHERE cliente_id = "14"  
+ERROR - 2025-05-13 04:26:11 --> "8"
+ERROR - 2025-05-13 04:26:11 --> clienteeee
+ERROR - 2025-05-13 04:26:11 --> SELECT * FROM creditos 
+                WHERE cliente_id = "8"  
+ERROR - 2025-05-13 04:26:15 --> "14"
+ERROR - 2025-05-13 04:26:15 --> clienteeee
+ERROR - 2025-05-13 04:26:15 --> SELECT * FROM creditos 
+                WHERE cliente_id = "14"  
+ERROR - 2025-05-13 04:26:22 --> "7"
+ERROR - 2025-05-13 04:26:22 --> clienteeee
+ERROR - 2025-05-13 04:26:22 --> SELECT * FROM creditos 
+                WHERE cliente_id = "7"  
+ERROR - 2025-05-13 04:30:02 --> "17"
+ERROR - 2025-05-13 04:30:02 --> clienteeee
+ERROR - 2025-05-13 04:30:02 --> SELECT * FROM creditos 
+                WHERE cliente_id = "17"  
+ERROR - 2025-05-13 04:30:09 --> "7"
+ERROR - 2025-05-13 04:30:09 --> clienteeee
+ERROR - 2025-05-13 04:30:09 --> SELECT * FROM creditos 
+                WHERE cliente_id = "7"  
+ERROR - 2025-05-13 04:34:47 --> "17"
+ERROR - 2025-05-13 04:34:47 --> clienteeee
+ERROR - 2025-05-13 04:34:47 --> SELECT * FROM creditos 
+                WHERE cliente_id = "17"  
+ERROR - 2025-05-13 04:42:54 --> "8"
+ERROR - 2025-05-13 04:42:54 --> clienteeee
+ERROR - 2025-05-13 04:42:54 --> SELECT * FROM creditos 
+                WHERE cliente_id = "8"  
+ERROR - 2025-05-13 04:44:29 --> "8"
+ERROR - 2025-05-13 04:44:29 --> clienteeee
+ERROR - 2025-05-13 04:44:29 --> SELECT * FROM creditos 
+                WHERE cliente_id = "8"  
+ERROR - 2025-05-13 04:45:26 --> "8"
+ERROR - 2025-05-13 04:45:26 --> clienteeee
+ERROR - 2025-05-13 04:45:26 --> SELECT * FROM creditos 
+                WHERE cliente_id = "8"  
+ERROR - 2025-05-13 04:45:49 --> "8"
+ERROR - 2025-05-13 04:45:49 --> clienteeee
+ERROR - 2025-05-13 04:45:49 --> SELECT * FROM creditos 
+                WHERE cliente_id = "8"  
+ERROR - 2025-05-13 04:46:30 --> "8"
+ERROR - 2025-05-13 04:46:30 --> clienteeee
+ERROR - 2025-05-13 04:46:30 --> SELECT * FROM creditos 
+                WHERE cliente_id = "8"  
+ERROR - 2025-05-13 04:47:06 --> "8"
+ERROR - 2025-05-13 04:47:06 --> clienteeee
+ERROR - 2025-05-13 04:47:06 --> SELECT * FROM creditos 
+                WHERE cliente_id = "8"  
+ERROR - 2025-05-13 04:47:15 --> "8"
+ERROR - 2025-05-13 04:47:15 --> clienteeee
+ERROR - 2025-05-13 04:47:15 --> SELECT * FROM creditos 
+                WHERE cliente_id = "8"  
+ERROR - 2025-05-13 04:47:54 --> "8"
+ERROR - 2025-05-13 04:47:54 --> clienteeee
+ERROR - 2025-05-13 04:47:54 --> SELECT * FROM creditos 
+                WHERE cliente_id = "8"  
+ERROR - 2025-05-13 04:48:02 --> "8"
+ERROR - 2025-05-13 04:48:02 --> clienteeee
+ERROR - 2025-05-13 04:48:02 --> SELECT * FROM creditos 
+                WHERE cliente_id = "8"  
+ERROR - 2025-05-13 04:50:07 --> "8"
+ERROR - 2025-05-13 04:50:07 --> clienteeee
+ERROR - 2025-05-13 04:50:07 --> SELECT * FROM creditos 
+                WHERE cliente_id = "8"  
+ERROR - 2025-05-13 04:50:12 --> "8"
+ERROR - 2025-05-13 04:50:12 --> clienteeee
+ERROR - 2025-05-13 04:50:12 --> SELECT * FROM creditos 
+                WHERE cliente_id = "8"  
+ERROR - 2025-05-13 04:50:23 --> "8"
+ERROR - 2025-05-13 04:50:23 --> clienteeee
+ERROR - 2025-05-13 04:50:23 --> SELECT * FROM creditos 
+                WHERE cliente_id = "8"  
+ERROR - 2025-05-13 04:54:16 --> "8"
+ERROR - 2025-05-13 04:54:16 --> clienteeee
+ERROR - 2025-05-13 04:54:16 --> SELECT * FROM creditos 
+                WHERE cliente_id = "8"  
+ERROR - 2025-05-13 04:54:37 --> "8"
+ERROR - 2025-05-13 04:54:37 --> clienteeee
+ERROR - 2025-05-13 04:54:37 --> SELECT * FROM creditos 
+                WHERE cliente_id = "8"  
+ERROR - 2025-05-13 04:55:07 --> "8"
+ERROR - 2025-05-13 04:55:07 --> clienteeee
+ERROR - 2025-05-13 04:55:07 --> SELECT * FROM creditos 
+                WHERE cliente_id = "8"  
+ERROR - 2025-05-13 04:55:44 --> "8"
+ERROR - 2025-05-13 04:55:44 --> clienteeee
+ERROR - 2025-05-13 04:55:44 --> SELECT * FROM creditos 
+                WHERE cliente_id = "8"  
+ERROR - 2025-05-13 04:55:52 --> "8"
+ERROR - 2025-05-13 04:55:52 --> clienteeee
+ERROR - 2025-05-13 04:55:52 --> SELECT * FROM creditos 
+                WHERE cliente_id = "8"  
+ERROR - 2025-05-13 04:57:10 --> "8"
+ERROR - 2025-05-13 04:57:10 --> clienteeee
+ERROR - 2025-05-13 04:57:10 --> SELECT * FROM creditos 
+                WHERE cliente_id = "8"  
+ERROR - 2025-05-13 04:57:25 --> "8"
+ERROR - 2025-05-13 04:57:25 --> clienteeee
+ERROR - 2025-05-13 04:57:25 --> SELECT * FROM creditos 
+                WHERE cliente_id = "8"  
+ERROR - 2025-05-13 04:58:06 --> "8"
+ERROR - 2025-05-13 04:58:06 --> clienteeee
+ERROR - 2025-05-13 04:58:06 --> SELECT * FROM creditos 
+                WHERE cliente_id = "8"  
+ERROR - 2025-05-13 04:58:08 --> "7"
+ERROR - 2025-05-13 04:58:08 --> clienteeee
+ERROR - 2025-05-13 04:58:08 --> SELECT * FROM creditos 
+                WHERE cliente_id = "7"  
+ERROR - 2025-05-13 04:59:01 --> "7"
+ERROR - 2025-05-13 04:59:01 --> clienteeee
+ERROR - 2025-05-13 04:59:01 --> SELECT * FROM creditos 
+                WHERE cliente_id = "7"  
+ERROR - 2025-05-13 04:59:06 --> "7"
+ERROR - 2025-05-13 04:59:06 --> clienteeee
+ERROR - 2025-05-13 04:59:06 --> SELECT * FROM creditos 
+                WHERE cliente_id = "7"  
+ERROR - 2025-05-13 04:59:17 --> "7"
+ERROR - 2025-05-13 04:59:17 --> clienteeee
+ERROR - 2025-05-13 04:59:17 --> SELECT * FROM creditos 
+                WHERE cliente_id = "7"  
+ERROR - 2025-05-13 04:59:28 --> "7"
+ERROR - 2025-05-13 04:59:28 --> clienteeee
+ERROR - 2025-05-13 04:59:28 --> SELECT * FROM creditos 
+                WHERE cliente_id = "7"  
+ERROR - 2025-05-13 05:00:02 --> "7"
+ERROR - 2025-05-13 05:00:02 --> clienteeee
+ERROR - 2025-05-13 05:00:02 --> SELECT * FROM creditos 
+                WHERE cliente_id = "7"  
+ERROR - 2025-05-13 05:00:05 --> "7"
+ERROR - 2025-05-13 05:00:05 --> clienteeee
+ERROR - 2025-05-13 05:00:05 --> SELECT * FROM creditos 
+                WHERE cliente_id = "7"  
+ERROR - 2025-05-13 05:00:06 --> "17"
+ERROR - 2025-05-13 05:00:06 --> clienteeee
+ERROR - 2025-05-13 05:00:06 --> SELECT * FROM pagos 
+                WHERE credito_id = "17"  
+ERROR - 2025-05-13 05:01:58 --> "17"
+ERROR - 2025-05-13 05:01:58 --> clienteeee
+ERROR - 2025-05-13 05:01:58 --> SELECT * FROM pagos 
+                WHERE credito_id = "17"  
+ERROR - 2025-05-13 05:02:32 --> "17"
+ERROR - 2025-05-13 05:02:32 --> clienteeee
+ERROR - 2025-05-13 05:02:32 --> SELECT * FROM pagos 
+                WHERE credito_id = "17"  
+ERROR - 2025-05-13 05:02:53 --> "17"
+ERROR - 2025-05-13 05:02:53 --> clienteeee
+ERROR - 2025-05-13 05:02:53 --> SELECT * FROM pagos 
+                WHERE credito_id = "17"  
+ERROR - 2025-05-13 05:03:25 --> "17"
+ERROR - 2025-05-13 05:03:25 --> clienteeee
+ERROR - 2025-05-13 05:03:25 --> SELECT * FROM pagos 
+                WHERE credito_id = "17"  
+ERROR - 2025-05-13 05:03:34 --> "17"
+ERROR - 2025-05-13 05:03:34 --> clienteeee
+ERROR - 2025-05-13 05:03:34 --> SELECT * FROM pagos 
+                WHERE credito_id = "17"  
+ERROR - 2025-05-13 05:04:15 --> "17"
+ERROR - 2025-05-13 05:04:15 --> clienteeee
+ERROR - 2025-05-13 05:04:15 --> SELECT * FROM pagos 
+                WHERE credito_id = "17"  
+ERROR - 2025-05-13 05:04:46 --> "17"
+ERROR - 2025-05-13 05:04:46 --> clienteeee
+ERROR - 2025-05-13 05:04:46 --> SELECT * FROM pagos 
+                WHERE credito_id = "17"  
+ERROR - 2025-05-13 05:05:03 --> "7"
+ERROR - 2025-05-13 05:05:03 --> clienteeee
+ERROR - 2025-05-13 05:05:03 --> SELECT * FROM creditos 
+                WHERE cliente_id = "7"  
+ERROR - 2025-05-13 05:05:04 --> "18"
+ERROR - 2025-05-13 05:05:04 --> clienteeee
+ERROR - 2025-05-13 05:05:04 --> SELECT * FROM pagos 
+                WHERE credito_id = "18"  
+ERROR - 2025-05-13 05:09:31 --> "17"
+ERROR - 2025-05-13 05:09:31 --> clienteeee
+ERROR - 2025-05-13 05:09:31 --> SELECT * FROM transacciones 
+                WHERE id_credito = "17"  
+ERROR - 2025-05-13 05:10:04 --> "17"
+ERROR - 2025-05-13 05:10:04 --> clienteeee
+ERROR - 2025-05-13 05:10:04 --> SELECT * FROM transacciones 
+                WHERE id_credito = "17"
+ERROR - 2025-05-13 05:10:59 --> "17"
+ERROR - 2025-05-13 05:10:59 --> clienteeee
+ERROR - 2025-05-13 05:10:59 --> SELECT * FROM transacciones 
+                WHERE id_credito = "17"
+ERROR - 2025-05-13 05:11:31 --> "17"
+ERROR - 2025-05-13 05:11:31 --> clienteeee
+ERROR - 2025-05-13 05:11:31 --> SELECT * FROM transacciones 
+                WHERE id_credito = "17"
+ERROR - 2025-05-13 05:13:10 --> "17"
+ERROR - 2025-05-13 05:13:10 --> clienteeee
+ERROR - 2025-05-13 05:13:10 --> SELECT * FROM transacciones 
+                WHERE id_credito = "17"
+ERROR - 2025-05-13 05:13:12 --> "7"
+ERROR - 2025-05-13 05:13:12 --> clienteeee
+ERROR - 2025-05-13 05:13:12 --> SELECT * FROM creditos 
+                WHERE cliente_id = "7"  
+ERROR - 2025-05-13 05:13:14 --> "17"
+ERROR - 2025-05-13 05:13:14 --> clienteeee
+ERROR - 2025-05-13 05:13:14 --> SELECT * FROM transacciones 
+                WHERE id_credito = "17"
+ERROR - 2025-05-13 05:13:22 --> "18"
+ERROR - 2025-05-13 05:13:22 --> clienteeee
+ERROR - 2025-05-13 05:13:22 --> SELECT * FROM transacciones 
+                WHERE id_credito = "18"
+ERROR - 2025-05-13 05:13:32 --> "7"
+ERROR - 2025-05-13 05:13:32 --> clienteeee
+ERROR - 2025-05-13 05:13:32 --> SELECT * FROM creditos 
+                WHERE cliente_id = "7"  
+ERROR - 2025-05-13 05:13:41 --> "17"
+ERROR - 2025-05-13 05:13:41 --> clienteeee
+ERROR - 2025-05-13 05:13:41 --> SELECT * FROM transacciones 
+                WHERE id_credito = "17"
+ERROR - 2025-05-13 05:14:03 --> "17"
+ERROR - 2025-05-13 05:14:03 --> clienteeee
+ERROR - 2025-05-13 05:14:03 --> SELECT * FROM transacciones 
+                WHERE id_credito = "17"
+ERROR - 2025-05-13 05:20:29 --> "14"
+ERROR - 2025-05-13 05:20:29 --> clienteeee
+ERROR - 2025-05-13 05:20:29 --> SELECT * FROM creditos 
+                WHERE cliente_id = "14"  
+ERROR - 2025-05-13 05:20:34 --> "22"
+ERROR - 2025-05-13 05:20:34 --> clienteeee
+ERROR - 2025-05-13 05:20:34 --> SELECT * FROM transacciones 
+                WHERE id_credito = "22"
+ERROR - 2025-05-13 05:20:45 --> "9"
+ERROR - 2025-05-13 05:20:45 --> clienteeee
+ERROR - 2025-05-13 05:20:45 --> SELECT * FROM creditos 
+                WHERE cliente_id = "9"  
+ERROR - 2025-05-13 05:20:47 --> "8"
+ERROR - 2025-05-13 05:20:47 --> clienteeee
+ERROR - 2025-05-13 05:20:47 --> SELECT * FROM creditos 
+                WHERE cliente_id = "8"  
+ERROR - 2025-05-13 05:20:49 --> "7"
+ERROR - 2025-05-13 05:20:49 --> clienteeee
+ERROR - 2025-05-13 05:20:49 --> SELECT * FROM creditos 
+                WHERE cliente_id = "7"  
+ERROR - 2025-05-13 05:21:02 --> "10"
+ERROR - 2025-05-13 05:21:02 --> clienteeee
+ERROR - 2025-05-13 05:21:02 --> SELECT * FROM creditos 
+                WHERE cliente_id = "10"  
+ERROR - 2025-05-13 05:21:09 --> "13"
+ERROR - 2025-05-13 05:21:09 --> clienteeee
+ERROR - 2025-05-13 05:21:09 --> SELECT * FROM creditos 
+                WHERE cliente_id = "13"  
+ERROR - 2025-05-13 05:25:50 --> "7"
+ERROR - 2025-05-13 05:25:50 --> clienteeee
+ERROR - 2025-05-13 05:25:50 --> SELECT * FROM creditos 
+                WHERE cliente_id = "7"  
+ERROR - 2025-05-13 05:25:51 --> "18"
+ERROR - 2025-05-13 05:25:51 --> clienteeee
+ERROR - 2025-05-13 05:25:51 --> SELECT * FROM transacciones 
+                WHERE id_credito = "18"
+ERROR - 2025-05-13 15:45:11 --> "14"
+ERROR - 2025-05-13 15:45:11 --> clienteeee
+ERROR - 2025-05-13 15:45:11 --> SELECT * FROM creditos 
+                WHERE cliente_id = "14"  
+ERROR - 2025-05-13 15:51:54 --> "7"
+ERROR - 2025-05-13 15:51:54 --> clienteeee
+ERROR - 2025-05-13 15:51:54 --> SELECT * FROM creditos 
+                WHERE cliente_id = "7"  
+ERROR - 2025-05-13 15:52:01 --> "17"
+ERROR - 2025-05-13 15:52:01 --> clienteeee
+ERROR - 2025-05-13 15:52:01 --> SELECT * FROM transacciones 
+                WHERE id_credito = "17"
+ERROR - 2025-05-13 15:53:20 --> "9"
+ERROR - 2025-05-13 15:53:20 --> clienteeee
+ERROR - 2025-05-13 15:53:20 --> SELECT * FROM creditos 
+                WHERE cliente_id = "9"  
+ERROR - 2025-05-13 15:53:44 --> "7"
+ERROR - 2025-05-13 15:53:44 --> clienteeee
+ERROR - 2025-05-13 15:53:44 --> SELECT * FROM creditos 
+                WHERE cliente_id = "7"  
+ERROR - 2025-05-13 15:53:51 --> "17"
+ERROR - 2025-05-13 15:53:51 --> clienteeee
+ERROR - 2025-05-13 15:53:51 --> SELECT * FROM transacciones 
+                WHERE id_credito = "17"
+ERROR - 2025-05-13 15:53:56 --> "7"
+ERROR - 2025-05-13 15:53:56 --> clienteeee
+ERROR - 2025-05-13 15:53:56 --> SELECT * FROM creditos 
+                WHERE cliente_id = "7"  
+ERROR - 2025-05-13 15:54:05 --> "17"
+ERROR - 2025-05-13 15:54:05 --> clienteeee
+ERROR - 2025-05-13 15:54:05 --> SELECT * FROM transacciones 
+                WHERE id_credito = "17"
+ERROR - 2025-05-13 15:54:14 --> "17"
+ERROR - 2025-05-13 15:54:14 --> clienteeee
+ERROR - 2025-05-13 15:54:14 --> SELECT * FROM transacciones 
+                WHERE id_credito = "17"
+ERROR - 2025-05-13 22:16:25 --> "20"
+ERROR - 2025-05-13 22:16:25 --> clienteeee
+ERROR - 2025-05-13 22:16:25 --> SELECT * FROM creditos 
+                WHERE cliente_id = "20"  
+ERROR - 2025-05-13 22:16:32 --> "20"
+ERROR - 2025-05-13 22:16:32 --> clienteeee
+ERROR - 2025-05-13 22:16:32 --> SELECT * FROM creditos 
+                WHERE cliente_id = "20"  
+ERROR - 2025-05-13 22:20:06 --> "20"
+ERROR - 2025-05-13 22:20:06 --> clienteeee
+ERROR - 2025-05-13 22:20:06 --> SELECT * FROM creditos 
+                WHERE cliente_id = "20"  
+ERROR - 2025-05-13 22:20:44 --> "20"
+ERROR - 2025-05-13 22:20:44 --> clienteeee
+ERROR - 2025-05-13 22:20:44 --> SELECT * FROM creditos 
+                WHERE cliente_id = "20"  
+ERROR - 2025-05-13 22:23:02 --> "20"
+ERROR - 2025-05-13 22:23:02 --> clienteeee
+ERROR - 2025-05-13 22:23:02 --> SELECT * FROM creditos 
+                WHERE cliente_id = "20"  
+ERROR - 2025-05-13 22:26:09 --> "20"
+ERROR - 2025-05-13 22:26:09 --> clienteeee
+ERROR - 2025-05-13 22:26:09 --> SELECT * FROM creditos 
+                WHERE cliente_id = "20"  
+ERROR - 2025-05-13 22:31:33 --> "20"
+ERROR - 2025-05-13 22:31:33 --> clienteeee
+ERROR - 2025-05-13 22:31:33 --> SELECT * FROM creditos 
+                WHERE cliente_id = "20"  
+ERROR - 2025-05-13 22:34:41 --> "20"
+ERROR - 2025-05-13 22:34:41 --> clienteeee
+ERROR - 2025-05-13 22:34:41 --> SELECT * FROM creditos 
+                WHERE cliente_id = "20"  
+ERROR - 2025-05-13 22:37:18 --> "20"
+ERROR - 2025-05-13 22:37:18 --> clienteeee
+ERROR - 2025-05-13 22:37:18 --> SELECT * FROM creditos 
+                WHERE cliente_id = "20"  
+ERROR - 2025-05-13 22:37:40 --> "20"
+ERROR - 2025-05-13 22:37:40 --> clienteeee
+ERROR - 2025-05-13 22:37:40 --> SELECT * FROM creditos 
+                WHERE cliente_id = "20"  
+ERROR - 2025-05-13 22:38:09 --> "20"
+ERROR - 2025-05-13 22:38:09 --> clienteeee
+ERROR - 2025-05-13 22:38:09 --> SELECT * FROM creditos 
+                WHERE cliente_id = "20"  
+ERROR - 2025-05-13 22:38:58 --> "20"
+ERROR - 2025-05-13 22:38:58 --> clienteeee
+ERROR - 2025-05-13 22:38:58 --> SELECT * FROM creditos 
+                WHERE cliente_id = "20"  
+ERROR - 2025-05-13 22:39:50 --> "20"
+ERROR - 2025-05-13 22:39:50 --> clienteeee
+ERROR - 2025-05-13 22:39:50 --> SELECT * FROM creditos 
+                WHERE cliente_id = "20"  
+ERROR - 2025-05-13 22:40:18 --> "20"
+ERROR - 2025-05-13 22:40:18 --> clienteeee
+ERROR - 2025-05-13 22:40:18 --> SELECT * FROM creditos 
+                WHERE cliente_id = "20"  
+ERROR - 2025-05-13 22:40:52 --> "20"
+ERROR - 2025-05-13 22:40:52 --> clienteeee
+ERROR - 2025-05-13 22:40:52 --> SELECT * FROM creditos 
+                WHERE cliente_id = "20"  
+ERROR - 2025-05-13 22:40:56 --> "20"
+ERROR - 2025-05-13 22:40:56 --> clienteeee
+ERROR - 2025-05-13 22:40:56 --> SELECT * FROM creditos 
+                WHERE cliente_id = "20"  
+ERROR - 2025-05-13 22:43:09 --> "20"
+ERROR - 2025-05-13 22:43:09 --> clienteeee
+ERROR - 2025-05-13 22:43:09 --> SELECT * FROM creditos 
+                WHERE cliente_id = "20"  
+ERROR - 2025-05-13 22:43:24 --> "20"
+ERROR - 2025-05-13 22:43:24 --> clienteeee
+ERROR - 2025-05-13 22:43:24 --> SELECT * FROM creditos 
+                WHERE cliente_id = "20"  
+ERROR - 2025-05-13 22:45:03 --> "20"
+ERROR - 2025-05-13 22:45:03 --> clienteeee
+ERROR - 2025-05-13 22:45:03 --> SELECT * FROM creditos 
+                WHERE cliente_id = "20"  
+ERROR - 2025-05-13 22:45:12 --> "20"
+ERROR - 2025-05-13 22:45:12 --> clienteeee
+ERROR - 2025-05-13 22:45:12 --> SELECT * FROM creditos 
+                WHERE cliente_id = "20"  
+ERROR - 2025-05-13 22:46:08 --> "20"
+ERROR - 2025-05-13 22:46:08 --> clienteeee
+ERROR - 2025-05-13 22:46:08 --> SELECT * FROM creditos 
+                WHERE cliente_id = "20"  
+ERROR - 2025-05-13 22:46:24 --> "20"
+ERROR - 2025-05-13 22:46:24 --> clienteeee
+ERROR - 2025-05-13 22:46:24 --> SELECT * FROM creditos 
+                WHERE cliente_id = "20"  
+ERROR - 2025-05-13 22:46:38 --> "20"
+ERROR - 2025-05-13 22:46:38 --> clienteeee
+ERROR - 2025-05-13 22:46:38 --> SELECT * FROM creditos 
+                WHERE cliente_id = "20"  
+ERROR - 2025-05-13 22:46:56 --> "20"
+ERROR - 2025-05-13 22:46:56 --> clienteeee
+ERROR - 2025-05-13 22:46:56 --> SELECT * FROM creditos 
+                WHERE cliente_id = "20"  
+ERROR - 2025-05-13 22:47:25 --> "20"
+ERROR - 2025-05-13 22:47:25 --> clienteeee
+ERROR - 2025-05-13 22:47:25 --> SELECT * FROM creditos 
+                WHERE cliente_id = "20"  
+ERROR - 2025-05-13 22:48:28 --> "20"
+ERROR - 2025-05-13 22:48:28 --> clienteeee
+ERROR - 2025-05-13 22:48:28 --> SELECT * FROM creditos 
+                WHERE cliente_id = "20"  
+ERROR - 2025-05-13 22:49:47 --> "20"
+ERROR - 2025-05-13 22:49:47 --> clienteeee
+ERROR - 2025-05-13 22:49:47 --> SELECT * FROM creditos 
+                WHERE cliente_id = "20"  
+ERROR - 2025-05-13 22:50:41 --> "20"
+ERROR - 2025-05-13 22:50:41 --> clienteeee
+ERROR - 2025-05-13 22:50:41 --> SELECT * FROM creditos 
+                WHERE cliente_id = "20"  
+ERROR - 2025-05-13 22:50:55 --> "20"
+ERROR - 2025-05-13 22:50:55 --> clienteeee
+ERROR - 2025-05-13 22:50:55 --> SELECT * FROM creditos 
+                WHERE cliente_id = "20"  
+ERROR - 2025-05-13 22:51:25 --> "20"
+ERROR - 2025-05-13 22:51:25 --> clienteeee
+ERROR - 2025-05-13 22:51:25 --> SELECT * FROM creditos 
+                WHERE cliente_id = "20"  
+ERROR - 2025-05-13 22:51:55 --> "20"
+ERROR - 2025-05-13 22:51:55 --> clienteeee
+ERROR - 2025-05-13 22:51:55 --> SELECT * FROM creditos 
+                WHERE cliente_id = "20"  
+ERROR - 2025-05-13 22:52:06 --> "20"
+ERROR - 2025-05-13 22:52:06 --> clienteeee
+ERROR - 2025-05-13 22:52:06 --> SELECT * FROM creditos 
+                WHERE cliente_id = "20"  
+ERROR - 2025-05-13 22:52:30 --> "20"
+ERROR - 2025-05-13 22:52:30 --> clienteeee
+ERROR - 2025-05-13 22:52:30 --> SELECT * FROM creditos 
+                WHERE cliente_id = "20"  
+ERROR - 2025-05-13 22:53:49 --> "20"
+ERROR - 2025-05-13 22:53:49 --> clienteeee
+ERROR - 2025-05-13 22:53:49 --> SELECT * FROM creditos 
+                WHERE cliente_id = "20"  
+ERROR - 2025-05-13 22:54:41 --> "20"
+ERROR - 2025-05-13 22:54:41 --> clienteeee
+ERROR - 2025-05-13 22:54:41 --> SELECT * FROM creditos 
+                WHERE cliente_id = "20"  
+ERROR - 2025-05-13 22:54:59 --> "20"
+ERROR - 2025-05-13 22:54:59 --> clienteeee
+ERROR - 2025-05-13 22:54:59 --> SELECT * FROM creditos 
+                WHERE cliente_id = "20"  
+ERROR - 2025-05-13 22:55:22 --> "20"
+ERROR - 2025-05-13 22:55:22 --> clienteeee
+ERROR - 2025-05-13 22:55:22 --> SELECT * FROM creditos 
+                WHERE cliente_id = "20"  
+ERROR - 2025-05-13 22:56:24 --> "20"
+ERROR - 2025-05-13 22:56:24 --> clienteeee
+ERROR - 2025-05-13 22:56:24 --> SELECT * FROM creditos 
+                WHERE cliente_id = "20"  
+ERROR - 2025-05-13 22:57:55 --> "20"
+ERROR - 2025-05-13 22:57:55 --> clienteeee
+ERROR - 2025-05-13 22:57:55 --> SELECT * FROM creditos 
+                WHERE cliente_id = "20"  
+ERROR - 2025-05-13 22:59:38 --> "20"
+ERROR - 2025-05-13 22:59:38 --> clienteeee
+ERROR - 2025-05-13 22:59:38 --> SELECT * FROM creditos 
+                WHERE cliente_id = "20"  
+ERROR - 2025-05-13 23:06:22 --> "20"
+ERROR - 2025-05-13 23:06:22 --> clienteeee
+ERROR - 2025-05-13 23:06:22 --> SELECT * FROM creditos 
+                WHERE cliente_id = "20"  
+ERROR - 2025-05-13 23:06:32 --> "20"
+ERROR - 2025-05-13 23:06:32 --> clienteeee
+ERROR - 2025-05-13 23:06:32 --> SELECT * FROM creditos 
+                WHERE cliente_id = "20"  
+ERROR - 2025-05-13 23:21:20 --> "7"
+ERROR - 2025-05-13 23:21:20 --> clienteeee
+ERROR - 2025-05-13 23:21:20 --> SELECT * FROM creditos 
+                WHERE cliente_id = "7"  
+ERROR - 2025-05-13 23:22:43 --> "7"
+ERROR - 2025-05-13 23:22:43 --> clienteeee
+ERROR - 2025-05-13 23:22:43 --> SELECT * FROM creditos 
+                WHERE cliente_id = "7"  
+ERROR - 2025-05-13 23:24:26 --> "7"
+ERROR - 2025-05-13 23:24:26 --> clienteeee
+ERROR - 2025-05-13 23:24:26 --> SELECT * FROM creditos 
+                WHERE cliente_id = "7"  
+ERROR - 2025-05-13 23:25:06 --> "7"
+ERROR - 2025-05-13 23:25:06 --> clienteeee
+ERROR - 2025-05-13 23:25:06 --> SELECT * FROM creditos 
+                WHERE cliente_id = "7"  
+ERROR - 2025-05-13 23:25:12 --> "7"
+ERROR - 2025-05-13 23:25:12 --> clienteeee
+ERROR - 2025-05-13 23:25:12 --> SELECT * FROM creditos 
+                WHERE cliente_id = "7"  
+ERROR - 2025-05-13 23:26:11 --> "7"
+ERROR - 2025-05-13 23:26:11 --> clienteeee
+ERROR - 2025-05-13 23:26:11 --> SELECT * FROM creditos 
+                WHERE cliente_id = "7"  
+ERROR - 2025-05-13 23:26:37 --> "7"
+ERROR - 2025-05-13 23:26:37 --> clienteeee
+ERROR - 2025-05-13 23:26:37 --> SELECT * FROM creditos 
+                WHERE cliente_id = "7"  
+ERROR - 2025-05-13 23:26:41 --> "7"
+ERROR - 2025-05-13 23:26:41 --> clienteeee
+ERROR - 2025-05-13 23:26:41 --> SELECT * FROM creditos 
+                WHERE cliente_id = "7"  
+ERROR - 2025-05-13 23:26:59 --> "7"
+ERROR - 2025-05-13 23:26:59 --> clienteeee
+ERROR - 2025-05-13 23:26:59 --> SELECT * FROM creditos 
+                WHERE cliente_id = "7"  
+ERROR - 2025-05-13 23:27:47 --> "7"
+ERROR - 2025-05-13 23:27:47 --> clienteeee
+ERROR - 2025-05-13 23:27:47 --> SELECT * FROM creditos 
+                WHERE cliente_id = "7"  
+ERROR - 2025-05-13 23:28:13 --> "7"
+ERROR - 2025-05-13 23:28:13 --> clienteeee
+ERROR - 2025-05-13 23:28:13 --> SELECT * FROM creditos 
+                WHERE cliente_id = "7"  
+ERROR - 2025-05-13 23:28:43 --> "7"
+ERROR - 2025-05-13 23:28:43 --> clienteeee
+ERROR - 2025-05-13 23:28:43 --> SELECT * FROM creditos 
+                WHERE cliente_id = "7"  
+ERROR - 2025-05-13 23:29:09 --> "7"
+ERROR - 2025-05-13 23:29:09 --> clienteeee
+ERROR - 2025-05-13 23:29:09 --> SELECT * FROM creditos 
+                WHERE cliente_id = "7"  
+ERROR - 2025-05-13 23:29:56 --> "7"
+ERROR - 2025-05-13 23:29:56 --> clienteeee
+ERROR - 2025-05-13 23:29:56 --> SELECT * FROM creditos 
+                WHERE cliente_id = "7"  
+ERROR - 2025-05-13 23:30:16 --> "7"
+ERROR - 2025-05-13 23:30:16 --> clienteeee
+ERROR - 2025-05-13 23:30:16 --> SELECT * FROM creditos 
+                WHERE cliente_id = "7"  
+ERROR - 2025-05-13 23:30:37 --> "7"
+ERROR - 2025-05-13 23:30:37 --> clienteeee
+ERROR - 2025-05-13 23:30:37 --> SELECT * FROM creditos 
+                WHERE cliente_id = "7"  
+ERROR - 2025-05-13 23:30:45 --> "7"
+ERROR - 2025-05-13 23:30:45 --> clienteeee
+ERROR - 2025-05-13 23:30:45 --> SELECT * FROM creditos 
+                WHERE cliente_id = "7"  
+ERROR - 2025-05-13 23:30:50 --> "7"
+ERROR - 2025-05-13 23:30:50 --> clienteeee
+ERROR - 2025-05-13 23:30:50 --> SELECT * FROM creditos 
+                WHERE cliente_id = "7"  
+ERROR - 2025-05-13 23:31:29 --> "7"
+ERROR - 2025-05-13 23:31:29 --> clienteeee
+ERROR - 2025-05-13 23:31:29 --> SELECT * FROM creditos 
+                WHERE cliente_id = "7"  
+ERROR - 2025-05-13 23:34:08 --> "7"
+ERROR - 2025-05-13 23:34:08 --> clienteeee
+ERROR - 2025-05-13 23:34:08 --> SELECT * FROM creditos 
+                WHERE cliente_id = "7"  
+ERROR - 2025-05-13 23:35:32 --> "7"
+ERROR - 2025-05-13 23:35:32 --> clienteeee
+ERROR - 2025-05-13 23:35:32 --> SELECT * FROM creditos 
+                WHERE cliente_id = "7"  
+ERROR - 2025-05-13 23:35:38 --> "7"
+ERROR - 2025-05-13 23:35:38 --> clienteeee
+ERROR - 2025-05-13 23:35:38 --> SELECT * FROM creditos 
+                WHERE cliente_id = "7"  
+ERROR - 2025-05-13 23:35:42 --> "7"
+ERROR - 2025-05-13 23:35:42 --> clienteeee
+ERROR - 2025-05-13 23:35:42 --> SELECT * FROM creditos 
+                WHERE cliente_id = "7"  
+ERROR - 2025-05-13 23:36:58 --> Cantidad de pagos: 7
+ERROR - 2025-05-13 23:36:58 --> Fecha Pago: 2025-05-20
+ERROR - 2025-05-13 23:36:58 --> Monto Pago antes de conversión: 17000
+ERROR - 2025-05-13 23:36:58 --> Monto Pago después de conversión: 17000
+ERROR - 2025-05-13 23:36:58 --> Fecha Pago: 2025-05-27
+ERROR - 2025-05-13 23:36:58 --> Monto Pago antes de conversión: 17000
+ERROR - 2025-05-13 23:36:58 --> Monto Pago después de conversión: 17000
+ERROR - 2025-05-13 23:36:58 --> Fecha Pago: 2025-06-03
+ERROR - 2025-05-13 23:36:58 --> Monto Pago antes de conversión: 17000
+ERROR - 2025-05-13 23:36:58 --> Monto Pago después de conversión: 17000
+ERROR - 2025-05-13 23:36:58 --> Fecha Pago: 2025-06-10
+ERROR - 2025-05-13 23:36:58 --> Monto Pago antes de conversión: 17000
+ERROR - 2025-05-13 23:36:58 --> Monto Pago después de conversión: 17000
+ERROR - 2025-05-13 23:36:58 --> Fecha Pago: 2025-06-17
+ERROR - 2025-05-13 23:36:58 --> Monto Pago antes de conversión: 17000
+ERROR - 2025-05-13 23:36:58 --> Monto Pago después de conversión: 17000
+ERROR - 2025-05-13 23:36:58 --> Fecha Pago: 2025-06-24
+ERROR - 2025-05-13 23:36:58 --> Monto Pago antes de conversión: 17000
+ERROR - 2025-05-13 23:36:58 --> Monto Pago después de conversión: 17000
+ERROR - 2025-05-13 23:36:58 --> Fecha Pago: 2025-07-01
+ERROR - 2025-05-13 23:36:58 --> Monto Pago antes de conversión: 18000
+ERROR - 2025-05-13 23:36:58 --> Monto Pago después de conversión: 18000
+ERROR - 2025-05-13 23:37:14 --> "20"
+ERROR - 2025-05-13 23:37:14 --> clienteeee
+ERROR - 2025-05-13 23:37:14 --> SELECT * FROM creditos 
+                WHERE cliente_id = "20"  
+ERROR - 2025-05-13 23:37:25 --> "20"
+ERROR - 2025-05-13 23:37:25 --> clienteeee
+ERROR - 2025-05-13 23:37:25 --> SELECT * FROM creditos 
+                WHERE cliente_id = "20"  
+ERROR - 2025-05-13 23:38:42 --> "20"
+ERROR - 2025-05-13 23:38:42 --> clienteeee
+ERROR - 2025-05-13 23:38:42 --> SELECT * FROM creditos 
+                WHERE cliente_id = "20"  
+ERROR - 2025-05-13 23:39:33 --> "20"
+ERROR - 2025-05-13 23:39:33 --> clienteeee
+ERROR - 2025-05-13 23:39:33 --> SELECT * FROM creditos 
+                WHERE cliente_id = "20"  
+ERROR - 2025-05-13 23:39:46 --> "20"
+ERROR - 2025-05-13 23:39:46 --> clienteeee
+ERROR - 2025-05-13 23:39:46 --> SELECT * FROM creditos 
+                WHERE cliente_id = "20"  
+ERROR - 2025-05-13 23:40:20 --> "20"
+ERROR - 2025-05-13 23:40:20 --> clienteeee
+ERROR - 2025-05-13 23:40:20 --> SELECT * FROM creditos 
+                WHERE cliente_id = "20"  
+ERROR - 2025-05-13 23:40:48 --> "20"
+ERROR - 2025-05-13 23:40:48 --> clienteeee
+ERROR - 2025-05-13 23:40:48 --> SELECT * FROM creditos 
+                WHERE cliente_id = "20"  
+ERROR - 2025-05-13 23:41:06 --> "20"
+ERROR - 2025-05-13 23:41:06 --> clienteeee
+ERROR - 2025-05-13 23:41:06 --> SELECT * FROM creditos 
+                WHERE cliente_id = "20"  
+ERROR - 2025-05-13 23:42:31 --> "20"
+ERROR - 2025-05-13 23:42:31 --> clienteeee
+ERROR - 2025-05-13 23:42:31 --> SELECT * FROM creditos 
+                WHERE cliente_id = "20"  
+ERROR - 2025-05-13 23:42:58 --> "20"
+ERROR - 2025-05-13 23:42:58 --> clienteeee
+ERROR - 2025-05-13 23:42:58 --> SELECT * FROM creditos 
+                WHERE cliente_id = "20"  
+ERROR - 2025-05-13 23:43:13 --> "29"
+ERROR - 2025-05-13 23:43:13 --> clienteeee
+ERROR - 2025-05-13 23:43:13 --> SELECT * FROM transacciones 
+                WHERE id_credito = "29"
+ERROR - 2025-05-13 23:44:50 --> "20"
+ERROR - 2025-05-13 23:44:50 --> clienteeee
+ERROR - 2025-05-13 23:44:50 --> SELECT * FROM creditos 
+                WHERE cliente_id = "20"  
+ERROR - 2025-05-13 23:45:21 --> "20"
+ERROR - 2025-05-13 23:45:21 --> clienteeee
+ERROR - 2025-05-13 23:45:21 --> SELECT * FROM creditos 
+                WHERE cliente_id = "20"  
+ERROR - 2025-05-13 23:47:00 --> "20"
+ERROR - 2025-05-13 23:47:00 --> clienteeee
+ERROR - 2025-05-13 23:47:00 --> SELECT * FROM creditos 
+                WHERE cliente_id = "20"  
+ERROR - 2025-05-13 23:47:28 --> "20"
+ERROR - 2025-05-13 23:47:28 --> clienteeee
+ERROR - 2025-05-13 23:47:28 --> SELECT * FROM creditos 
+                WHERE cliente_id = "20"  
+ERROR - 2025-05-13 23:47:52 --> "20"
+ERROR - 2025-05-13 23:47:52 --> clienteeee
+ERROR - 2025-05-13 23:47:52 --> SELECT * FROM creditos 
+                WHERE cliente_id = "20"  
+ERROR - 2025-05-13 23:49:20 --> "20"
+ERROR - 2025-05-13 23:49:20 --> clienteeee
+ERROR - 2025-05-13 23:49:20 --> SELECT * FROM creditos 
+                WHERE cliente_id = "20"  
+ERROR - 2025-05-13 23:50:39 --> 20
+ERROR - 2025-05-13 23:50:39 --> clienteeee
+ERROR - 2025-05-13 23:50:39 --> SELECT * FROM creditos 
+                WHERE cliente_id = 20  
+ERROR - 2025-05-13 23:51:19 --> 20
+ERROR - 2025-05-13 23:51:19 --> clienteeee
+ERROR - 2025-05-13 23:51:19 --> SELECT * FROM creditos 
+                WHERE cliente_id = 20  
+ERROR - 2025-05-13 23:51:35 --> 20
+ERROR - 2025-05-13 23:51:35 --> clienteeee
+ERROR - 2025-05-13 23:51:35 --> SELECT * FROM creditos 
+                WHERE cliente_id = 20  
+ERROR - 2025-05-13 23:52:00 --> 20
+ERROR - 2025-05-13 23:52:00 --> clienteeee
+ERROR - 2025-05-13 23:52:00 --> SELECT * FROM creditos 
+                WHERE cliente_id = 20  
+ERROR - 2025-05-13 23:58:19 --> 20
+ERROR - 2025-05-13 23:58:19 --> clienteeee
+ERROR - 2025-05-13 23:58:19 --> SELECT * FROM creditos 
+                WHERE cliente_id = 20  
+ERROR - 2025-05-13 23:59:01 --> 20
+ERROR - 2025-05-13 23:59:01 --> clienteeee
+ERROR - 2025-05-13 23:59:01 --> SELECT * FROM creditos 
+                WHERE cliente_id = 20  
+ERROR - 2025-05-13 23:59:25 --> 20
+ERROR - 2025-05-13 23:59:25 --> clienteeee
+ERROR - 2025-05-13 23:59:25 --> SELECT * FROM creditos 
+                WHERE cliente_id = 20  
+ERROR - 2025-05-13 23:59:29 --> "29"
+ERROR - 2025-05-13 23:59:29 --> clienteeee
+ERROR - 2025-05-13 23:59:29 --> SELECT * FROM transacciones 
+                WHERE id_credito = "29"

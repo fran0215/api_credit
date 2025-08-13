@@ -1,0 +1,12 @@
+ERROR - 2025-06-29 22:55:00 --> 29
+ERROR - 2025-06-29 22:55:00 --> clienteeee
+ERROR - 2025-06-29 22:55:00 --> SELECT * FROM creditos 
+                WHERE cliente_id = 29 AND estado != 'eliminado'
+ERROR - 2025-06-29 22:55:08 --> 29
+ERROR - 2025-06-29 22:55:08 --> clienteeee
+ERROR - 2025-06-29 22:55:08 --> SELECT * FROM creditos 
+                WHERE cliente_id = 29 AND estado != 'eliminado'
+ERROR - 2025-06-29 22:55:12 --> 26
+ERROR - 2025-06-29 22:55:12 --> clienteeee
+ERROR - 2025-06-29 22:55:12 --> SELECT * FROM creditos 
+                WHERE cliente_id = 26 AND estado != 'eliminado'

@@ -1,0 +1,723 @@
+ERROR - 2025-07-19 01:05:17 --> 43
+ERROR - 2025-07-19 01:05:17 --> clienteeee
+ERROR - 2025-07-19 01:05:17 --> SELECT * FROM creditos 
+                WHERE cliente_id = 43 AND estado != 'eliminado'
+ERROR - 2025-07-19 01:05:26 --> SELECT * FROM transacciones 
+                WHERE id_credito = "71"
+ERROR - 2025-07-19 01:05:47 --> SELECT * FROM transacciones 
+                WHERE id_credito = "71"
+ERROR - 2025-07-19 01:06:10 --> SELECT * FROM transacciones 
+                WHERE id_credito = "71"
+ERROR - 2025-07-19 01:06:31 --> SELECT * FROM transacciones 
+                WHERE id_credito = "71"
+ERROR - 2025-07-19 01:06:54 --> SELECT * FROM transacciones 
+                WHERE id_credito = "71"
+ERROR - 2025-07-19 01:07:10 --> SELECT * FROM transacciones 
+                WHERE id_credito = "71"
+ERROR - 2025-07-19 01:07:30 --> SELECT * FROM transacciones 
+                WHERE id_credito = "71"
+ERROR - 2025-07-19 01:07:44 --> SELECT * FROM transacciones 
+                WHERE id_credito = "71"
+ERROR - 2025-07-19 01:08:02 --> SELECT * FROM transacciones 
+                WHERE id_credito = "71"
+ERROR - 2025-07-19 01:08:17 --> SELECT * FROM transacciones 
+                WHERE id_credito = "71"
+ERROR - 2025-07-19 01:08:36 --> SELECT * FROM transacciones 
+                WHERE id_credito = "71"
+ERROR - 2025-07-19 01:08:49 --> SELECT * FROM transacciones 
+                WHERE id_credito = "71"
+ERROR - 2025-07-19 01:09:01 --> SELECT * FROM transacciones 
+                WHERE id_credito = "71"
+ERROR - 2025-07-19 01:09:16 --> SELECT * FROM transacciones 
+                WHERE id_credito = "71"
+ERROR - 2025-07-19 01:09:30 --> SELECT * FROM transacciones 
+                WHERE id_credito = "71"
+ERROR - 2025-07-19 01:09:54 --> SELECT * FROM transacciones 
+                WHERE id_credito = "71"
+ERROR - 2025-07-19 01:10:02 --> 32
+ERROR - 2025-07-19 01:10:02 --> clienteeee
+ERROR - 2025-07-19 01:10:02 --> SELECT * FROM creditos 
+                WHERE cliente_id = 32 AND estado != 'eliminado'
+ERROR - 2025-07-19 01:10:06 --> 33
+ERROR - 2025-07-19 01:10:06 --> clienteeee
+ERROR - 2025-07-19 01:10:06 --> SELECT * FROM creditos 
+                WHERE cliente_id = 33 AND estado != 'eliminado'
+ERROR - 2025-07-19 01:10:07 --> SELECT * FROM transacciones 
+                WHERE id_credito = "54"
+ERROR - 2025-07-19 01:10:16 --> SELECT * FROM transacciones 
+                WHERE id_credito = "54"
+ERROR - 2025-07-19 01:11:21 --> 43
+ERROR - 2025-07-19 01:11:21 --> clienteeee
+ERROR - 2025-07-19 01:11:21 --> SELECT * FROM creditos 
+                WHERE cliente_id = 43 AND estado != 'eliminado'
+ERROR - 2025-07-19 01:11:28 --> SELECT * FROM transacciones 
+                WHERE id_credito = "71"
+ERROR - 2025-07-19 01:11:43 --> SELECT * FROM transacciones 
+                WHERE id_credito = "71"
+ERROR - 2025-07-19 01:11:59 --> SELECT * FROM transacciones 
+                WHERE id_credito = "71"
+ERROR - 2025-07-19 01:12:10 --> SELECT * FROM transacciones 
+                WHERE id_credito = "71"
+ERROR - 2025-07-19 01:12:25 --> SELECT * FROM transacciones 
+                WHERE id_credito = "71"
+ERROR - 2025-07-19 01:12:53 --> SELECT * FROM transacciones 
+                WHERE id_credito = "71"
+ERROR - 2025-07-19 01:13:10 --> SELECT * FROM transacciones 
+                WHERE id_credito = "71"
+ERROR - 2025-07-19 01:14:34 --> 43
+ERROR - 2025-07-19 01:14:34 --> clienteeee
+ERROR - 2025-07-19 01:14:34 --> SELECT * FROM creditos 
+                WHERE cliente_id = 43 AND estado != 'eliminado'
+ERROR - 2025-07-19 01:16:17 --> 45
+ERROR - 2025-07-19 01:16:17 --> clienteeee
+ERROR - 2025-07-19 01:16:17 --> SELECT * FROM creditos 
+                WHERE cliente_id = 45 AND estado != 'eliminado'
+ERROR - 2025-07-19 01:16:51 --> 46
+ERROR - 2025-07-19 01:16:51 --> clienteeee
+ERROR - 2025-07-19 01:16:51 --> SELECT * FROM creditos 
+                WHERE cliente_id = 46 AND estado != 'eliminado'
+ERROR - 2025-07-19 01:17:58 --> Cantidad de pagos: 60
+ERROR - 2025-07-19 01:17:58 --> Fecha Pago: 2025-04-09
+ERROR - 2025-07-19 01:17:58 --> Monto Pago antes de conversión: 10000
+ERROR - 2025-07-19 01:17:58 --> Monto Pago después de conversión: 10000
+ERROR - 2025-07-19 01:17:58 --> Fecha Pago: 2025-04-10
+ERROR - 2025-07-19 01:17:58 --> Monto Pago antes de conversión: 10000
+ERROR - 2025-07-19 01:17:58 --> Monto Pago después de conversión: 10000
+ERROR - 2025-07-19 01:17:58 --> Fecha Pago: 2025-04-11
+ERROR - 2025-07-19 01:17:58 --> Monto Pago antes de conversión: 10000
+ERROR - 2025-07-19 01:17:58 --> Monto Pago después de conversión: 10000
+ERROR - 2025-07-19 01:17:58 --> Fecha Pago: 2025-04-12
+ERROR - 2025-07-19 01:17:58 --> Monto Pago antes de conversión: 10000
+ERROR - 2025-07-19 01:17:58 --> Monto Pago después de conversión: 10000
+ERROR - 2025-07-19 01:17:58 --> Fecha Pago: 2025-04-13
+ERROR - 2025-07-19 01:17:58 --> Monto Pago antes de conversión: 10000
+ERROR - 2025-07-19 01:17:58 --> Monto Pago después de conversión: 10000
+ERROR - 2025-07-19 01:17:58 --> Fecha Pago: 2025-04-14
+ERROR - 2025-07-19 01:17:58 --> Monto Pago antes de conversión: 10000
+ERROR - 2025-07-19 01:17:58 --> Monto Pago después de conversión: 10000
+ERROR - 2025-07-19 01:17:58 --> Fecha Pago: 2025-04-15
+ERROR - 2025-07-19 01:17:58 --> Monto Pago antes de conversión: 10000
+ERROR - 2025-07-19 01:17:58 --> Monto Pago después de conversión: 10000
+ERROR - 2025-07-19 01:17:58 --> Fecha Pago: 2025-04-16
+ERROR - 2025-07-19 01:17:58 --> Monto Pago antes de conversión: 10000
+ERROR - 2025-07-19 01:17:58 --> Monto Pago después de conversión: 10000
+ERROR - 2025-07-19 01:17:58 --> Fecha Pago: 2025-04-17
+ERROR - 2025-07-19 01:17:58 --> Monto Pago antes de conversión: 10000
+ERROR - 2025-07-19 01:17:58 --> Monto Pago después de conversión: 10000
+ERROR - 2025-07-19 01:17:58 --> Fecha Pago: 2025-04-18
+ERROR - 2025-07-19 01:17:58 --> Monto Pago antes de conversión: 10000
+ERROR - 2025-07-19 01:17:58 --> Monto Pago después de conversión: 10000
+ERROR - 2025-07-19 01:17:58 --> Fecha Pago: 2025-04-19
+ERROR - 2025-07-19 01:17:58 --> Monto Pago antes de conversión: 10000
+ERROR - 2025-07-19 01:17:58 --> Monto Pago después de conversión: 10000
+ERROR - 2025-07-19 01:17:58 --> Fecha Pago: 2025-04-20
+ERROR - 2025-07-19 01:17:58 --> Monto Pago antes de conversión: 10000
+ERROR - 2025-07-19 01:17:58 --> Monto Pago después de conversión: 10000
+ERROR - 2025-07-19 01:17:58 --> Fecha Pago: 2025-04-21
+ERROR - 2025-07-19 01:17:58 --> Monto Pago antes de conversión: 10000
+ERROR - 2025-07-19 01:17:58 --> Monto Pago después de conversión: 10000
+ERROR - 2025-07-19 01:17:58 --> Fecha Pago: 2025-04-22
+ERROR - 2025-07-19 01:17:58 --> Monto Pago antes de conversión: 10000
+ERROR - 2025-07-19 01:17:58 --> Monto Pago después de conversión: 10000
+ERROR - 2025-07-19 01:17:58 --> Fecha Pago: 2025-04-23
+ERROR - 2025-07-19 01:17:58 --> Monto Pago antes de conversión: 10000
+ERROR - 2025-07-19 01:17:58 --> Monto Pago después de conversión: 10000
+ERROR - 2025-07-19 01:17:58 --> Fecha Pago: 2025-04-24
+ERROR - 2025-07-19 01:17:58 --> Monto Pago antes de conversión: 10000
+ERROR - 2025-07-19 01:17:58 --> Monto Pago después de conversión: 10000
+ERROR - 2025-07-19 01:17:58 --> Fecha Pago: 2025-04-25
+ERROR - 2025-07-19 01:17:58 --> Monto Pago antes de conversión: 10000
+ERROR - 2025-07-19 01:17:58 --> Monto Pago después de conversión: 10000
+ERROR - 2025-07-19 01:17:58 --> Fecha Pago: 2025-04-26
+ERROR - 2025-07-19 01:17:58 --> Monto Pago antes de conversión: 10000
+ERROR - 2025-07-19 01:17:58 --> Monto Pago después de conversión: 10000
+ERROR - 2025-07-19 01:17:58 --> Fecha Pago: 2025-04-27
+ERROR - 2025-07-19 01:17:58 --> Monto Pago antes de conversión: 10000
+ERROR - 2025-07-19 01:17:58 --> Monto Pago después de conversión: 10000
+ERROR - 2025-07-19 01:17:58 --> Fecha Pago: 2025-04-28
+ERROR - 2025-07-19 01:17:58 --> Monto Pago antes de conversión: 10000
+ERROR - 2025-07-19 01:17:58 --> Monto Pago después de conversión: 10000
+ERROR - 2025-07-19 01:17:58 --> Fecha Pago: 2025-04-29
+ERROR - 2025-07-19 01:17:58 --> Monto Pago antes de conversión: 10000
+ERROR - 2025-07-19 01:17:58 --> Monto Pago después de conversión: 10000
+ERROR - 2025-07-19 01:17:58 --> Fecha Pago: 2025-04-30
+ERROR - 2025-07-19 01:17:58 --> Monto Pago antes de conversión: 10000
+ERROR - 2025-07-19 01:17:58 --> Monto Pago después de conversión: 10000
+ERROR - 2025-07-19 01:17:58 --> Fecha Pago: 2025-05-01
+ERROR - 2025-07-19 01:17:58 --> Monto Pago antes de conversión: 10000
+ERROR - 2025-07-19 01:17:58 --> Monto Pago después de conversión: 10000
+ERROR - 2025-07-19 01:17:58 --> Fecha Pago: 2025-05-02
+ERROR - 2025-07-19 01:17:58 --> Monto Pago antes de conversión: 10000
+ERROR - 2025-07-19 01:17:58 --> Monto Pago después de conversión: 10000
+ERROR - 2025-07-19 01:17:58 --> Fecha Pago: 2025-05-03
+ERROR - 2025-07-19 01:17:58 --> Monto Pago antes de conversión: 10000
+ERROR - 2025-07-19 01:17:58 --> Monto Pago después de conversión: 10000
+ERROR - 2025-07-19 01:17:58 --> Fecha Pago: 2025-05-04
+ERROR - 2025-07-19 01:17:58 --> Monto Pago antes de conversión: 10000
+ERROR - 2025-07-19 01:17:58 --> Monto Pago después de conversión: 10000
+ERROR - 2025-07-19 01:17:58 --> Fecha Pago: 2025-05-05
+ERROR - 2025-07-19 01:17:58 --> Monto Pago antes de conversión: 10000
+ERROR - 2025-07-19 01:17:58 --> Monto Pago después de conversión: 10000
+ERROR - 2025-07-19 01:17:58 --> Fecha Pago: 2025-05-06
+ERROR - 2025-07-19 01:17:58 --> Monto Pago antes de conversión: 10000
+ERROR - 2025-07-19 01:17:58 --> Monto Pago después de conversión: 10000
+ERROR - 2025-07-19 01:17:58 --> Fecha Pago: 2025-05-07
+ERROR - 2025-07-19 01:17:58 --> Monto Pago antes de conversión: 10000
+ERROR - 2025-07-19 01:17:58 --> Monto Pago después de conversión: 10000
+ERROR - 2025-07-19 01:17:58 --> Fecha Pago: 2025-05-08
+ERROR - 2025-07-19 01:17:58 --> Monto Pago antes de conversión: 10000
+ERROR - 2025-07-19 01:17:58 --> Monto Pago después de conversión: 10000
+ERROR - 2025-07-19 01:17:58 --> Fecha Pago: 2025-05-09
+ERROR - 2025-07-19 01:17:58 --> Monto Pago antes de conversión: 10000
+ERROR - 2025-07-19 01:17:58 --> Monto Pago después de conversión: 10000
+ERROR - 2025-07-19 01:17:58 --> Fecha Pago: 2025-05-10
+ERROR - 2025-07-19 01:17:58 --> Monto Pago antes de conversión: 10000
+ERROR - 2025-07-19 01:17:58 --> Monto Pago después de conversión: 10000
+ERROR - 2025-07-19 01:17:58 --> Fecha Pago: 2025-05-11
+ERROR - 2025-07-19 01:17:58 --> Monto Pago antes de conversión: 10000
+ERROR - 2025-07-19 01:17:58 --> Monto Pago después de conversión: 10000
+ERROR - 2025-07-19 01:17:58 --> Fecha Pago: 2025-05-12
+ERROR - 2025-07-19 01:17:58 --> Monto Pago antes de conversión: 10000
+ERROR - 2025-07-19 01:17:58 --> Monto Pago después de conversión: 10000
+ERROR - 2025-07-19 01:17:58 --> Fecha Pago: 2025-05-13
+ERROR - 2025-07-19 01:17:58 --> Monto Pago antes de conversión: 10000
+ERROR - 2025-07-19 01:17:58 --> Monto Pago después de conversión: 10000
+ERROR - 2025-07-19 01:17:58 --> Fecha Pago: 2025-05-14
+ERROR - 2025-07-19 01:17:58 --> Monto Pago antes de conversión: 10000
+ERROR - 2025-07-19 01:17:58 --> Monto Pago después de conversión: 10000
+ERROR - 2025-07-19 01:17:58 --> Fecha Pago: 2025-05-15
+ERROR - 2025-07-19 01:17:58 --> Monto Pago antes de conversión: 10000
+ERROR - 2025-07-19 01:17:58 --> Monto Pago después de conversión: 10000
+ERROR - 2025-07-19 01:17:58 --> Fecha Pago: 2025-05-16
+ERROR - 2025-07-19 01:17:58 --> Monto Pago antes de conversión: 10000
+ERROR - 2025-07-19 01:17:58 --> Monto Pago después de conversión: 10000
+ERROR - 2025-07-19 01:17:58 --> Fecha Pago: 2025-05-17
+ERROR - 2025-07-19 01:17:58 --> Monto Pago antes de conversión: 10000
+ERROR - 2025-07-19 01:17:58 --> Monto Pago después de conversión: 10000
+ERROR - 2025-07-19 01:17:58 --> Fecha Pago: 2025-05-18
+ERROR - 2025-07-19 01:17:58 --> Monto Pago antes de conversión: 10000
+ERROR - 2025-07-19 01:17:58 --> Monto Pago después de conversión: 10000
+ERROR - 2025-07-19 01:17:58 --> Fecha Pago: 2025-05-19
+ERROR - 2025-07-19 01:17:58 --> Monto Pago antes de conversión: 10000
+ERROR - 2025-07-19 01:17:58 --> Monto Pago después de conversión: 10000
+ERROR - 2025-07-19 01:17:58 --> Fecha Pago: 2025-05-20
+ERROR - 2025-07-19 01:17:58 --> Monto Pago antes de conversión: 10000
+ERROR - 2025-07-19 01:17:58 --> Monto Pago después de conversión: 10000
+ERROR - 2025-07-19 01:17:58 --> Fecha Pago: 2025-05-21
+ERROR - 2025-07-19 01:17:58 --> Monto Pago antes de conversión: 10000
+ERROR - 2025-07-19 01:17:58 --> Monto Pago después de conversión: 10000
+ERROR - 2025-07-19 01:17:58 --> Fecha Pago: 2025-05-22
+ERROR - 2025-07-19 01:17:58 --> Monto Pago antes de conversión: 10000
+ERROR - 2025-07-19 01:17:58 --> Monto Pago después de conversión: 10000
+ERROR - 2025-07-19 01:17:58 --> Fecha Pago: 2025-05-23
+ERROR - 2025-07-19 01:17:58 --> Monto Pago antes de conversión: 10000
+ERROR - 2025-07-19 01:17:58 --> Monto Pago después de conversión: 10000
+ERROR - 2025-07-19 01:17:58 --> Fecha Pago: 2025-05-24
+ERROR - 2025-07-19 01:17:58 --> Monto Pago antes de conversión: 10000
+ERROR - 2025-07-19 01:17:58 --> Monto Pago después de conversión: 10000
+ERROR - 2025-07-19 01:17:58 --> Fecha Pago: 2025-05-25
+ERROR - 2025-07-19 01:17:58 --> Monto Pago antes de conversión: 10000
+ERROR - 2025-07-19 01:17:58 --> Monto Pago después de conversión: 10000
+ERROR - 2025-07-19 01:17:58 --> Fecha Pago: 2025-05-26
+ERROR - 2025-07-19 01:17:58 --> Monto Pago antes de conversión: 10000
+ERROR - 2025-07-19 01:17:58 --> Monto Pago después de conversión: 10000
+ERROR - 2025-07-19 01:17:58 --> Fecha Pago: 2025-05-27
+ERROR - 2025-07-19 01:17:58 --> Monto Pago antes de conversión: 10000
+ERROR - 2025-07-19 01:17:58 --> Monto Pago después de conversión: 10000
+ERROR - 2025-07-19 01:17:58 --> Fecha Pago: 2025-05-28
+ERROR - 2025-07-19 01:17:58 --> Monto Pago antes de conversión: 10000
+ERROR - 2025-07-19 01:17:58 --> Monto Pago después de conversión: 10000
+ERROR - 2025-07-19 01:17:58 --> Fecha Pago: 2025-05-29
+ERROR - 2025-07-19 01:17:58 --> Monto Pago antes de conversión: 10000
+ERROR - 2025-07-19 01:17:58 --> Monto Pago después de conversión: 10000
+ERROR - 2025-07-19 01:17:58 --> Fecha Pago: 2025-05-30
+ERROR - 2025-07-19 01:17:58 --> Monto Pago antes de conversión: 10000
+ERROR - 2025-07-19 01:17:58 --> Monto Pago después de conversión: 10000
+ERROR - 2025-07-19 01:17:58 --> Fecha Pago: 2025-05-31
+ERROR - 2025-07-19 01:17:58 --> Monto Pago antes de conversión: 10000
+ERROR - 2025-07-19 01:17:58 --> Monto Pago después de conversión: 10000
+ERROR - 2025-07-19 01:17:58 --> Fecha Pago: 2025-06-01
+ERROR - 2025-07-19 01:17:58 --> Monto Pago antes de conversión: 10000
+ERROR - 2025-07-19 01:17:58 --> Monto Pago después de conversión: 10000
+ERROR - 2025-07-19 01:17:58 --> Fecha Pago: 2025-06-02
+ERROR - 2025-07-19 01:17:58 --> Monto Pago antes de conversión: 10000
+ERROR - 2025-07-19 01:17:58 --> Monto Pago después de conversión: 10000
+ERROR - 2025-07-19 01:17:58 --> Fecha Pago: 2025-06-03
+ERROR - 2025-07-19 01:17:58 --> Monto Pago antes de conversión: 10000
+ERROR - 2025-07-19 01:17:58 --> Monto Pago después de conversión: 10000
+ERROR - 2025-07-19 01:17:58 --> Fecha Pago: 2025-06-04
+ERROR - 2025-07-19 01:17:58 --> Monto Pago antes de conversión: 10000
+ERROR - 2025-07-19 01:17:58 --> Monto Pago después de conversión: 10000
+ERROR - 2025-07-19 01:17:58 --> Fecha Pago: 2025-06-05
+ERROR - 2025-07-19 01:17:58 --> Monto Pago antes de conversión: 10000
+ERROR - 2025-07-19 01:17:58 --> Monto Pago después de conversión: 10000
+ERROR - 2025-07-19 01:17:58 --> Fecha Pago: 2025-06-06
+ERROR - 2025-07-19 01:17:58 --> Monto Pago antes de conversión: 10000
+ERROR - 2025-07-19 01:17:58 --> Monto Pago después de conversión: 10000
+ERROR - 2025-07-19 01:17:58 --> Fecha Pago: 2025-06-07
+ERROR - 2025-07-19 01:17:58 --> Monto Pago antes de conversión: 60000
+ERROR - 2025-07-19 01:17:58 --> Monto Pago después de conversión: 60000
+ERROR - 2025-07-19 01:18:04 --> 46
+ERROR - 2025-07-19 01:18:04 --> clienteeee
+ERROR - 2025-07-19 01:18:04 --> SELECT * FROM creditos 
+                WHERE cliente_id = 46 AND estado != 'eliminado'
+ERROR - 2025-07-19 01:19:30 --> Cantidad de pagos: 30
+ERROR - 2025-07-19 01:19:30 --> Fecha Pago: 2025-06-09
+ERROR - 2025-07-19 01:19:30 --> Monto Pago antes de conversión: 17000
+ERROR - 2025-07-19 01:19:30 --> Monto Pago después de conversión: 17000
+ERROR - 2025-07-19 01:19:30 --> Fecha Pago: 2025-06-10
+ERROR - 2025-07-19 01:19:30 --> Monto Pago antes de conversión: 17000
+ERROR - 2025-07-19 01:19:30 --> Monto Pago después de conversión: 17000
+ERROR - 2025-07-19 01:19:30 --> Fecha Pago: 2025-06-11
+ERROR - 2025-07-19 01:19:30 --> Monto Pago antes de conversión: 17000
+ERROR - 2025-07-19 01:19:30 --> Monto Pago después de conversión: 17000
+ERROR - 2025-07-19 01:19:30 --> Fecha Pago: 2025-06-12
+ERROR - 2025-07-19 01:19:30 --> Monto Pago antes de conversión: 17000
+ERROR - 2025-07-19 01:19:30 --> Monto Pago después de conversión: 17000
+ERROR - 2025-07-19 01:19:30 --> Fecha Pago: 2025-06-13
+ERROR - 2025-07-19 01:19:30 --> Monto Pago antes de conversión: 17000
+ERROR - 2025-07-19 01:19:30 --> Monto Pago después de conversión: 17000
+ERROR - 2025-07-19 01:19:30 --> Fecha Pago: 2025-06-14
+ERROR - 2025-07-19 01:19:30 --> Monto Pago antes de conversión: 17000
+ERROR - 2025-07-19 01:19:30 --> Monto Pago después de conversión: 17000
+ERROR - 2025-07-19 01:19:30 --> Fecha Pago: 2025-06-15
+ERROR - 2025-07-19 01:19:30 --> Monto Pago antes de conversión: 17000
+ERROR - 2025-07-19 01:19:30 --> Monto Pago después de conversión: 17000
+ERROR - 2025-07-19 01:19:30 --> Fecha Pago: 2025-06-16
+ERROR - 2025-07-19 01:19:30 --> Monto Pago antes de conversión: 17000
+ERROR - 2025-07-19 01:19:30 --> Monto Pago después de conversión: 17000
+ERROR - 2025-07-19 01:19:30 --> Fecha Pago: 2025-06-17
+ERROR - 2025-07-19 01:19:30 --> Monto Pago antes de conversión: 17000
+ERROR - 2025-07-19 01:19:30 --> Monto Pago después de conversión: 17000
+ERROR - 2025-07-19 01:19:30 --> Fecha Pago: 2025-06-18
+ERROR - 2025-07-19 01:19:30 --> Monto Pago antes de conversión: 17000
+ERROR - 2025-07-19 01:19:30 --> Monto Pago después de conversión: 17000
+ERROR - 2025-07-19 01:19:30 --> Fecha Pago: 2025-06-19
+ERROR - 2025-07-19 01:19:30 --> Monto Pago antes de conversión: 17000
+ERROR - 2025-07-19 01:19:30 --> Monto Pago después de conversión: 17000
+ERROR - 2025-07-19 01:19:30 --> Fecha Pago: 2025-06-20
+ERROR - 2025-07-19 01:19:30 --> Monto Pago antes de conversión: 17000
+ERROR - 2025-07-19 01:19:30 --> Monto Pago después de conversión: 17000
+ERROR - 2025-07-19 01:19:30 --> Fecha Pago: 2025-06-21
+ERROR - 2025-07-19 01:19:30 --> Monto Pago antes de conversión: 17000
+ERROR - 2025-07-19 01:19:30 --> Monto Pago después de conversión: 17000
+ERROR - 2025-07-19 01:19:30 --> Fecha Pago: 2025-06-22
+ERROR - 2025-07-19 01:19:30 --> Monto Pago antes de conversión: 17000
+ERROR - 2025-07-19 01:19:30 --> Monto Pago después de conversión: 17000
+ERROR - 2025-07-19 01:19:30 --> Fecha Pago: 2025-06-23
+ERROR - 2025-07-19 01:19:30 --> Monto Pago antes de conversión: 17000
+ERROR - 2025-07-19 01:19:30 --> Monto Pago después de conversión: 17000
+ERROR - 2025-07-19 01:19:30 --> Fecha Pago: 2025-06-24
+ERROR - 2025-07-19 01:19:30 --> Monto Pago antes de conversión: 17000
+ERROR - 2025-07-19 01:19:30 --> Monto Pago después de conversión: 17000
+ERROR - 2025-07-19 01:19:30 --> Fecha Pago: 2025-06-25
+ERROR - 2025-07-19 01:19:30 --> Monto Pago antes de conversión: 17000
+ERROR - 2025-07-19 01:19:30 --> Monto Pago después de conversión: 17000
+ERROR - 2025-07-19 01:19:30 --> Fecha Pago: 2025-06-26
+ERROR - 2025-07-19 01:19:30 --> Monto Pago antes de conversión: 17000
+ERROR - 2025-07-19 01:19:30 --> Monto Pago después de conversión: 17000
+ERROR - 2025-07-19 01:19:30 --> Fecha Pago: 2025-06-27
+ERROR - 2025-07-19 01:19:30 --> Monto Pago antes de conversión: 17000
+ERROR - 2025-07-19 01:19:30 --> Monto Pago después de conversión: 17000
+ERROR - 2025-07-19 01:19:30 --> Fecha Pago: 2025-06-28
+ERROR - 2025-07-19 01:19:30 --> Monto Pago antes de conversión: 17000
+ERROR - 2025-07-19 01:19:30 --> Monto Pago después de conversión: 17000
+ERROR - 2025-07-19 01:19:30 --> Fecha Pago: 2025-06-29
+ERROR - 2025-07-19 01:19:30 --> Monto Pago antes de conversión: 17000
+ERROR - 2025-07-19 01:19:30 --> Monto Pago después de conversión: 17000
+ERROR - 2025-07-19 01:19:30 --> Fecha Pago: 2025-06-30
+ERROR - 2025-07-19 01:19:30 --> Monto Pago antes de conversión: 17000
+ERROR - 2025-07-19 01:19:30 --> Monto Pago después de conversión: 17000
+ERROR - 2025-07-19 01:19:30 --> Fecha Pago: 2025-07-01
+ERROR - 2025-07-19 01:19:30 --> Monto Pago antes de conversión: 17000
+ERROR - 2025-07-19 01:19:30 --> Monto Pago después de conversión: 17000
+ERROR - 2025-07-19 01:19:30 --> Fecha Pago: 2025-07-02
+ERROR - 2025-07-19 01:19:30 --> Monto Pago antes de conversión: 17000
+ERROR - 2025-07-19 01:19:30 --> Monto Pago después de conversión: 17000
+ERROR - 2025-07-19 01:19:30 --> Fecha Pago: 2025-07-03
+ERROR - 2025-07-19 01:19:30 --> Monto Pago antes de conversión: 17000
+ERROR - 2025-07-19 01:19:30 --> Monto Pago después de conversión: 17000
+ERROR - 2025-07-19 01:19:30 --> Fecha Pago: 2025-07-04
+ERROR - 2025-07-19 01:19:30 --> Monto Pago antes de conversión: 17000
+ERROR - 2025-07-19 01:19:30 --> Monto Pago después de conversión: 17000
+ERROR - 2025-07-19 01:19:30 --> Fecha Pago: 2025-07-05
+ERROR - 2025-07-19 01:19:30 --> Monto Pago antes de conversión: 17000
+ERROR - 2025-07-19 01:19:30 --> Monto Pago después de conversión: 17000
+ERROR - 2025-07-19 01:19:30 --> Fecha Pago: 2025-07-06
+ERROR - 2025-07-19 01:19:30 --> Monto Pago antes de conversión: 17000
+ERROR - 2025-07-19 01:19:30 --> Monto Pago después de conversión: 17000
+ERROR - 2025-07-19 01:19:30 --> Fecha Pago: 2025-07-07
+ERROR - 2025-07-19 01:19:30 --> Monto Pago antes de conversión: 17000
+ERROR - 2025-07-19 01:19:30 --> Monto Pago después de conversión: 17000
+ERROR - 2025-07-19 01:19:30 --> Fecha Pago: 2025-07-08
+ERROR - 2025-07-19 01:19:30 --> Monto Pago antes de conversión: 35000
+ERROR - 2025-07-19 01:19:30 --> Monto Pago después de conversión: 35000
+ERROR - 2025-07-19 01:19:39 --> 46
+ERROR - 2025-07-19 01:19:39 --> clienteeee
+ERROR - 2025-07-19 01:19:39 --> SELECT * FROM creditos 
+                WHERE cliente_id = 46 AND estado != 'eliminado'
+ERROR - 2025-07-19 01:21:12 --> SELECT * FROM transacciones 
+                WHERE id_credito = "73"
+ERROR - 2025-07-19 01:21:16 --> 46
+ERROR - 2025-07-19 01:21:16 --> clienteeee
+ERROR - 2025-07-19 01:21:16 --> SELECT * FROM creditos 
+                WHERE cliente_id = 46 AND estado != 'eliminado'
+ERROR - 2025-07-19 01:21:55 --> Cantidad de pagos: 30
+ERROR - 2025-07-19 01:21:55 --> Fecha Pago: 2025-06-09
+ERROR - 2025-07-19 01:21:55 --> Monto Pago antes de conversión: 14000
+ERROR - 2025-07-19 01:21:55 --> Monto Pago después de conversión: 14000
+ERROR - 2025-07-19 01:21:55 --> Fecha Pago: 2025-06-10
+ERROR - 2025-07-19 01:21:55 --> Monto Pago antes de conversión: 14000
+ERROR - 2025-07-19 01:21:55 --> Monto Pago después de conversión: 14000
+ERROR - 2025-07-19 01:21:55 --> Fecha Pago: 2025-06-11
+ERROR - 2025-07-19 01:21:55 --> Monto Pago antes de conversión: 14000
+ERROR - 2025-07-19 01:21:55 --> Monto Pago después de conversión: 14000
+ERROR - 2025-07-19 01:21:55 --> Fecha Pago: 2025-06-12
+ERROR - 2025-07-19 01:21:55 --> Monto Pago antes de conversión: 14000
+ERROR - 2025-07-19 01:21:55 --> Monto Pago después de conversión: 14000
+ERROR - 2025-07-19 01:21:55 --> Fecha Pago: 2025-06-13
+ERROR - 2025-07-19 01:21:55 --> Monto Pago antes de conversión: 14000
+ERROR - 2025-07-19 01:21:55 --> Monto Pago después de conversión: 14000
+ERROR - 2025-07-19 01:21:55 --> Fecha Pago: 2025-06-14
+ERROR - 2025-07-19 01:21:55 --> Monto Pago antes de conversión: 14000
+ERROR - 2025-07-19 01:21:55 --> Monto Pago después de conversión: 14000
+ERROR - 2025-07-19 01:21:55 --> Fecha Pago: 2025-06-15
+ERROR - 2025-07-19 01:21:55 --> Monto Pago antes de conversión: 14000
+ERROR - 2025-07-19 01:21:55 --> Monto Pago después de conversión: 14000
+ERROR - 2025-07-19 01:21:55 --> Fecha Pago: 2025-06-16
+ERROR - 2025-07-19 01:21:55 --> Monto Pago antes de conversión: 14000
+ERROR - 2025-07-19 01:21:55 --> Monto Pago después de conversión: 14000
+ERROR - 2025-07-19 01:21:55 --> Fecha Pago: 2025-06-17
+ERROR - 2025-07-19 01:21:55 --> Monto Pago antes de conversión: 14000
+ERROR - 2025-07-19 01:21:55 --> Monto Pago después de conversión: 14000
+ERROR - 2025-07-19 01:21:55 --> Fecha Pago: 2025-06-18
+ERROR - 2025-07-19 01:21:55 --> Monto Pago antes de conversión: 14000
+ERROR - 2025-07-19 01:21:55 --> Monto Pago después de conversión: 14000
+ERROR - 2025-07-19 01:21:55 --> Fecha Pago: 2025-06-19
+ERROR - 2025-07-19 01:21:55 --> Monto Pago antes de conversión: 14000
+ERROR - 2025-07-19 01:21:55 --> Monto Pago después de conversión: 14000
+ERROR - 2025-07-19 01:21:55 --> Fecha Pago: 2025-06-20
+ERROR - 2025-07-19 01:21:55 --> Monto Pago antes de conversión: 14000
+ERROR - 2025-07-19 01:21:55 --> Monto Pago después de conversión: 14000
+ERROR - 2025-07-19 01:21:55 --> Fecha Pago: 2025-06-21
+ERROR - 2025-07-19 01:21:55 --> Monto Pago antes de conversión: 14000
+ERROR - 2025-07-19 01:21:55 --> Monto Pago después de conversión: 14000
+ERROR - 2025-07-19 01:21:55 --> Fecha Pago: 2025-06-22
+ERROR - 2025-07-19 01:21:55 --> Monto Pago antes de conversión: 14000
+ERROR - 2025-07-19 01:21:55 --> Monto Pago después de conversión: 14000
+ERROR - 2025-07-19 01:21:55 --> Fecha Pago: 2025-06-23
+ERROR - 2025-07-19 01:21:55 --> Monto Pago antes de conversión: 14000
+ERROR - 2025-07-19 01:21:55 --> Monto Pago después de conversión: 14000
+ERROR - 2025-07-19 01:21:55 --> Fecha Pago: 2025-06-24
+ERROR - 2025-07-19 01:21:55 --> Monto Pago antes de conversión: 14000
+ERROR - 2025-07-19 01:21:55 --> Monto Pago después de conversión: 14000
+ERROR - 2025-07-19 01:21:55 --> Fecha Pago: 2025-06-25
+ERROR - 2025-07-19 01:21:55 --> Monto Pago antes de conversión: 14000
+ERROR - 2025-07-19 01:21:55 --> Monto Pago después de conversión: 14000
+ERROR - 2025-07-19 01:21:55 --> Fecha Pago: 2025-06-26
+ERROR - 2025-07-19 01:21:55 --> Monto Pago antes de conversión: 14000
+ERROR - 2025-07-19 01:21:55 --> Monto Pago después de conversión: 14000
+ERROR - 2025-07-19 01:21:55 --> Fecha Pago: 2025-06-27
+ERROR - 2025-07-19 01:21:55 --> Monto Pago antes de conversión: 14000
+ERROR - 2025-07-19 01:21:55 --> Monto Pago después de conversión: 14000
+ERROR - 2025-07-19 01:21:55 --> Fecha Pago: 2025-06-28
+ERROR - 2025-07-19 01:21:55 --> Monto Pago antes de conversión: 14000
+ERROR - 2025-07-19 01:21:55 --> Monto Pago después de conversión: 14000
+ERROR - 2025-07-19 01:21:55 --> Fecha Pago: 2025-06-29
+ERROR - 2025-07-19 01:21:55 --> Monto Pago antes de conversión: 14000
+ERROR - 2025-07-19 01:21:55 --> Monto Pago después de conversión: 14000
+ERROR - 2025-07-19 01:21:55 --> Fecha Pago: 2025-06-30
+ERROR - 2025-07-19 01:21:55 --> Monto Pago antes de conversión: 14000
+ERROR - 2025-07-19 01:21:55 --> Monto Pago después de conversión: 14000
+ERROR - 2025-07-19 01:21:55 --> Fecha Pago: 2025-07-01
+ERROR - 2025-07-19 01:21:55 --> Monto Pago antes de conversión: 14000
+ERROR - 2025-07-19 01:21:55 --> Monto Pago después de conversión: 14000
+ERROR - 2025-07-19 01:21:55 --> Fecha Pago: 2025-07-02
+ERROR - 2025-07-19 01:21:55 --> Monto Pago antes de conversión: 14000
+ERROR - 2025-07-19 01:21:55 --> Monto Pago después de conversión: 14000
+ERROR - 2025-07-19 01:21:55 --> Fecha Pago: 2025-07-03
+ERROR - 2025-07-19 01:21:55 --> Monto Pago antes de conversión: 14000
+ERROR - 2025-07-19 01:21:55 --> Monto Pago después de conversión: 14000
+ERROR - 2025-07-19 01:21:55 --> Fecha Pago: 2025-07-04
+ERROR - 2025-07-19 01:21:55 --> Monto Pago antes de conversión: 14000
+ERROR - 2025-07-19 01:21:55 --> Monto Pago después de conversión: 14000
+ERROR - 2025-07-19 01:21:55 --> Fecha Pago: 2025-07-05
+ERROR - 2025-07-19 01:21:55 --> Monto Pago antes de conversión: 14000
+ERROR - 2025-07-19 01:21:55 --> Monto Pago después de conversión: 14000
+ERROR - 2025-07-19 01:21:55 --> Fecha Pago: 2025-07-06
+ERROR - 2025-07-19 01:21:55 --> Monto Pago antes de conversión: 14000
+ERROR - 2025-07-19 01:21:55 --> Monto Pago después de conversión: 14000
+ERROR - 2025-07-19 01:21:55 --> Fecha Pago: 2025-07-07
+ERROR - 2025-07-19 01:21:55 --> Monto Pago antes de conversión: 14000
+ERROR - 2025-07-19 01:21:55 --> Monto Pago después de conversión: 14000
+ERROR - 2025-07-19 01:21:55 --> Fecha Pago: 2025-07-08
+ERROR - 2025-07-19 01:21:55 --> Monto Pago antes de conversión: 42500
+ERROR - 2025-07-19 01:21:55 --> Monto Pago después de conversión: 42500
+ERROR - 2025-07-19 01:22:05 --> 46
+ERROR - 2025-07-19 01:22:05 --> clienteeee
+ERROR - 2025-07-19 01:22:05 --> SELECT * FROM creditos 
+                WHERE cliente_id = 46 AND estado != 'eliminado'
+ERROR - 2025-07-19 01:23:42 --> Cantidad de pagos: 30
+ERROR - 2025-07-19 01:23:42 --> Fecha Pago: 2025-07-09
+ERROR - 2025-07-19 01:23:42 --> Monto Pago antes de conversión: 13000
+ERROR - 2025-07-19 01:23:42 --> Monto Pago después de conversión: 13000
+ERROR - 2025-07-19 01:23:42 --> Fecha Pago: 2025-07-10
+ERROR - 2025-07-19 01:23:42 --> Monto Pago antes de conversión: 13000
+ERROR - 2025-07-19 01:23:42 --> Monto Pago después de conversión: 13000
+ERROR - 2025-07-19 01:23:42 --> Fecha Pago: 2025-07-11
+ERROR - 2025-07-19 01:23:42 --> Monto Pago antes de conversión: 13000
+ERROR - 2025-07-19 01:23:42 --> Monto Pago después de conversión: 13000
+ERROR - 2025-07-19 01:23:42 --> Fecha Pago: 2025-07-12
+ERROR - 2025-07-19 01:23:42 --> Monto Pago antes de conversión: 13000
+ERROR - 2025-07-19 01:23:42 --> Monto Pago después de conversión: 13000
+ERROR - 2025-07-19 01:23:42 --> Fecha Pago: 2025-07-13
+ERROR - 2025-07-19 01:23:42 --> Monto Pago antes de conversión: 13000
+ERROR - 2025-07-19 01:23:42 --> Monto Pago después de conversión: 13000
+ERROR - 2025-07-19 01:23:42 --> Fecha Pago: 2025-07-14
+ERROR - 2025-07-19 01:23:42 --> Monto Pago antes de conversión: 13000
+ERROR - 2025-07-19 01:23:42 --> Monto Pago después de conversión: 13000
+ERROR - 2025-07-19 01:23:42 --> Fecha Pago: 2025-07-15
+ERROR - 2025-07-19 01:23:42 --> Monto Pago antes de conversión: 13000
+ERROR - 2025-07-19 01:23:42 --> Monto Pago después de conversión: 13000
+ERROR - 2025-07-19 01:23:42 --> Fecha Pago: 2025-07-16
+ERROR - 2025-07-19 01:23:42 --> Monto Pago antes de conversión: 13000
+ERROR - 2025-07-19 01:23:42 --> Monto Pago después de conversión: 13000
+ERROR - 2025-07-19 01:23:42 --> Fecha Pago: 2025-07-17
+ERROR - 2025-07-19 01:23:42 --> Monto Pago antes de conversión: 13000
+ERROR - 2025-07-19 01:23:42 --> Monto Pago después de conversión: 13000
+ERROR - 2025-07-19 01:23:42 --> Fecha Pago: 2025-07-18
+ERROR - 2025-07-19 01:23:42 --> Monto Pago antes de conversión: 13000
+ERROR - 2025-07-19 01:23:42 --> Monto Pago después de conversión: 13000
+ERROR - 2025-07-19 01:23:42 --> Fecha Pago: 2025-07-19
+ERROR - 2025-07-19 01:23:42 --> Monto Pago antes de conversión: 13000
+ERROR - 2025-07-19 01:23:42 --> Monto Pago después de conversión: 13000
+ERROR - 2025-07-19 01:23:42 --> Fecha Pago: 2025-07-20
+ERROR - 2025-07-19 01:23:42 --> Monto Pago antes de conversión: 13000
+ERROR - 2025-07-19 01:23:42 --> Monto Pago después de conversión: 13000
+ERROR - 2025-07-19 01:23:42 --> Fecha Pago: 2025-07-21
+ERROR - 2025-07-19 01:23:42 --> Monto Pago antes de conversión: 13000
+ERROR - 2025-07-19 01:23:42 --> Monto Pago después de conversión: 13000
+ERROR - 2025-07-19 01:23:42 --> Fecha Pago: 2025-07-22
+ERROR - 2025-07-19 01:23:42 --> Monto Pago antes de conversión: 13000
+ERROR - 2025-07-19 01:23:42 --> Monto Pago después de conversión: 13000
+ERROR - 2025-07-19 01:23:42 --> Fecha Pago: 2025-07-23
+ERROR - 2025-07-19 01:23:42 --> Monto Pago antes de conversión: 13000
+ERROR - 2025-07-19 01:23:42 --> Monto Pago después de conversión: 13000
+ERROR - 2025-07-19 01:23:42 --> Fecha Pago: 2025-07-24
+ERROR - 2025-07-19 01:23:42 --> Monto Pago antes de conversión: 13000
+ERROR - 2025-07-19 01:23:42 --> Monto Pago después de conversión: 13000
+ERROR - 2025-07-19 01:23:42 --> Fecha Pago: 2025-07-25
+ERROR - 2025-07-19 01:23:42 --> Monto Pago antes de conversión: 13000
+ERROR - 2025-07-19 01:23:42 --> Monto Pago después de conversión: 13000
+ERROR - 2025-07-19 01:23:42 --> Fecha Pago: 2025-07-26
+ERROR - 2025-07-19 01:23:42 --> Monto Pago antes de conversión: 13000
+ERROR - 2025-07-19 01:23:42 --> Monto Pago después de conversión: 13000
+ERROR - 2025-07-19 01:23:42 --> Fecha Pago: 2025-07-27
+ERROR - 2025-07-19 01:23:42 --> Monto Pago antes de conversión: 13000
+ERROR - 2025-07-19 01:23:42 --> Monto Pago después de conversión: 13000
+ERROR - 2025-07-19 01:23:42 --> Fecha Pago: 2025-07-28
+ERROR - 2025-07-19 01:23:42 --> Monto Pago antes de conversión: 13000
+ERROR - 2025-07-19 01:23:42 --> Monto Pago después de conversión: 13000
+ERROR - 2025-07-19 01:23:42 --> Fecha Pago: 2025-07-29
+ERROR - 2025-07-19 01:23:42 --> Monto Pago antes de conversión: 13000
+ERROR - 2025-07-19 01:23:42 --> Monto Pago después de conversión: 13000
+ERROR - 2025-07-19 01:23:42 --> Fecha Pago: 2025-07-30
+ERROR - 2025-07-19 01:23:42 --> Monto Pago antes de conversión: 13000
+ERROR - 2025-07-19 01:23:42 --> Monto Pago después de conversión: 13000
+ERROR - 2025-07-19 01:23:42 --> Fecha Pago: 2025-07-31
+ERROR - 2025-07-19 01:23:42 --> Monto Pago antes de conversión: 13000
+ERROR - 2025-07-19 01:23:42 --> Monto Pago después de conversión: 13000
+ERROR - 2025-07-19 01:23:42 --> Fecha Pago: 2025-08-01
+ERROR - 2025-07-19 01:23:42 --> Monto Pago antes de conversión: 13000
+ERROR - 2025-07-19 01:23:42 --> Monto Pago después de conversión: 13000
+ERROR - 2025-07-19 01:23:42 --> Fecha Pago: 2025-08-02
+ERROR - 2025-07-19 01:23:42 --> Monto Pago antes de conversión: 13000
+ERROR - 2025-07-19 01:23:42 --> Monto Pago después de conversión: 13000
+ERROR - 2025-07-19 01:23:42 --> Fecha Pago: 2025-08-03
+ERROR - 2025-07-19 01:23:42 --> Monto Pago antes de conversión: 13000
+ERROR - 2025-07-19 01:23:42 --> Monto Pago después de conversión: 13000
+ERROR - 2025-07-19 01:23:42 --> Fecha Pago: 2025-08-04
+ERROR - 2025-07-19 01:23:42 --> Monto Pago antes de conversión: 13000
+ERROR - 2025-07-19 01:23:42 --> Monto Pago después de conversión: 13000
+ERROR - 2025-07-19 01:23:42 --> Fecha Pago: 2025-08-05
+ERROR - 2025-07-19 01:23:42 --> Monto Pago antes de conversión: 13000
+ERROR - 2025-07-19 01:23:42 --> Monto Pago después de conversión: 13000
+ERROR - 2025-07-19 01:23:42 --> Fecha Pago: 2025-08-06
+ERROR - 2025-07-19 01:23:42 --> Monto Pago antes de conversión: 13000
+ERROR - 2025-07-19 01:23:42 --> Monto Pago después de conversión: 13000
+ERROR - 2025-07-19 01:23:42 --> Fecha Pago: 2025-08-07
+ERROR - 2025-07-19 01:23:42 --> Monto Pago antes de conversión: 33550
+ERROR - 2025-07-19 01:23:42 --> Monto Pago después de conversión: 33550
+ERROR - 2025-07-19 01:23:54 --> 46
+ERROR - 2025-07-19 01:23:54 --> clienteeee
+ERROR - 2025-07-19 01:23:54 --> SELECT * FROM creditos 
+                WHERE cliente_id = 46 AND estado != 'eliminado'
+ERROR - 2025-07-19 01:24:08 --> SELECT * FROM transacciones 
+                WHERE id_credito = "75"
+ERROR - 2025-07-19 01:24:31 --> SELECT * FROM transacciones 
+                WHERE id_credito = "75"
+ERROR - 2025-07-19 01:25:33 --> SELECT * FROM transacciones 
+                WHERE id_credito = "75"
+ERROR - 2025-07-19 01:30:14 --> SELECT * FROM transacciones 
+                WHERE id_credito = "75"
+ERROR - 2025-07-19 02:31:11 --> SELECT * FROM transacciones 
+                WHERE id_credito = "75"
+ERROR - 2025-07-19 02:31:28 --> SELECT * FROM transacciones 
+                WHERE id_credito = "75"
+ERROR - 2025-07-19 11:29:04 --> 43
+ERROR - 2025-07-19 11:29:04 --> clienteeee
+ERROR - 2025-07-19 11:29:04 --> SELECT * FROM creditos 
+                WHERE cliente_id = 43 AND estado != 'eliminado'
+ERROR - 2025-07-19 11:29:06 --> SELECT * FROM transacciones 
+                WHERE id_credito = "71"
+ERROR - 2025-07-19 11:30:50 --> SELECT * FROM transacciones 
+                WHERE id_credito = "71"
+ERROR - 2025-07-19 11:30:57 --> SELECT * FROM transacciones 
+                WHERE id_credito = "71"
+ERROR - 2025-07-19 11:31:04 --> SELECT * FROM transacciones 
+                WHERE id_credito = "71"
+ERROR - 2025-07-19 11:31:21 --> SELECT * FROM transacciones 
+                WHERE id_credito = "71"
+ERROR - 2025-07-19 11:31:33 --> SELECT * FROM transacciones 
+                WHERE id_credito = "71"
+ERROR - 2025-07-19 11:31:49 --> SELECT * FROM transacciones 
+                WHERE id_credito = "71"
+ERROR - 2025-07-19 11:32:03 --> SELECT * FROM transacciones 
+                WHERE id_credito = "71"
+ERROR - 2025-07-19 11:32:18 --> SELECT * FROM transacciones 
+                WHERE id_credito = "71"
+ERROR - 2025-07-19 11:32:36 --> SELECT * FROM transacciones 
+                WHERE id_credito = "71"
+ERROR - 2025-07-19 11:32:48 --> SELECT * FROM transacciones 
+                WHERE id_credito = "71"
+ERROR - 2025-07-19 11:33:01 --> SELECT * FROM transacciones 
+                WHERE id_credito = "71"
+ERROR - 2025-07-19 11:33:21 --> 43
+ERROR - 2025-07-19 11:33:21 --> clienteeee
+ERROR - 2025-07-19 11:33:21 --> SELECT * FROM creditos 
+                WHERE cliente_id = 43 AND estado != 'eliminado'
+ERROR - 2025-07-19 11:34:14 --> Cantidad de pagos: 30
+ERROR - 2025-07-19 11:34:14 --> Fecha Pago: 2025-06-16
+ERROR - 2025-07-19 11:34:14 --> Monto Pago antes de conversión: 11000
+ERROR - 2025-07-19 11:34:14 --> Monto Pago después de conversión: 11000
+ERROR - 2025-07-19 11:34:14 --> Fecha Pago: 2025-06-17
+ERROR - 2025-07-19 11:34:14 --> Monto Pago antes de conversión: 11000
+ERROR - 2025-07-19 11:34:14 --> Monto Pago después de conversión: 11000
+ERROR - 2025-07-19 11:34:14 --> Fecha Pago: 2025-06-18
+ERROR - 2025-07-19 11:34:14 --> Monto Pago antes de conversión: 11000
+ERROR - 2025-07-19 11:34:14 --> Monto Pago después de conversión: 11000
+ERROR - 2025-07-19 11:34:14 --> Fecha Pago: 2025-06-19
+ERROR - 2025-07-19 11:34:14 --> Monto Pago antes de conversión: 11000
+ERROR - 2025-07-19 11:34:14 --> Monto Pago después de conversión: 11000
+ERROR - 2025-07-19 11:34:14 --> Fecha Pago: 2025-06-20
+ERROR - 2025-07-19 11:34:14 --> Monto Pago antes de conversión: 11000
+ERROR - 2025-07-19 11:34:14 --> Monto Pago después de conversión: 11000
+ERROR - 2025-07-19 11:34:14 --> Fecha Pago: 2025-06-21
+ERROR - 2025-07-19 11:34:14 --> Monto Pago antes de conversión: 11000
+ERROR - 2025-07-19 11:34:14 --> Monto Pago después de conversión: 11000
+ERROR - 2025-07-19 11:34:14 --> Fecha Pago: 2025-06-22
+ERROR - 2025-07-19 11:34:14 --> Monto Pago antes de conversión: 11000
+ERROR - 2025-07-19 11:34:14 --> Monto Pago después de conversión: 11000
+ERROR - 2025-07-19 11:34:14 --> Fecha Pago: 2025-06-23
+ERROR - 2025-07-19 11:34:14 --> Monto Pago antes de conversión: 11000
+ERROR - 2025-07-19 11:34:14 --> Monto Pago después de conversión: 11000
+ERROR - 2025-07-19 11:34:14 --> Fecha Pago: 2025-06-24
+ERROR - 2025-07-19 11:34:14 --> Monto Pago antes de conversión: 11000
+ERROR - 2025-07-19 11:34:14 --> Monto Pago después de conversión: 11000
+ERROR - 2025-07-19 11:34:14 --> Fecha Pago: 2025-06-25
+ERROR - 2025-07-19 11:34:14 --> Monto Pago antes de conversión: 11000
+ERROR - 2025-07-19 11:34:14 --> Monto Pago después de conversión: 11000
+ERROR - 2025-07-19 11:34:14 --> Fecha Pago: 2025-06-26
+ERROR - 2025-07-19 11:34:14 --> Monto Pago antes de conversión: 11000
+ERROR - 2025-07-19 11:34:14 --> Monto Pago después de conversión: 11000
+ERROR - 2025-07-19 11:34:14 --> Fecha Pago: 2025-06-27
+ERROR - 2025-07-19 11:34:14 --> Monto Pago antes de conversión: 11000
+ERROR - 2025-07-19 11:34:14 --> Monto Pago después de conversión: 11000
+ERROR - 2025-07-19 11:34:14 --> Fecha Pago: 2025-06-28
+ERROR - 2025-07-19 11:34:14 --> Monto Pago antes de conversión: 11000
+ERROR - 2025-07-19 11:34:14 --> Monto Pago después de conversión: 11000
+ERROR - 2025-07-19 11:34:14 --> Fecha Pago: 2025-06-29
+ERROR - 2025-07-19 11:34:14 --> Monto Pago antes de conversión: 11000
+ERROR - 2025-07-19 11:34:14 --> Monto Pago después de conversión: 11000
+ERROR - 2025-07-19 11:34:14 --> Fecha Pago: 2025-06-30
+ERROR - 2025-07-19 11:34:14 --> Monto Pago antes de conversión: 11000
+ERROR - 2025-07-19 11:34:14 --> Monto Pago después de conversión: 11000
+ERROR - 2025-07-19 11:34:14 --> Fecha Pago: 2025-07-01
+ERROR - 2025-07-19 11:34:14 --> Monto Pago antes de conversión: 11000
+ERROR - 2025-07-19 11:34:14 --> Monto Pago después de conversión: 11000
+ERROR - 2025-07-19 11:34:14 --> Fecha Pago: 2025-07-02
+ERROR - 2025-07-19 11:34:14 --> Monto Pago antes de conversión: 11000
+ERROR - 2025-07-19 11:34:14 --> Monto Pago después de conversión: 11000
+ERROR - 2025-07-19 11:34:14 --> Fecha Pago: 2025-07-03
+ERROR - 2025-07-19 11:34:14 --> Monto Pago antes de conversión: 11000
+ERROR - 2025-07-19 11:34:14 --> Monto Pago después de conversión: 11000
+ERROR - 2025-07-19 11:34:14 --> Fecha Pago: 2025-07-04
+ERROR - 2025-07-19 11:34:14 --> Monto Pago antes de conversión: 11000
+ERROR - 2025-07-19 11:34:14 --> Monto Pago después de conversión: 11000
+ERROR - 2025-07-19 11:34:14 --> Fecha Pago: 2025-07-05
+ERROR - 2025-07-19 11:34:14 --> Monto Pago antes de conversión: 11000
+ERROR - 2025-07-19 11:34:14 --> Monto Pago después de conversión: 11000
+ERROR - 2025-07-19 11:34:14 --> Fecha Pago: 2025-07-06
+ERROR - 2025-07-19 11:34:14 --> Monto Pago antes de conversión: 11000
+ERROR - 2025-07-19 11:34:14 --> Monto Pago después de conversión: 11000
+ERROR - 2025-07-19 11:34:14 --> Fecha Pago: 2025-07-07
+ERROR - 2025-07-19 11:34:14 --> Monto Pago antes de conversión: 11000
+ERROR - 2025-07-19 11:34:14 --> Monto Pago después de conversión: 11000
+ERROR - 2025-07-19 11:34:14 --> Fecha Pago: 2025-07-08
+ERROR - 2025-07-19 11:34:14 --> Monto Pago antes de conversión: 11000
+ERROR - 2025-07-19 11:34:14 --> Monto Pago después de conversión: 11000
+ERROR - 2025-07-19 11:34:14 --> Fecha Pago: 2025-07-09
+ERROR - 2025-07-19 11:34:14 --> Monto Pago antes de conversión: 11000
+ERROR - 2025-07-19 11:34:14 --> Monto Pago después de conversión: 11000
+ERROR - 2025-07-19 11:34:14 --> Fecha Pago: 2025-07-10
+ERROR - 2025-07-19 11:34:14 --> Monto Pago antes de conversión: 11000
+ERROR - 2025-07-19 11:34:14 --> Monto Pago después de conversión: 11000
+ERROR - 2025-07-19 11:34:14 --> Fecha Pago: 2025-07-11
+ERROR - 2025-07-19 11:34:14 --> Monto Pago antes de conversión: 11000
+ERROR - 2025-07-19 11:34:14 --> Monto Pago después de conversión: 11000
+ERROR - 2025-07-19 11:34:14 --> Fecha Pago: 2025-07-12
+ERROR - 2025-07-19 11:34:14 --> Monto Pago antes de conversión: 11000
+ERROR - 2025-07-19 11:34:14 --> Monto Pago después de conversión: 11000
+ERROR - 2025-07-19 11:34:14 --> Fecha Pago: 2025-07-13
+ERROR - 2025-07-19 11:34:14 --> Monto Pago antes de conversión: 11000
+ERROR - 2025-07-19 11:34:14 --> Monto Pago después de conversión: 11000
+ERROR - 2025-07-19 11:34:14 --> Fecha Pago: 2025-07-14
+ERROR - 2025-07-19 11:34:14 --> Monto Pago antes de conversión: 11000
+ERROR - 2025-07-19 11:34:14 --> Monto Pago después de conversión: 11000
+ERROR - 2025-07-19 11:34:14 --> Fecha Pago: 2025-07-15
+ERROR - 2025-07-19 11:34:14 --> Monto Pago antes de conversión: 39800
+ERROR - 2025-07-19 11:34:14 --> Monto Pago después de conversión: 39800
+ERROR - 2025-07-19 11:34:23 --> 43
+ERROR - 2025-07-19 11:34:23 --> clienteeee
+ERROR - 2025-07-19 11:34:23 --> SELECT * FROM creditos 
+                WHERE cliente_id = 43 AND estado != 'eliminado'
+ERROR - 2025-07-19 11:34:28 --> SELECT * FROM transacciones 
+                WHERE id_credito = "76"
+ERROR - 2025-07-19 11:34:58 --> SELECT * FROM transacciones 
+                WHERE id_credito = "76"
+ERROR - 2025-07-19 11:35:12 --> SELECT * FROM transacciones 
+                WHERE id_credito = "76"
+ERROR - 2025-07-19 11:35:25 --> SELECT * FROM transacciones 
+                WHERE id_credito = "76"
+ERROR - 2025-07-19 11:35:34 --> SELECT * FROM transacciones 
+                WHERE id_credito = "76"
+ERROR - 2025-07-19 11:35:52 --> SELECT * FROM transacciones 
+                WHERE id_credito = "76"
+ERROR - 2025-07-19 11:36:21 --> SELECT * FROM transacciones 
+                WHERE id_credito = "76"
+ERROR - 2025-07-19 11:36:49 --> SELECT * FROM transacciones 
+                WHERE id_credito = "76"
+ERROR - 2025-07-19 11:36:59 --> SELECT * FROM transacciones 
+                WHERE id_credito = "76"
+ERROR - 2025-07-19 11:37:14 --> SELECT * FROM transacciones 
+                WHERE id_credito = "76"
+ERROR - 2025-07-19 11:37:25 --> SELECT * FROM transacciones 
+                WHERE id_credito = "76"
+ERROR - 2025-07-19 11:37:33 --> SELECT * FROM transacciones 
+                WHERE id_credito = "71"
+ERROR - 2025-07-19 11:37:39 --> 43
+ERROR - 2025-07-19 11:37:39 --> clienteeee
+ERROR - 2025-07-19 11:37:39 --> SELECT * FROM creditos 
+                WHERE cliente_id = 43 AND estado != 'eliminado'
+ERROR - 2025-07-19 11:38:41 --> SELECT * FROM transacciones 
+                WHERE id_credito = "71"

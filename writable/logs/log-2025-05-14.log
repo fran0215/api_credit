@@ -1,0 +1,34 @@
+ERROR - 2025-05-14 01:48:54 --> 20
+ERROR - 2025-05-14 01:48:54 --> clienteeee
+ERROR - 2025-05-14 01:48:54 --> SELECT * FROM creditos 
+                WHERE cliente_id = 20  
+ERROR - 2025-05-14 01:48:56 --> "29"
+ERROR - 2025-05-14 01:48:56 --> clienteeee
+ERROR - 2025-05-14 01:48:56 --> SELECT * FROM transacciones 
+                WHERE id_credito = "29"
+ERROR - 2025-05-14 01:49:49 --> Cantidad de pagos: 7
+ERROR - 2025-05-14 01:49:49 --> Fecha Pago: 2025-06-06
+ERROR - 2025-05-14 01:49:49 --> Monto Pago antes de conversión: 17000
+ERROR - 2025-05-14 01:49:49 --> Monto Pago después de conversión: 17000
+ERROR - 2025-05-14 01:49:49 --> Fecha Pago: 2025-06-13
+ERROR - 2025-05-14 01:49:49 --> Monto Pago antes de conversión: 17000
+ERROR - 2025-05-14 01:49:49 --> Monto Pago después de conversión: 17000
+ERROR - 2025-05-14 01:49:49 --> Fecha Pago: 2025-06-20
+ERROR - 2025-05-14 01:49:49 --> Monto Pago antes de conversión: 17000
+ERROR - 2025-05-14 01:49:49 --> Monto Pago después de conversión: 17000
+ERROR - 2025-05-14 01:49:49 --> Fecha Pago: 2025-06-27
+ERROR - 2025-05-14 01:49:49 --> Monto Pago antes de conversión: 17000
+ERROR - 2025-05-14 01:49:49 --> Monto Pago después de conversión: 17000
+ERROR - 2025-05-14 01:49:49 --> Fecha Pago: 2025-07-04
+ERROR - 2025-05-14 01:49:49 --> Monto Pago antes de conversión: 17000
+ERROR - 2025-05-14 01:49:49 --> Monto Pago después de conversión: 17000
+ERROR - 2025-05-14 01:49:49 --> Fecha Pago: 2025-07-11
+ERROR - 2025-05-14 01:49:49 --> Monto Pago antes de conversión: 17000
+ERROR - 2025-05-14 01:49:49 --> Monto Pago después de conversión: 17000
+ERROR - 2025-05-14 01:49:49 --> Fecha Pago: 2025-07-18
+ERROR - 2025-05-14 01:49:49 --> Monto Pago antes de conversión: 18000
+ERROR - 2025-05-14 01:49:49 --> Monto Pago después de conversión: 18000
+ERROR - 2025-05-14 01:49:56 --> 20
+ERROR - 2025-05-14 01:49:56 --> clienteeee
+ERROR - 2025-05-14 01:49:56 --> SELECT * FROM creditos 
+                WHERE cliente_id = 20  

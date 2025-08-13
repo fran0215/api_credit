@@ -1,0 +1,11 @@
+CRITICAL - 2025-04-29 03:32:05 --> TypeError: Firebase\JWT\JWT::decode(): Argument #1 ($jwt) must be of type string, null given, called in /home/u504444817/domains/geomy.site/public_html/API_CREDIT/app/Controllers/Auth.php on line 75
+[Method: POST, Route: api/v2/verifyToken]
+in VENDORPATH/firebase/php-jwt/src/JWT.php on line 96.
+ 1 APPPATH/Controllers/Auth.php(75): Firebase\JWT\JWT::decode()
+ 2 APPPATH/Controllers/Auth.php(88): App\Controllers\Auth->validateToken()
+ 3 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\Auth->verifyToken()
+ 4 SYSTEMPATH/CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController()
+ 5 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest()
+ 6 SYSTEMPATH/Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 7 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter()
+ 8 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb()

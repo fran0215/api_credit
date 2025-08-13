@@ -1,0 +1,1089 @@
+ERROR - 2025-07-15 00:53:27 --> 43
+ERROR - 2025-07-15 00:53:27 --> clienteeee
+ERROR - 2025-07-15 00:53:27 --> SELECT * FROM creditos 
+                WHERE cliente_id = 43 AND estado != 'eliminado'
+ERROR - 2025-07-15 00:55:32 --> Cantidad de pagos: 60
+ERROR - 2025-07-15 00:55:32 --> Fecha Pago: 2025-04-16
+ERROR - 2025-07-15 00:55:32 --> Monto Pago antes de conversión: 10000
+ERROR - 2025-07-15 00:55:32 --> Monto Pago después de conversión: 10000
+ERROR - 2025-07-15 00:55:32 --> Fecha Pago: 2025-04-17
+ERROR - 2025-07-15 00:55:32 --> Monto Pago antes de conversión: 10000
+ERROR - 2025-07-15 00:55:32 --> Monto Pago después de conversión: 10000
+ERROR - 2025-07-15 00:55:32 --> Fecha Pago: 2025-04-18
+ERROR - 2025-07-15 00:55:32 --> Monto Pago antes de conversión: 10000
+ERROR - 2025-07-15 00:55:32 --> Monto Pago después de conversión: 10000
+ERROR - 2025-07-15 00:55:32 --> Fecha Pago: 2025-04-19
+ERROR - 2025-07-15 00:55:32 --> Monto Pago antes de conversión: 10000
+ERROR - 2025-07-15 00:55:32 --> Monto Pago después de conversión: 10000
+ERROR - 2025-07-15 00:55:32 --> Fecha Pago: 2025-04-20
+ERROR - 2025-07-15 00:55:32 --> Monto Pago antes de conversión: 10000
+ERROR - 2025-07-15 00:55:32 --> Monto Pago después de conversión: 10000
+ERROR - 2025-07-15 00:55:32 --> Fecha Pago: 2025-04-21
+ERROR - 2025-07-15 00:55:32 --> Monto Pago antes de conversión: 10000
+ERROR - 2025-07-15 00:55:32 --> Monto Pago después de conversión: 10000
+ERROR - 2025-07-15 00:55:32 --> Fecha Pago: 2025-04-22
+ERROR - 2025-07-15 00:55:32 --> Monto Pago antes de conversión: 10000
+ERROR - 2025-07-15 00:55:32 --> Monto Pago después de conversión: 10000
+ERROR - 2025-07-15 00:55:32 --> Fecha Pago: 2025-04-23
+ERROR - 2025-07-15 00:55:32 --> Monto Pago antes de conversión: 10000
+ERROR - 2025-07-15 00:55:32 --> Monto Pago después de conversión: 10000
+ERROR - 2025-07-15 00:55:32 --> Fecha Pago: 2025-04-24
+ERROR - 2025-07-15 00:55:32 --> Monto Pago antes de conversión: 10000
+ERROR - 2025-07-15 00:55:32 --> Monto Pago después de conversión: 10000
+ERROR - 2025-07-15 00:55:32 --> Fecha Pago: 2025-04-25
+ERROR - 2025-07-15 00:55:32 --> Monto Pago antes de conversión: 10000
+ERROR - 2025-07-15 00:55:32 --> Monto Pago después de conversión: 10000
+ERROR - 2025-07-15 00:55:32 --> Fecha Pago: 2025-04-26
+ERROR - 2025-07-15 00:55:32 --> Monto Pago antes de conversión: 10000
+ERROR - 2025-07-15 00:55:32 --> Monto Pago después de conversión: 10000
+ERROR - 2025-07-15 00:55:32 --> Fecha Pago: 2025-04-27
+ERROR - 2025-07-15 00:55:32 --> Monto Pago antes de conversión: 10000
+ERROR - 2025-07-15 00:55:32 --> Monto Pago después de conversión: 10000
+ERROR - 2025-07-15 00:55:32 --> Fecha Pago: 2025-04-28
+ERROR - 2025-07-15 00:55:32 --> Monto Pago antes de conversión: 10000
+ERROR - 2025-07-15 00:55:32 --> Monto Pago después de conversión: 10000
+ERROR - 2025-07-15 00:55:32 --> Fecha Pago: 2025-04-29
+ERROR - 2025-07-15 00:55:32 --> Monto Pago antes de conversión: 10000
+ERROR - 2025-07-15 00:55:32 --> Monto Pago después de conversión: 10000
+ERROR - 2025-07-15 00:55:32 --> Fecha Pago: 2025-04-30
+ERROR - 2025-07-15 00:55:32 --> Monto Pago antes de conversión: 10000
+ERROR - 2025-07-15 00:55:32 --> Monto Pago después de conversión: 10000
+ERROR - 2025-07-15 00:55:32 --> Fecha Pago: 2025-05-01
+ERROR - 2025-07-15 00:55:32 --> Monto Pago antes de conversión: 10000
+ERROR - 2025-07-15 00:55:32 --> Monto Pago después de conversión: 10000
+ERROR - 2025-07-15 00:55:32 --> Fecha Pago: 2025-05-02
+ERROR - 2025-07-15 00:55:32 --> Monto Pago antes de conversión: 10000
+ERROR - 2025-07-15 00:55:32 --> Monto Pago después de conversión: 10000
+ERROR - 2025-07-15 00:55:32 --> Fecha Pago: 2025-05-03
+ERROR - 2025-07-15 00:55:32 --> Monto Pago antes de conversión: 10000
+ERROR - 2025-07-15 00:55:32 --> Monto Pago después de conversión: 10000
+ERROR - 2025-07-15 00:55:32 --> Fecha Pago: 2025-05-04
+ERROR - 2025-07-15 00:55:32 --> Monto Pago antes de conversión: 10000
+ERROR - 2025-07-15 00:55:32 --> Monto Pago después de conversión: 10000
+ERROR - 2025-07-15 00:55:32 --> Fecha Pago: 2025-05-05
+ERROR - 2025-07-15 00:55:32 --> Monto Pago antes de conversión: 10000
+ERROR - 2025-07-15 00:55:32 --> Monto Pago después de conversión: 10000
+ERROR - 2025-07-15 00:55:32 --> Fecha Pago: 2025-05-06
+ERROR - 2025-07-15 00:55:32 --> Monto Pago antes de conversión: 10000
+ERROR - 2025-07-15 00:55:32 --> Monto Pago después de conversión: 10000
+ERROR - 2025-07-15 00:55:32 --> Fecha Pago: 2025-05-07
+ERROR - 2025-07-15 00:55:32 --> Monto Pago antes de conversión: 10000
+ERROR - 2025-07-15 00:55:32 --> Monto Pago después de conversión: 10000
+ERROR - 2025-07-15 00:55:32 --> Fecha Pago: 2025-05-08
+ERROR - 2025-07-15 00:55:32 --> Monto Pago antes de conversión: 10000
+ERROR - 2025-07-15 00:55:32 --> Monto Pago después de conversión: 10000
+ERROR - 2025-07-15 00:55:32 --> Fecha Pago: 2025-05-09
+ERROR - 2025-07-15 00:55:32 --> Monto Pago antes de conversión: 10000
+ERROR - 2025-07-15 00:55:32 --> Monto Pago después de conversión: 10000
+ERROR - 2025-07-15 00:55:32 --> Fecha Pago: 2025-05-10
+ERROR - 2025-07-15 00:55:32 --> Monto Pago antes de conversión: 10000
+ERROR - 2025-07-15 00:55:32 --> Monto Pago después de conversión: 10000
+ERROR - 2025-07-15 00:55:32 --> Fecha Pago: 2025-05-11
+ERROR - 2025-07-15 00:55:32 --> Monto Pago antes de conversión: 10000
+ERROR - 2025-07-15 00:55:32 --> Monto Pago después de conversión: 10000
+ERROR - 2025-07-15 00:55:32 --> Fecha Pago: 2025-05-12
+ERROR - 2025-07-15 00:55:32 --> Monto Pago antes de conversión: 10000
+ERROR - 2025-07-15 00:55:32 --> Monto Pago después de conversión: 10000
+ERROR - 2025-07-15 00:55:32 --> Fecha Pago: 2025-05-13
+ERROR - 2025-07-15 00:55:32 --> Monto Pago antes de conversión: 10000
+ERROR - 2025-07-15 00:55:32 --> Monto Pago después de conversión: 10000
+ERROR - 2025-07-15 00:55:32 --> Fecha Pago: 2025-05-14
+ERROR - 2025-07-15 00:55:32 --> Monto Pago antes de conversión: 10000
+ERROR - 2025-07-15 00:55:32 --> Monto Pago después de conversión: 10000
+ERROR - 2025-07-15 00:55:32 --> Fecha Pago: 2025-05-15
+ERROR - 2025-07-15 00:55:32 --> Monto Pago antes de conversión: 10000
+ERROR - 2025-07-15 00:55:32 --> Monto Pago después de conversión: 10000
+ERROR - 2025-07-15 00:55:32 --> Fecha Pago: 2025-05-16
+ERROR - 2025-07-15 00:55:32 --> Monto Pago antes de conversión: 10000
+ERROR - 2025-07-15 00:55:32 --> Monto Pago después de conversión: 10000
+ERROR - 2025-07-15 00:55:32 --> Fecha Pago: 2025-05-17
+ERROR - 2025-07-15 00:55:32 --> Monto Pago antes de conversión: 10000
+ERROR - 2025-07-15 00:55:32 --> Monto Pago después de conversión: 10000
+ERROR - 2025-07-15 00:55:32 --> Fecha Pago: 2025-05-18
+ERROR - 2025-07-15 00:55:32 --> Monto Pago antes de conversión: 10000
+ERROR - 2025-07-15 00:55:32 --> Monto Pago después de conversión: 10000
+ERROR - 2025-07-15 00:55:32 --> Fecha Pago: 2025-05-19
+ERROR - 2025-07-15 00:55:32 --> Monto Pago antes de conversión: 10000
+ERROR - 2025-07-15 00:55:32 --> Monto Pago después de conversión: 10000
+ERROR - 2025-07-15 00:55:32 --> Fecha Pago: 2025-05-20
+ERROR - 2025-07-15 00:55:32 --> Monto Pago antes de conversión: 10000
+ERROR - 2025-07-15 00:55:32 --> Monto Pago después de conversión: 10000
+ERROR - 2025-07-15 00:55:32 --> Fecha Pago: 2025-05-21
+ERROR - 2025-07-15 00:55:32 --> Monto Pago antes de conversión: 10000
+ERROR - 2025-07-15 00:55:32 --> Monto Pago después de conversión: 10000
+ERROR - 2025-07-15 00:55:32 --> Fecha Pago: 2025-05-22
+ERROR - 2025-07-15 00:55:32 --> Monto Pago antes de conversión: 10000
+ERROR - 2025-07-15 00:55:32 --> Monto Pago después de conversión: 10000
+ERROR - 2025-07-15 00:55:32 --> Fecha Pago: 2025-05-23
+ERROR - 2025-07-15 00:55:32 --> Monto Pago antes de conversión: 10000
+ERROR - 2025-07-15 00:55:32 --> Monto Pago después de conversión: 10000
+ERROR - 2025-07-15 00:55:32 --> Fecha Pago: 2025-05-24
+ERROR - 2025-07-15 00:55:32 --> Monto Pago antes de conversión: 10000
+ERROR - 2025-07-15 00:55:32 --> Monto Pago después de conversión: 10000
+ERROR - 2025-07-15 00:55:32 --> Fecha Pago: 2025-05-25
+ERROR - 2025-07-15 00:55:32 --> Monto Pago antes de conversión: 10000
+ERROR - 2025-07-15 00:55:32 --> Monto Pago después de conversión: 10000
+ERROR - 2025-07-15 00:55:32 --> Fecha Pago: 2025-05-26
+ERROR - 2025-07-15 00:55:32 --> Monto Pago antes de conversión: 10000
+ERROR - 2025-07-15 00:55:32 --> Monto Pago después de conversión: 10000
+ERROR - 2025-07-15 00:55:32 --> Fecha Pago: 2025-05-27
+ERROR - 2025-07-15 00:55:32 --> Monto Pago antes de conversión: 10000
+ERROR - 2025-07-15 00:55:32 --> Monto Pago después de conversión: 10000
+ERROR - 2025-07-15 00:55:32 --> Fecha Pago: 2025-05-28
+ERROR - 2025-07-15 00:55:32 --> Monto Pago antes de conversión: 10000
+ERROR - 2025-07-15 00:55:32 --> Monto Pago después de conversión: 10000
+ERROR - 2025-07-15 00:55:32 --> Fecha Pago: 2025-05-29
+ERROR - 2025-07-15 00:55:32 --> Monto Pago antes de conversión: 10000
+ERROR - 2025-07-15 00:55:32 --> Monto Pago después de conversión: 10000
+ERROR - 2025-07-15 00:55:32 --> Fecha Pago: 2025-05-30
+ERROR - 2025-07-15 00:55:32 --> Monto Pago antes de conversión: 10000
+ERROR - 2025-07-15 00:55:32 --> Monto Pago después de conversión: 10000
+ERROR - 2025-07-15 00:55:32 --> Fecha Pago: 2025-05-31
+ERROR - 2025-07-15 00:55:32 --> Monto Pago antes de conversión: 10000
+ERROR - 2025-07-15 00:55:32 --> Monto Pago después de conversión: 10000
+ERROR - 2025-07-15 00:55:32 --> Fecha Pago: 2025-06-01
+ERROR - 2025-07-15 00:55:32 --> Monto Pago antes de conversión: 10000
+ERROR - 2025-07-15 00:55:32 --> Monto Pago después de conversión: 10000
+ERROR - 2025-07-15 00:55:32 --> Fecha Pago: 2025-06-02
+ERROR - 2025-07-15 00:55:32 --> Monto Pago antes de conversión: 10000
+ERROR - 2025-07-15 00:55:32 --> Monto Pago después de conversión: 10000
+ERROR - 2025-07-15 00:55:32 --> Fecha Pago: 2025-06-03
+ERROR - 2025-07-15 00:55:32 --> Monto Pago antes de conversión: 10000
+ERROR - 2025-07-15 00:55:32 --> Monto Pago después de conversión: 10000
+ERROR - 2025-07-15 00:55:32 --> Fecha Pago: 2025-06-04
+ERROR - 2025-07-15 00:55:32 --> Monto Pago antes de conversión: 10000
+ERROR - 2025-07-15 00:55:32 --> Monto Pago después de conversión: 10000
+ERROR - 2025-07-15 00:55:32 --> Fecha Pago: 2025-06-05
+ERROR - 2025-07-15 00:55:32 --> Monto Pago antes de conversión: 10000
+ERROR - 2025-07-15 00:55:32 --> Monto Pago después de conversión: 10000
+ERROR - 2025-07-15 00:55:32 --> Fecha Pago: 2025-06-06
+ERROR - 2025-07-15 00:55:32 --> Monto Pago antes de conversión: 10000
+ERROR - 2025-07-15 00:55:32 --> Monto Pago después de conversión: 10000
+ERROR - 2025-07-15 00:55:32 --> Fecha Pago: 2025-06-07
+ERROR - 2025-07-15 00:55:32 --> Monto Pago antes de conversión: 10000
+ERROR - 2025-07-15 00:55:32 --> Monto Pago después de conversión: 10000
+ERROR - 2025-07-15 00:55:32 --> Fecha Pago: 2025-06-08
+ERROR - 2025-07-15 00:55:32 --> Monto Pago antes de conversión: 10000
+ERROR - 2025-07-15 00:55:32 --> Monto Pago después de conversión: 10000
+ERROR - 2025-07-15 00:55:32 --> Fecha Pago: 2025-06-09
+ERROR - 2025-07-15 00:55:32 --> Monto Pago antes de conversión: 10000
+ERROR - 2025-07-15 00:55:32 --> Monto Pago después de conversión: 10000
+ERROR - 2025-07-15 00:55:32 --> Fecha Pago: 2025-06-10
+ERROR - 2025-07-15 00:55:32 --> Monto Pago antes de conversión: 10000
+ERROR - 2025-07-15 00:55:32 --> Monto Pago después de conversión: 10000
+ERROR - 2025-07-15 00:55:32 --> Fecha Pago: 2025-06-11
+ERROR - 2025-07-15 00:55:32 --> Monto Pago antes de conversión: 10000
+ERROR - 2025-07-15 00:55:32 --> Monto Pago después de conversión: 10000
+ERROR - 2025-07-15 00:55:32 --> Fecha Pago: 2025-06-12
+ERROR - 2025-07-15 00:55:32 --> Monto Pago antes de conversión: 10000
+ERROR - 2025-07-15 00:55:32 --> Monto Pago después de conversión: 10000
+ERROR - 2025-07-15 00:55:32 --> Fecha Pago: 2025-06-13
+ERROR - 2025-07-15 00:55:32 --> Monto Pago antes de conversión: 10000
+ERROR - 2025-07-15 00:55:32 --> Monto Pago después de conversión: 10000
+ERROR - 2025-07-15 00:55:32 --> Fecha Pago: 2025-06-14
+ERROR - 2025-07-15 00:55:32 --> Monto Pago antes de conversión: 60000
+ERROR - 2025-07-15 00:55:32 --> Monto Pago después de conversión: 60000
+ERROR - 2025-07-15 15:14:52 --> 26
+ERROR - 2025-07-15 15:14:52 --> clienteeee
+ERROR - 2025-07-15 15:14:52 --> SELECT * FROM creditos 
+                WHERE cliente_id = 26 AND estado != 'eliminado'
+ERROR - 2025-07-15 15:21:00 --> 26
+ERROR - 2025-07-15 15:21:00 --> clienteeee
+ERROR - 2025-07-15 15:21:00 --> SELECT * FROM creditos 
+                WHERE cliente_id = 26 AND estado != 'eliminado'
+ERROR - 2025-07-15 15:21:39 --> 26
+ERROR - 2025-07-15 15:21:39 --> clienteeee
+ERROR - 2025-07-15 15:21:39 --> SELECT * FROM creditos 
+                WHERE cliente_id = 26 AND estado != 'eliminado'
+ERROR - 2025-07-15 15:24:32 --> 26
+ERROR - 2025-07-15 15:24:32 --> clienteeee
+ERROR - 2025-07-15 15:24:32 --> SELECT * FROM creditos 
+                WHERE cliente_id = 26 AND estado != 'eliminado'
+ERROR - 2025-07-15 15:24:38 --> 28
+ERROR - 2025-07-15 15:24:38 --> clienteeee
+ERROR - 2025-07-15 15:24:38 --> SELECT * FROM creditos 
+                WHERE cliente_id = 28 AND estado != 'eliminado'
+ERROR - 2025-07-15 15:24:44 --> 30
+ERROR - 2025-07-15 15:24:44 --> clienteeee
+ERROR - 2025-07-15 15:24:44 --> SELECT * FROM creditos 
+                WHERE cliente_id = 30 AND estado != 'eliminado'
+ERROR - 2025-07-15 15:24:58 --> 26
+ERROR - 2025-07-15 15:24:58 --> clienteeee
+ERROR - 2025-07-15 15:24:58 --> SELECT * FROM creditos 
+                WHERE cliente_id = 26 AND estado != 'eliminado'
+ERROR - 2025-07-15 15:25:03 --> SELECT * FROM transacciones 
+                WHERE id_credito = "68"
+ERROR - 2025-07-15 15:44:50 --> 26
+ERROR - 2025-07-15 15:44:50 --> clienteeee
+ERROR - 2025-07-15 15:44:50 --> SELECT * FROM creditos 
+                WHERE cliente_id = 26 AND estado != 'eliminado'
+ERROR - 2025-07-15 15:45:52 --> 26
+ERROR - 2025-07-15 15:45:52 --> clienteeee
+ERROR - 2025-07-15 15:45:52 --> SELECT * FROM creditos 
+                WHERE cliente_id = 26 AND estado != 'eliminado'
+ERROR - 2025-07-15 15:46:21 --> 44
+ERROR - 2025-07-15 15:46:21 --> clienteeee
+ERROR - 2025-07-15 15:46:21 --> SELECT * FROM creditos 
+                WHERE cliente_id = 44 AND estado != 'eliminado'
+ERROR - 2025-07-15 15:46:23 --> SELECT * FROM transacciones 
+                WHERE id_credito = "69"
+ERROR - 2025-07-15 15:46:28 --> SELECT * FROM transacciones 
+                WHERE id_credito = "69"
+ERROR - 2025-07-15 15:46:34 --> SELECT * FROM transacciones 
+                WHERE id_credito = "69"
+ERROR - 2025-07-15 15:46:44 --> SELECT * FROM transacciones 
+                WHERE id_credito = "69"
+ERROR - 2025-07-15 15:47:40 --> SELECT * FROM transacciones 
+                WHERE id_credito = "69"
+ERROR - 2025-07-15 15:50:00 --> SELECT * FROM transacciones 
+                WHERE id_credito = "69"
+ERROR - 2025-07-15 15:50:12 --> 44
+ERROR - 2025-07-15 15:50:12 --> clienteeee
+ERROR - 2025-07-15 15:50:12 --> SELECT * FROM creditos 
+                WHERE cliente_id = 44 AND estado != 'eliminado'
+ERROR - 2025-07-15 15:50:20 --> SELECT * FROM transacciones 
+                WHERE id_credito = "69"
+ERROR - 2025-07-15 15:55:34 --> SELECT * FROM transacciones 
+                WHERE id_credito = "69"
+ERROR - 2025-07-15 15:55:46 --> SELECT * FROM transacciones 
+                WHERE id_credito = "69"
+ERROR - 2025-07-15 15:55:52 --> 44
+ERROR - 2025-07-15 15:55:52 --> clienteeee
+ERROR - 2025-07-15 15:55:52 --> SELECT * FROM creditos 
+                WHERE cliente_id = 44 AND estado != 'eliminado'
+ERROR - 2025-07-15 15:56:02 --> SELECT * FROM transacciones 
+                WHERE id_credito = "69"
+ERROR - 2025-07-15 15:56:05 --> SELECT * FROM transacciones 
+                WHERE id_credito = "69"
+ERROR - 2025-07-15 15:56:09 --> SELECT * FROM transacciones 
+                WHERE id_credito = "69"
+ERROR - 2025-07-15 15:56:15 --> 43
+ERROR - 2025-07-15 15:56:15 --> clienteeee
+ERROR - 2025-07-15 15:56:15 --> SELECT * FROM creditos 
+                WHERE cliente_id = 43 AND estado != 'eliminado'
+ERROR - 2025-07-15 15:56:17 --> 44
+ERROR - 2025-07-15 15:56:17 --> clienteeee
+ERROR - 2025-07-15 15:56:17 --> SELECT * FROM creditos 
+                WHERE cliente_id = 44 AND estado != 'eliminado'
+ERROR - 2025-07-15 15:56:21 --> SELECT * FROM transacciones 
+                WHERE id_credito = "69"
+ERROR - 2025-07-15 15:56:24 --> SELECT * FROM transacciones 
+                WHERE id_credito = "69"
+ERROR - 2025-07-15 16:00:32 --> mysqli_sql_exception: Unknown column 'transacciones.monto_pago' in 'SELECT' in /home/u504444817/domains/geomy.site/public_html/API_CREDIT/system/Database/MySQLi/Connection.php:308
+Stack trace:
+#0 /home/u504444817/domains/geomy.site/public_html/API_CREDIT/system/Database/MySQLi/Connection.php(308): mysqli->query()
+#1 /home/u504444817/domains/geomy.site/public_html/API_CREDIT/system/Database/BaseConnection.php(722): CodeIgniter\Database\MySQLi\Connection->execute()
+#2 /home/u504444817/domains/geomy.site/public_html/API_CREDIT/system/Database/BaseConnection.php(636): CodeIgniter\Database\BaseConnection->simpleQuery()
+#3 /home/u504444817/domains/geomy.site/public_html/API_CREDIT/system/Database/BaseBuilder.php(1629): CodeIgniter\Database\BaseConnection->query()
+#4 /home/u504444817/domains/geomy.site/public_html/API_CREDIT/system/Model.php(319): CodeIgniter\Database\BaseBuilder->get()
+#5 /home/u504444817/domains/geomy.site/public_html/API_CREDIT/system/BaseModel.php(714): CodeIgniter\Model->doFirst()
+#6 /home/u504444817/domains/geomy.site/public_html/API_CREDIT/app/Controllers/CreditoController.php(197): CodeIgniter\BaseModel->first()
+#7 /home/u504444817/domains/geomy.site/public_html/API_CREDIT/system/CodeIgniter.php(933): App\Controllers\CreditoController->obtenerResumenNegocio()
+#8 /home/u504444817/domains/geomy.site/public_html/API_CREDIT/system/CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController()
+#9 /home/u504444817/domains/geomy.site/public_html/API_CREDIT/system/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest()
+#10 /home/u504444817/domains/geomy.site/public_html/API_CREDIT/system/Boot.php(312): CodeIgniter\CodeIgniter->run()
+#11 /home/u504444817/domains/geomy.site/public_html/API_CREDIT/system/Boot.php(67): CodeIgniter\Boot::runCodeIgniter()
+#12 /home/u504444817/domains/geomy.site/public_html/API_CREDIT/public/index.php(56): CodeIgniter\Boot::bootWeb()
+#13 {main}
+CRITICAL - 2025-07-15 16:00:32 --> CodeIgniter\Database\Exceptions\DatabaseException: Unknown column 'transacciones.monto_pago' in 'SELECT'
+[Method: GET, Route: api/v2/resumen]
+in SYSTEMPATH/Database/BaseConnection.php on line 676.
+ 1 SYSTEMPATH/Database/BaseBuilder.php(1629): CodeIgniter\Database\BaseConnection->query()
+ 2 SYSTEMPATH/Model.php(319): CodeIgniter\Database\BaseBuilder->get()
+ 3 SYSTEMPATH/BaseModel.php(714): CodeIgniter\Model->doFirst()
+ 4 APPPATH/Controllers/CreditoController.php(197): CodeIgniter\BaseModel->first()
+ 5 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\CreditoController->obtenerResumenNegocio()
+ 6 SYSTEMPATH/CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController()
+ 7 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest()
+ 8 SYSTEMPATH/Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter()
+10 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb()
+CRITICAL - 2025-07-15 16:00:32 --> [Caused by] CodeIgniter\Database\Exceptions\DatabaseException: Unknown column 'transacciones.monto_pago' in 'SELECT'
+in SYSTEMPATH/Database/MySQLi/Connection.php on line 313.
+ 1 SYSTEMPATH/Database/BaseConnection.php(722): CodeIgniter\Database\MySQLi\Connection->execute()
+ 2 SYSTEMPATH/Database/BaseConnection.php(636): CodeIgniter\Database\BaseConnection->simpleQuery()
+ 3 SYSTEMPATH/Database/BaseBuilder.php(1629): CodeIgniter\Database\BaseConnection->query()
+ 4 SYSTEMPATH/Model.php(319): CodeIgniter\Database\BaseBuilder->get()
+ 5 SYSTEMPATH/BaseModel.php(714): CodeIgniter\Model->doFirst()
+ 6 APPPATH/Controllers/CreditoController.php(197): CodeIgniter\BaseModel->first()
+ 7 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\CreditoController->obtenerResumenNegocio()
+ 8 SYSTEMPATH/CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController()
+ 9 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest()
+10 SYSTEMPATH/Boot.php(312): CodeIgniter\CodeIgniter->run()
+11 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter()
+12 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb()
+CRITICAL - 2025-07-15 16:00:32 --> [Caused by] mysqli_sql_exception: Unknown column 'transacciones.monto_pago' in 'SELECT'
+in SYSTEMPATH/Database/MySQLi/Connection.php on line 308.
+ 1 SYSTEMPATH/Database/MySQLi/Connection.php(308): mysqli->query()
+ 2 SYSTEMPATH/Database/BaseConnection.php(722): CodeIgniter\Database\MySQLi\Connection->execute()
+ 3 SYSTEMPATH/Database/BaseConnection.php(636): CodeIgniter\Database\BaseConnection->simpleQuery()
+ 4 SYSTEMPATH/Database/BaseBuilder.php(1629): CodeIgniter\Database\BaseConnection->query()
+ 5 SYSTEMPATH/Model.php(319): CodeIgniter\Database\BaseBuilder->get()
+ 6 SYSTEMPATH/BaseModel.php(714): CodeIgniter\Model->doFirst()
+ 7 APPPATH/Controllers/CreditoController.php(197): CodeIgniter\BaseModel->first()
+ 8 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\CreditoController->obtenerResumenNegocio()
+ 9 SYSTEMPATH/CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController()
+10 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest()
+11 SYSTEMPATH/Boot.php(312): CodeIgniter\CodeIgniter->run()
+12 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter()
+13 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb()
+ERROR - 2025-07-15 16:00:38 --> mysqli_sql_exception: Unknown column 'transacciones.monto_pago' in 'SELECT' in /home/u504444817/domains/geomy.site/public_html/API_CREDIT/system/Database/MySQLi/Connection.php:308
+Stack trace:
+#0 /home/u504444817/domains/geomy.site/public_html/API_CREDIT/system/Database/MySQLi/Connection.php(308): mysqli->query()
+#1 /home/u504444817/domains/geomy.site/public_html/API_CREDIT/system/Database/BaseConnection.php(722): CodeIgniter\Database\MySQLi\Connection->execute()
+#2 /home/u504444817/domains/geomy.site/public_html/API_CREDIT/system/Database/BaseConnection.php(636): CodeIgniter\Database\BaseConnection->simpleQuery()
+#3 /home/u504444817/domains/geomy.site/public_html/API_CREDIT/system/Database/BaseBuilder.php(1629): CodeIgniter\Database\BaseConnection->query()
+#4 /home/u504444817/domains/geomy.site/public_html/API_CREDIT/system/Model.php(319): CodeIgniter\Database\BaseBuilder->get()
+#5 /home/u504444817/domains/geomy.site/public_html/API_CREDIT/system/BaseModel.php(714): CodeIgniter\Model->doFirst()
+#6 /home/u504444817/domains/geomy.site/public_html/API_CREDIT/app/Controllers/CreditoController.php(197): CodeIgniter\BaseModel->first()
+#7 /home/u504444817/domains/geomy.site/public_html/API_CREDIT/system/CodeIgniter.php(933): App\Controllers\CreditoController->obtenerResumenNegocio()
+#8 /home/u504444817/domains/geomy.site/public_html/API_CREDIT/system/CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController()
+#9 /home/u504444817/domains/geomy.site/public_html/API_CREDIT/system/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest()
+#10 /home/u504444817/domains/geomy.site/public_html/API_CREDIT/system/Boot.php(312): CodeIgniter\CodeIgniter->run()
+#11 /home/u504444817/domains/geomy.site/public_html/API_CREDIT/system/Boot.php(67): CodeIgniter\Boot::runCodeIgniter()
+#12 /home/u504444817/domains/geomy.site/public_html/API_CREDIT/public/index.php(56): CodeIgniter\Boot::bootWeb()
+#13 {main}
+CRITICAL - 2025-07-15 16:00:38 --> CodeIgniter\Database\Exceptions\DatabaseException: Unknown column 'transacciones.monto_pago' in 'SELECT'
+[Method: GET, Route: api/v2/resumen]
+in SYSTEMPATH/Database/BaseConnection.php on line 676.
+ 1 SYSTEMPATH/Database/BaseBuilder.php(1629): CodeIgniter\Database\BaseConnection->query()
+ 2 SYSTEMPATH/Model.php(319): CodeIgniter\Database\BaseBuilder->get()
+ 3 SYSTEMPATH/BaseModel.php(714): CodeIgniter\Model->doFirst()
+ 4 APPPATH/Controllers/CreditoController.php(197): CodeIgniter\BaseModel->first()
+ 5 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\CreditoController->obtenerResumenNegocio()
+ 6 SYSTEMPATH/CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController()
+ 7 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest()
+ 8 SYSTEMPATH/Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter()
+10 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb()
+CRITICAL - 2025-07-15 16:00:38 --> [Caused by] CodeIgniter\Database\Exceptions\DatabaseException: Unknown column 'transacciones.monto_pago' in 'SELECT'
+in SYSTEMPATH/Database/MySQLi/Connection.php on line 313.
+ 1 SYSTEMPATH/Database/BaseConnection.php(722): CodeIgniter\Database\MySQLi\Connection->execute()
+ 2 SYSTEMPATH/Database/BaseConnection.php(636): CodeIgniter\Database\BaseConnection->simpleQuery()
+ 3 SYSTEMPATH/Database/BaseBuilder.php(1629): CodeIgniter\Database\BaseConnection->query()
+ 4 SYSTEMPATH/Model.php(319): CodeIgniter\Database\BaseBuilder->get()
+ 5 SYSTEMPATH/BaseModel.php(714): CodeIgniter\Model->doFirst()
+ 6 APPPATH/Controllers/CreditoController.php(197): CodeIgniter\BaseModel->first()
+ 7 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\CreditoController->obtenerResumenNegocio()
+ 8 SYSTEMPATH/CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController()
+ 9 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest()
+10 SYSTEMPATH/Boot.php(312): CodeIgniter\CodeIgniter->run()
+11 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter()
+12 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb()
+CRITICAL - 2025-07-15 16:00:38 --> [Caused by] mysqli_sql_exception: Unknown column 'transacciones.monto_pago' in 'SELECT'
+in SYSTEMPATH/Database/MySQLi/Connection.php on line 308.
+ 1 SYSTEMPATH/Database/MySQLi/Connection.php(308): mysqli->query()
+ 2 SYSTEMPATH/Database/BaseConnection.php(722): CodeIgniter\Database\MySQLi\Connection->execute()
+ 3 SYSTEMPATH/Database/BaseConnection.php(636): CodeIgniter\Database\BaseConnection->simpleQuery()
+ 4 SYSTEMPATH/Database/BaseBuilder.php(1629): CodeIgniter\Database\BaseConnection->query()
+ 5 SYSTEMPATH/Model.php(319): CodeIgniter\Database\BaseBuilder->get()
+ 6 SYSTEMPATH/BaseModel.php(714): CodeIgniter\Model->doFirst()
+ 7 APPPATH/Controllers/CreditoController.php(197): CodeIgniter\BaseModel->first()
+ 8 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\CreditoController->obtenerResumenNegocio()
+ 9 SYSTEMPATH/CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController()
+10 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest()
+11 SYSTEMPATH/Boot.php(312): CodeIgniter\CodeIgniter->run()
+12 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter()
+13 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb()
+ERROR - 2025-07-15 16:01:21 --> mysqli_sql_exception: Unknown column 'transacciones.monto_pago' in 'SELECT' in /home/u504444817/domains/geomy.site/public_html/API_CREDIT/system/Database/MySQLi/Connection.php:308
+Stack trace:
+#0 /home/u504444817/domains/geomy.site/public_html/API_CREDIT/system/Database/MySQLi/Connection.php(308): mysqli->query()
+#1 /home/u504444817/domains/geomy.site/public_html/API_CREDIT/system/Database/BaseConnection.php(722): CodeIgniter\Database\MySQLi\Connection->execute()
+#2 /home/u504444817/domains/geomy.site/public_html/API_CREDIT/system/Database/BaseConnection.php(636): CodeIgniter\Database\BaseConnection->simpleQuery()
+#3 /home/u504444817/domains/geomy.site/public_html/API_CREDIT/system/Database/BaseBuilder.php(1629): CodeIgniter\Database\BaseConnection->query()
+#4 /home/u504444817/domains/geomy.site/public_html/API_CREDIT/system/Model.php(319): CodeIgniter\Database\BaseBuilder->get()
+#5 /home/u504444817/domains/geomy.site/public_html/API_CREDIT/system/BaseModel.php(714): CodeIgniter\Model->doFirst()
+#6 /home/u504444817/domains/geomy.site/public_html/API_CREDIT/app/Controllers/CreditoController.php(196): CodeIgniter\BaseModel->first()
+#7 /home/u504444817/domains/geomy.site/public_html/API_CREDIT/system/CodeIgniter.php(933): App\Controllers\CreditoController->obtenerResumenNegocio()
+#8 /home/u504444817/domains/geomy.site/public_html/API_CREDIT/system/CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController()
+#9 /home/u504444817/domains/geomy.site/public_html/API_CREDIT/system/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest()
+#10 /home/u504444817/domains/geomy.site/public_html/API_CREDIT/system/Boot.php(312): CodeIgniter\CodeIgniter->run()
+#11 /home/u504444817/domains/geomy.site/public_html/API_CREDIT/system/Boot.php(67): CodeIgniter\Boot::runCodeIgniter()
+#12 /home/u504444817/domains/geomy.site/public_html/API_CREDIT/public/index.php(56): CodeIgniter\Boot::bootWeb()
+#13 {main}
+CRITICAL - 2025-07-15 16:01:21 --> CodeIgniter\Database\Exceptions\DatabaseException: Unknown column 'transacciones.monto_pago' in 'SELECT'
+[Method: GET, Route: api/v2/resumen]
+in SYSTEMPATH/Database/BaseConnection.php on line 676.
+ 1 SYSTEMPATH/Database/BaseBuilder.php(1629): CodeIgniter\Database\BaseConnection->query()
+ 2 SYSTEMPATH/Model.php(319): CodeIgniter\Database\BaseBuilder->get()
+ 3 SYSTEMPATH/BaseModel.php(714): CodeIgniter\Model->doFirst()
+ 4 APPPATH/Controllers/CreditoController.php(196): CodeIgniter\BaseModel->first()
+ 5 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\CreditoController->obtenerResumenNegocio()
+ 6 SYSTEMPATH/CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController()
+ 7 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest()
+ 8 SYSTEMPATH/Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter()
+10 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb()
+CRITICAL - 2025-07-15 16:01:21 --> [Caused by] CodeIgniter\Database\Exceptions\DatabaseException: Unknown column 'transacciones.monto_pago' in 'SELECT'
+in SYSTEMPATH/Database/MySQLi/Connection.php on line 313.
+ 1 SYSTEMPATH/Database/BaseConnection.php(722): CodeIgniter\Database\MySQLi\Connection->execute()
+ 2 SYSTEMPATH/Database/BaseConnection.php(636): CodeIgniter\Database\BaseConnection->simpleQuery()
+ 3 SYSTEMPATH/Database/BaseBuilder.php(1629): CodeIgniter\Database\BaseConnection->query()
+ 4 SYSTEMPATH/Model.php(319): CodeIgniter\Database\BaseBuilder->get()
+ 5 SYSTEMPATH/BaseModel.php(714): CodeIgniter\Model->doFirst()
+ 6 APPPATH/Controllers/CreditoController.php(196): CodeIgniter\BaseModel->first()
+ 7 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\CreditoController->obtenerResumenNegocio()
+ 8 SYSTEMPATH/CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController()
+ 9 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest()
+10 SYSTEMPATH/Boot.php(312): CodeIgniter\CodeIgniter->run()
+11 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter()
+12 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb()
+CRITICAL - 2025-07-15 16:01:21 --> [Caused by] mysqli_sql_exception: Unknown column 'transacciones.monto_pago' in 'SELECT'
+in SYSTEMPATH/Database/MySQLi/Connection.php on line 308.
+ 1 SYSTEMPATH/Database/MySQLi/Connection.php(308): mysqli->query()
+ 2 SYSTEMPATH/Database/BaseConnection.php(722): CodeIgniter\Database\MySQLi\Connection->execute()
+ 3 SYSTEMPATH/Database/BaseConnection.php(636): CodeIgniter\Database\BaseConnection->simpleQuery()
+ 4 SYSTEMPATH/Database/BaseBuilder.php(1629): CodeIgniter\Database\BaseConnection->query()
+ 5 SYSTEMPATH/Model.php(319): CodeIgniter\Database\BaseBuilder->get()
+ 6 SYSTEMPATH/BaseModel.php(714): CodeIgniter\Model->doFirst()
+ 7 APPPATH/Controllers/CreditoController.php(196): CodeIgniter\BaseModel->first()
+ 8 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\CreditoController->obtenerResumenNegocio()
+ 9 SYSTEMPATH/CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController()
+10 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest()
+11 SYSTEMPATH/Boot.php(312): CodeIgniter\CodeIgniter->run()
+12 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter()
+13 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb()
+ERROR - 2025-07-15 16:10:25 --> mysqli_sql_exception: Unknown column 'credito.monto' in 'SELECT' in /home/u504444817/domains/geomy.site/public_html/API_CREDIT/system/Database/MySQLi/Connection.php:308
+Stack trace:
+#0 /home/u504444817/domains/geomy.site/public_html/API_CREDIT/system/Database/MySQLi/Connection.php(308): mysqli->query()
+#1 /home/u504444817/domains/geomy.site/public_html/API_CREDIT/system/Database/BaseConnection.php(722): CodeIgniter\Database\MySQLi\Connection->execute()
+#2 /home/u504444817/domains/geomy.site/public_html/API_CREDIT/system/Database/BaseConnection.php(636): CodeIgniter\Database\BaseConnection->simpleQuery()
+#3 /home/u504444817/domains/geomy.site/public_html/API_CREDIT/system/Database/BaseBuilder.php(1629): CodeIgniter\Database\BaseConnection->query()
+#4 /home/u504444817/domains/geomy.site/public_html/API_CREDIT/system/Model.php(319): CodeIgniter\Database\BaseBuilder->get()
+#5 /home/u504444817/domains/geomy.site/public_html/API_CREDIT/system/BaseModel.php(714): CodeIgniter\Model->doFirst()
+#6 /home/u504444817/domains/geomy.site/public_html/API_CREDIT/app/Controllers/CreditoController.php(196): CodeIgniter\BaseModel->first()
+#7 /home/u504444817/domains/geomy.site/public_html/API_CREDIT/system/CodeIgniter.php(933): App\Controllers\CreditoController->obtenerResumenNegocio()
+#8 /home/u504444817/domains/geomy.site/public_html/API_CREDIT/system/CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController()
+#9 /home/u504444817/domains/geomy.site/public_html/API_CREDIT/system/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest()
+#10 /home/u504444817/domains/geomy.site/public_html/API_CREDIT/system/Boot.php(312): CodeIgniter\CodeIgniter->run()
+#11 /home/u504444817/domains/geomy.site/public_html/API_CREDIT/system/Boot.php(67): CodeIgniter\Boot::runCodeIgniter()
+#12 /home/u504444817/domains/geomy.site/public_html/API_CREDIT/public/index.php(56): CodeIgniter\Boot::bootWeb()
+#13 {main}
+CRITICAL - 2025-07-15 16:10:25 --> CodeIgniter\Database\Exceptions\DatabaseException: Unknown column 'credito.monto' in 'SELECT'
+[Method: GET, Route: api/v2/resumen]
+in SYSTEMPATH/Database/BaseConnection.php on line 676.
+ 1 SYSTEMPATH/Database/BaseBuilder.php(1629): CodeIgniter\Database\BaseConnection->query()
+ 2 SYSTEMPATH/Model.php(319): CodeIgniter\Database\BaseBuilder->get()
+ 3 SYSTEMPATH/BaseModel.php(714): CodeIgniter\Model->doFirst()
+ 4 APPPATH/Controllers/CreditoController.php(196): CodeIgniter\BaseModel->first()
+ 5 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\CreditoController->obtenerResumenNegocio()
+ 6 SYSTEMPATH/CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController()
+ 7 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest()
+ 8 SYSTEMPATH/Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter()
+10 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb()
+CRITICAL - 2025-07-15 16:10:25 --> [Caused by] CodeIgniter\Database\Exceptions\DatabaseException: Unknown column 'credito.monto' in 'SELECT'
+in SYSTEMPATH/Database/MySQLi/Connection.php on line 313.
+ 1 SYSTEMPATH/Database/BaseConnection.php(722): CodeIgniter\Database\MySQLi\Connection->execute()
+ 2 SYSTEMPATH/Database/BaseConnection.php(636): CodeIgniter\Database\BaseConnection->simpleQuery()
+ 3 SYSTEMPATH/Database/BaseBuilder.php(1629): CodeIgniter\Database\BaseConnection->query()
+ 4 SYSTEMPATH/Model.php(319): CodeIgniter\Database\BaseBuilder->get()
+ 5 SYSTEMPATH/BaseModel.php(714): CodeIgniter\Model->doFirst()
+ 6 APPPATH/Controllers/CreditoController.php(196): CodeIgniter\BaseModel->first()
+ 7 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\CreditoController->obtenerResumenNegocio()
+ 8 SYSTEMPATH/CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController()
+ 9 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest()
+10 SYSTEMPATH/Boot.php(312): CodeIgniter\CodeIgniter->run()
+11 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter()
+12 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb()
+CRITICAL - 2025-07-15 16:10:25 --> [Caused by] mysqli_sql_exception: Unknown column 'credito.monto' in 'SELECT'
+in SYSTEMPATH/Database/MySQLi/Connection.php on line 308.
+ 1 SYSTEMPATH/Database/MySQLi/Connection.php(308): mysqli->query()
+ 2 SYSTEMPATH/Database/BaseConnection.php(722): CodeIgniter\Database\MySQLi\Connection->execute()
+ 3 SYSTEMPATH/Database/BaseConnection.php(636): CodeIgniter\Database\BaseConnection->simpleQuery()
+ 4 SYSTEMPATH/Database/BaseBuilder.php(1629): CodeIgniter\Database\BaseConnection->query()
+ 5 SYSTEMPATH/Model.php(319): CodeIgniter\Database\BaseBuilder->get()
+ 6 SYSTEMPATH/BaseModel.php(714): CodeIgniter\Model->doFirst()
+ 7 APPPATH/Controllers/CreditoController.php(196): CodeIgniter\BaseModel->first()
+ 8 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\CreditoController->obtenerResumenNegocio()
+ 9 SYSTEMPATH/CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController()
+10 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest()
+11 SYSTEMPATH/Boot.php(312): CodeIgniter\CodeIgniter->run()
+12 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter()
+13 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb()
+CRITICAL - 2025-07-15 16:13:16 --> ErrorException: Undefined variable $montoCobrado
+[Method: GET, Route: api/v2/resumen]
+in APPPATH/Controllers/CreditoController.php on line 206.
+ 1 APPPATH/Controllers/CreditoController.php(206): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\CreditoController->obtenerResumenNegocio()
+ 3 SYSTEMPATH/CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController()
+ 4 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest()
+ 5 SYSTEMPATH/Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter()
+ 7 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb()
+ERROR - 2025-07-15 17:26:05 --> mysqli_sql_exception: Unknown column 'cliente.estado' in 'WHERE' in /home/u504444817/domains/geomy.site/public_html/API_CREDIT/system/Database/MySQLi/Connection.php:308
+Stack trace:
+#0 /home/u504444817/domains/geomy.site/public_html/API_CREDIT/system/Database/MySQLi/Connection.php(308): mysqli->query()
+#1 /home/u504444817/domains/geomy.site/public_html/API_CREDIT/system/Database/BaseConnection.php(722): CodeIgniter\Database\MySQLi\Connection->execute()
+#2 /home/u504444817/domains/geomy.site/public_html/API_CREDIT/system/Database/BaseConnection.php(636): CodeIgniter\Database\BaseConnection->simpleQuery()
+#3 /home/u504444817/domains/geomy.site/public_html/API_CREDIT/system/Database/BaseBuilder.php(1629): CodeIgniter\Database\BaseConnection->query()
+#4 /home/u504444817/domains/geomy.site/public_html/API_CREDIT/system/Model.php(319): CodeIgniter\Database\BaseBuilder->get()
+#5 /home/u504444817/domains/geomy.site/public_html/API_CREDIT/system/BaseModel.php(714): CodeIgniter\Model->doFirst()
+#6 /home/u504444817/domains/geomy.site/public_html/API_CREDIT/app/Controllers/CreditoController.php(199): CodeIgniter\BaseModel->first()
+#7 /home/u504444817/domains/geomy.site/public_html/API_CREDIT/system/CodeIgniter.php(933): App\Controllers\CreditoController->obtenerResumenNegocio()
+#8 /home/u504444817/domains/geomy.site/public_html/API_CREDIT/system/CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController()
+#9 /home/u504444817/domains/geomy.site/public_html/API_CREDIT/system/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest()
+#10 /home/u504444817/domains/geomy.site/public_html/API_CREDIT/system/Boot.php(312): CodeIgniter\CodeIgniter->run()
+#11 /home/u504444817/domains/geomy.site/public_html/API_CREDIT/system/Boot.php(67): CodeIgniter\Boot::runCodeIgniter()
+#12 /home/u504444817/domains/geomy.site/public_html/API_CREDIT/public/index.php(56): CodeIgniter\Boot::bootWeb()
+#13 {main}
+CRITICAL - 2025-07-15 17:26:05 --> CodeIgniter\Database\Exceptions\DatabaseException: Unknown column 'cliente.estado' in 'WHERE'
+[Method: GET, Route: api/v2/resumen]
+in SYSTEMPATH/Database/BaseConnection.php on line 676.
+ 1 SYSTEMPATH/Database/BaseBuilder.php(1629): CodeIgniter\Database\BaseConnection->query()
+ 2 SYSTEMPATH/Model.php(319): CodeIgniter\Database\BaseBuilder->get()
+ 3 SYSTEMPATH/BaseModel.php(714): CodeIgniter\Model->doFirst()
+ 4 APPPATH/Controllers/CreditoController.php(199): CodeIgniter\BaseModel->first()
+ 5 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\CreditoController->obtenerResumenNegocio()
+ 6 SYSTEMPATH/CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController()
+ 7 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest()
+ 8 SYSTEMPATH/Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter()
+10 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb()
+CRITICAL - 2025-07-15 17:26:05 --> [Caused by] CodeIgniter\Database\Exceptions\DatabaseException: Unknown column 'cliente.estado' in 'WHERE'
+in SYSTEMPATH/Database/MySQLi/Connection.php on line 313.
+ 1 SYSTEMPATH/Database/BaseConnection.php(722): CodeIgniter\Database\MySQLi\Connection->execute()
+ 2 SYSTEMPATH/Database/BaseConnection.php(636): CodeIgniter\Database\BaseConnection->simpleQuery()
+ 3 SYSTEMPATH/Database/BaseBuilder.php(1629): CodeIgniter\Database\BaseConnection->query()
+ 4 SYSTEMPATH/Model.php(319): CodeIgniter\Database\BaseBuilder->get()
+ 5 SYSTEMPATH/BaseModel.php(714): CodeIgniter\Model->doFirst()
+ 6 APPPATH/Controllers/CreditoController.php(199): CodeIgniter\BaseModel->first()
+ 7 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\CreditoController->obtenerResumenNegocio()
+ 8 SYSTEMPATH/CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController()
+ 9 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest()
+10 SYSTEMPATH/Boot.php(312): CodeIgniter\CodeIgniter->run()
+11 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter()
+12 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb()
+CRITICAL - 2025-07-15 17:26:05 --> [Caused by] mysqli_sql_exception: Unknown column 'cliente.estado' in 'WHERE'
+in SYSTEMPATH/Database/MySQLi/Connection.php on line 308.
+ 1 SYSTEMPATH/Database/MySQLi/Connection.php(308): mysqli->query()
+ 2 SYSTEMPATH/Database/BaseConnection.php(722): CodeIgniter\Database\MySQLi\Connection->execute()
+ 3 SYSTEMPATH/Database/BaseConnection.php(636): CodeIgniter\Database\BaseConnection->simpleQuery()
+ 4 SYSTEMPATH/Database/BaseBuilder.php(1629): CodeIgniter\Database\BaseConnection->query()
+ 5 SYSTEMPATH/Model.php(319): CodeIgniter\Database\BaseBuilder->get()
+ 6 SYSTEMPATH/BaseModel.php(714): CodeIgniter\Model->doFirst()
+ 7 APPPATH/Controllers/CreditoController.php(199): CodeIgniter\BaseModel->first()
+ 8 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\CreditoController->obtenerResumenNegocio()
+ 9 SYSTEMPATH/CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController()
+10 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest()
+11 SYSTEMPATH/Boot.php(312): CodeIgniter\CodeIgniter->run()
+12 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter()
+13 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb()
+ERROR - 2025-07-15 17:28:13 --> mysqli_sql_exception: Unknown column 'creditos.id_cliente' in 'ON' in /home/u504444817/domains/geomy.site/public_html/API_CREDIT/system/Database/MySQLi/Connection.php:308
+Stack trace:
+#0 /home/u504444817/domains/geomy.site/public_html/API_CREDIT/system/Database/MySQLi/Connection.php(308): mysqli->query()
+#1 /home/u504444817/domains/geomy.site/public_html/API_CREDIT/system/Database/BaseConnection.php(722): CodeIgniter\Database\MySQLi\Connection->execute()
+#2 /home/u504444817/domains/geomy.site/public_html/API_CREDIT/system/Database/BaseConnection.php(636): CodeIgniter\Database\BaseConnection->simpleQuery()
+#3 /home/u504444817/domains/geomy.site/public_html/API_CREDIT/system/Database/BaseBuilder.php(1629): CodeIgniter\Database\BaseConnection->query()
+#4 /home/u504444817/domains/geomy.site/public_html/API_CREDIT/system/Model.php(319): CodeIgniter\Database\BaseBuilder->get()
+#5 /home/u504444817/domains/geomy.site/public_html/API_CREDIT/system/BaseModel.php(714): CodeIgniter\Model->doFirst()
+#6 /home/u504444817/domains/geomy.site/public_html/API_CREDIT/app/Controllers/CreditoController.php(200): CodeIgniter\BaseModel->first()
+#7 /home/u504444817/domains/geomy.site/public_html/API_CREDIT/system/CodeIgniter.php(933): App\Controllers\CreditoController->obtenerResumenNegocio()
+#8 /home/u504444817/domains/geomy.site/public_html/API_CREDIT/system/CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController()
+#9 /home/u504444817/domains/geomy.site/public_html/API_CREDIT/system/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest()
+#10 /home/u504444817/domains/geomy.site/public_html/API_CREDIT/system/Boot.php(312): CodeIgniter\CodeIgniter->run()
+#11 /home/u504444817/domains/geomy.site/public_html/API_CREDIT/system/Boot.php(67): CodeIgniter\Boot::runCodeIgniter()
+#12 /home/u504444817/domains/geomy.site/public_html/API_CREDIT/public/index.php(56): CodeIgniter\Boot::bootWeb()
+#13 {main}
+CRITICAL - 2025-07-15 17:28:13 --> CodeIgniter\Database\Exceptions\DatabaseException: Unknown column 'creditos.id_cliente' in 'ON'
+[Method: GET, Route: api/v2/resumen]
+in SYSTEMPATH/Database/BaseConnection.php on line 676.
+ 1 SYSTEMPATH/Database/BaseBuilder.php(1629): CodeIgniter\Database\BaseConnection->query()
+ 2 SYSTEMPATH/Model.php(319): CodeIgniter\Database\BaseBuilder->get()
+ 3 SYSTEMPATH/BaseModel.php(714): CodeIgniter\Model->doFirst()
+ 4 APPPATH/Controllers/CreditoController.php(200): CodeIgniter\BaseModel->first()
+ 5 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\CreditoController->obtenerResumenNegocio()
+ 6 SYSTEMPATH/CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController()
+ 7 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest()
+ 8 SYSTEMPATH/Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter()
+10 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb()
+CRITICAL - 2025-07-15 17:28:13 --> [Caused by] CodeIgniter\Database\Exceptions\DatabaseException: Unknown column 'creditos.id_cliente' in 'ON'
+in SYSTEMPATH/Database/MySQLi/Connection.php on line 313.
+ 1 SYSTEMPATH/Database/BaseConnection.php(722): CodeIgniter\Database\MySQLi\Connection->execute()
+ 2 SYSTEMPATH/Database/BaseConnection.php(636): CodeIgniter\Database\BaseConnection->simpleQuery()
+ 3 SYSTEMPATH/Database/BaseBuilder.php(1629): CodeIgniter\Database\BaseConnection->query()
+ 4 SYSTEMPATH/Model.php(319): CodeIgniter\Database\BaseBuilder->get()
+ 5 SYSTEMPATH/BaseModel.php(714): CodeIgniter\Model->doFirst()
+ 6 APPPATH/Controllers/CreditoController.php(200): CodeIgniter\BaseModel->first()
+ 7 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\CreditoController->obtenerResumenNegocio()
+ 8 SYSTEMPATH/CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController()
+ 9 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest()
+10 SYSTEMPATH/Boot.php(312): CodeIgniter\CodeIgniter->run()
+11 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter()
+12 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb()
+CRITICAL - 2025-07-15 17:28:13 --> [Caused by] mysqli_sql_exception: Unknown column 'creditos.id_cliente' in 'ON'
+in SYSTEMPATH/Database/MySQLi/Connection.php on line 308.
+ 1 SYSTEMPATH/Database/MySQLi/Connection.php(308): mysqli->query()
+ 2 SYSTEMPATH/Database/BaseConnection.php(722): CodeIgniter\Database\MySQLi\Connection->execute()
+ 3 SYSTEMPATH/Database/BaseConnection.php(636): CodeIgniter\Database\BaseConnection->simpleQuery()
+ 4 SYSTEMPATH/Database/BaseBuilder.php(1629): CodeIgniter\Database\BaseConnection->query()
+ 5 SYSTEMPATH/Model.php(319): CodeIgniter\Database\BaseBuilder->get()
+ 6 SYSTEMPATH/BaseModel.php(714): CodeIgniter\Model->doFirst()
+ 7 APPPATH/Controllers/CreditoController.php(200): CodeIgniter\BaseModel->first()
+ 8 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\CreditoController->obtenerResumenNegocio()
+ 9 SYSTEMPATH/CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController()
+10 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest()
+11 SYSTEMPATH/Boot.php(312): CodeIgniter\CodeIgniter->run()
+12 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter()
+13 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb()
+ERROR - 2025-07-15 17:30:41 --> mysqli_sql_exception: Column 'estado' in WHERE is ambiguous in /home/u504444817/domains/geomy.site/public_html/API_CREDIT/system/Database/MySQLi/Connection.php:308
+Stack trace:
+#0 /home/u504444817/domains/geomy.site/public_html/API_CREDIT/system/Database/MySQLi/Connection.php(308): mysqli->query()
+#1 /home/u504444817/domains/geomy.site/public_html/API_CREDIT/system/Database/BaseConnection.php(722): CodeIgniter\Database\MySQLi\Connection->execute()
+#2 /home/u504444817/domains/geomy.site/public_html/API_CREDIT/system/Database/BaseConnection.php(636): CodeIgniter\Database\BaseConnection->simpleQuery()
+#3 /home/u504444817/domains/geomy.site/public_html/API_CREDIT/system/Database/BaseBuilder.php(1713): CodeIgniter\Database\BaseConnection->query()
+#4 /home/u504444817/domains/geomy.site/public_html/API_CREDIT/system/Model.php(667): CodeIgniter\Database\BaseBuilder->countAllResults()
+#5 /home/u504444817/domains/geomy.site/public_html/API_CREDIT/app/Controllers/CreditoController.php(167): CodeIgniter\Model->countAllResults()
+#6 /home/u504444817/domains/geomy.site/public_html/API_CREDIT/system/CodeIgniter.php(933): App\Controllers\CreditoController->obtenerResumenNegocio()
+#7 /home/u504444817/domains/geomy.site/public_html/API_CREDIT/system/CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController()
+#8 /home/u504444817/domains/geomy.site/public_html/API_CREDIT/system/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest()
+#9 /home/u504444817/domains/geomy.site/public_html/API_CREDIT/system/Boot.php(312): CodeIgniter\CodeIgniter->run()
+#10 /home/u504444817/domains/geomy.site/public_html/API_CREDIT/system/Boot.php(67): CodeIgniter\Boot::runCodeIgniter()
+#11 /home/u504444817/domains/geomy.site/public_html/API_CREDIT/public/index.php(56): CodeIgniter\Boot::bootWeb()
+#12 {main}
+CRITICAL - 2025-07-15 17:30:41 --> CodeIgniter\Database\Exceptions\DatabaseException: Column 'estado' in WHERE is ambiguous
+[Method: GET, Route: api/v2/resumen]
+in SYSTEMPATH/Database/BaseConnection.php on line 676.
+ 1 SYSTEMPATH/Database/BaseBuilder.php(1713): CodeIgniter\Database\BaseConnection->query()
+ 2 SYSTEMPATH/Model.php(667): CodeIgniter\Database\BaseBuilder->countAllResults()
+ 3 APPPATH/Controllers/CreditoController.php(167): CodeIgniter\Model->countAllResults()
+ 4 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\CreditoController->obtenerResumenNegocio()
+ 5 SYSTEMPATH/CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest()
+ 7 SYSTEMPATH/Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter()
+ 9 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb()
+CRITICAL - 2025-07-15 17:30:41 --> [Caused by] CodeIgniter\Database\Exceptions\DatabaseException: Column 'estado' in WHERE is ambiguous
+in SYSTEMPATH/Database/MySQLi/Connection.php on line 313.
+ 1 SYSTEMPATH/Database/BaseConnection.php(722): CodeIgniter\Database\MySQLi\Connection->execute()
+ 2 SYSTEMPATH/Database/BaseConnection.php(636): CodeIgniter\Database\BaseConnection->simpleQuery()
+ 3 SYSTEMPATH/Database/BaseBuilder.php(1713): CodeIgniter\Database\BaseConnection->query()
+ 4 SYSTEMPATH/Model.php(667): CodeIgniter\Database\BaseBuilder->countAllResults()
+ 5 APPPATH/Controllers/CreditoController.php(167): CodeIgniter\Model->countAllResults()
+ 6 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\CreditoController->obtenerResumenNegocio()
+ 7 SYSTEMPATH/CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController()
+ 8 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest()
+ 9 SYSTEMPATH/Boot.php(312): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter()
+11 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb()
+CRITICAL - 2025-07-15 17:30:41 --> [Caused by] mysqli_sql_exception: Column 'estado' in WHERE is ambiguous
+in SYSTEMPATH/Database/MySQLi/Connection.php on line 308.
+ 1 SYSTEMPATH/Database/MySQLi/Connection.php(308): mysqli->query()
+ 2 SYSTEMPATH/Database/BaseConnection.php(722): CodeIgniter\Database\MySQLi\Connection->execute()
+ 3 SYSTEMPATH/Database/BaseConnection.php(636): CodeIgniter\Database\BaseConnection->simpleQuery()
+ 4 SYSTEMPATH/Database/BaseBuilder.php(1713): CodeIgniter\Database\BaseConnection->query()
+ 5 SYSTEMPATH/Model.php(667): CodeIgniter\Database\BaseBuilder->countAllResults()
+ 6 APPPATH/Controllers/CreditoController.php(167): CodeIgniter\Model->countAllResults()
+ 7 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\CreditoController->obtenerResumenNegocio()
+ 8 SYSTEMPATH/CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController()
+ 9 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest()
+10 SYSTEMPATH/Boot.php(312): CodeIgniter\CodeIgniter->run()
+11 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter()
+12 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb()
+ERROR - 2025-07-15 17:31:18 --> mysqli_sql_exception: Column 'estado' in WHERE is ambiguous in /home/u504444817/domains/geomy.site/public_html/API_CREDIT/system/Database/MySQLi/Connection.php:308
+Stack trace:
+#0 /home/u504444817/domains/geomy.site/public_html/API_CREDIT/system/Database/MySQLi/Connection.php(308): mysqli->query()
+#1 /home/u504444817/domains/geomy.site/public_html/API_CREDIT/system/Database/BaseConnection.php(722): CodeIgniter\Database\MySQLi\Connection->execute()
+#2 /home/u504444817/domains/geomy.site/public_html/API_CREDIT/system/Database/BaseConnection.php(636): CodeIgniter\Database\BaseConnection->simpleQuery()
+#3 /home/u504444817/domains/geomy.site/public_html/API_CREDIT/system/Database/BaseBuilder.php(1713): CodeIgniter\Database\BaseConnection->query()
+#4 /home/u504444817/domains/geomy.site/public_html/API_CREDIT/system/Model.php(667): CodeIgniter\Database\BaseBuilder->countAllResults()
+#5 /home/u504444817/domains/geomy.site/public_html/API_CREDIT/app/Controllers/CreditoController.php(167): CodeIgniter\Model->countAllResults()
+#6 /home/u504444817/domains/geomy.site/public_html/API_CREDIT/system/CodeIgniter.php(933): App\Controllers\CreditoController->obtenerResumenNegocio()
+#7 /home/u504444817/domains/geomy.site/public_html/API_CREDIT/system/CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController()
+#8 /home/u504444817/domains/geomy.site/public_html/API_CREDIT/system/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest()
+#9 /home/u504444817/domains/geomy.site/public_html/API_CREDIT/system/Boot.php(312): CodeIgniter\CodeIgniter->run()
+#10 /home/u504444817/domains/geomy.site/public_html/API_CREDIT/system/Boot.php(67): CodeIgniter\Boot::runCodeIgniter()
+#11 /home/u504444817/domains/geomy.site/public_html/API_CREDIT/public/index.php(56): CodeIgniter\Boot::bootWeb()
+#12 {main}
+CRITICAL - 2025-07-15 17:31:18 --> CodeIgniter\Database\Exceptions\DatabaseException: Column 'estado' in WHERE is ambiguous
+[Method: GET, Route: api/v2/resumen]
+in SYSTEMPATH/Database/BaseConnection.php on line 676.
+ 1 SYSTEMPATH/Database/BaseBuilder.php(1713): CodeIgniter\Database\BaseConnection->query()
+ 2 SYSTEMPATH/Model.php(667): CodeIgniter\Database\BaseBuilder->countAllResults()
+ 3 APPPATH/Controllers/CreditoController.php(167): CodeIgniter\Model->countAllResults()
+ 4 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\CreditoController->obtenerResumenNegocio()
+ 5 SYSTEMPATH/CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest()
+ 7 SYSTEMPATH/Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter()
+ 9 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb()
+CRITICAL - 2025-07-15 17:31:18 --> [Caused by] CodeIgniter\Database\Exceptions\DatabaseException: Column 'estado' in WHERE is ambiguous
+in SYSTEMPATH/Database/MySQLi/Connection.php on line 313.
+ 1 SYSTEMPATH/Database/BaseConnection.php(722): CodeIgniter\Database\MySQLi\Connection->execute()
+ 2 SYSTEMPATH/Database/BaseConnection.php(636): CodeIgniter\Database\BaseConnection->simpleQuery()
+ 3 SYSTEMPATH/Database/BaseBuilder.php(1713): CodeIgniter\Database\BaseConnection->query()
+ 4 SYSTEMPATH/Model.php(667): CodeIgniter\Database\BaseBuilder->countAllResults()
+ 5 APPPATH/Controllers/CreditoController.php(167): CodeIgniter\Model->countAllResults()
+ 6 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\CreditoController->obtenerResumenNegocio()
+ 7 SYSTEMPATH/CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController()
+ 8 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest()
+ 9 SYSTEMPATH/Boot.php(312): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter()
+11 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb()
+CRITICAL - 2025-07-15 17:31:18 --> [Caused by] mysqli_sql_exception: Column 'estado' in WHERE is ambiguous
+in SYSTEMPATH/Database/MySQLi/Connection.php on line 308.
+ 1 SYSTEMPATH/Database/MySQLi/Connection.php(308): mysqli->query()
+ 2 SYSTEMPATH/Database/BaseConnection.php(722): CodeIgniter\Database\MySQLi\Connection->execute()
+ 3 SYSTEMPATH/Database/BaseConnection.php(636): CodeIgniter\Database\BaseConnection->simpleQuery()
+ 4 SYSTEMPATH/Database/BaseBuilder.php(1713): CodeIgniter\Database\BaseConnection->query()
+ 5 SYSTEMPATH/Model.php(667): CodeIgniter\Database\BaseBuilder->countAllResults()
+ 6 APPPATH/Controllers/CreditoController.php(167): CodeIgniter\Model->countAllResults()
+ 7 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\CreditoController->obtenerResumenNegocio()
+ 8 SYSTEMPATH/CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController()
+ 9 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest()
+10 SYSTEMPATH/Boot.php(312): CodeIgniter\CodeIgniter->run()
+11 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter()
+12 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb()
+ERROR - 2025-07-15 17:32:20 --> mysqli_sql_exception: Unknown column 'cliente.monto' in 'SELECT' in /home/u504444817/domains/geomy.site/public_html/API_CREDIT/system/Database/MySQLi/Connection.php:308
+Stack trace:
+#0 /home/u504444817/domains/geomy.site/public_html/API_CREDIT/system/Database/MySQLi/Connection.php(308): mysqli->query()
+#1 /home/u504444817/domains/geomy.site/public_html/API_CREDIT/system/Database/BaseConnection.php(722): CodeIgniter\Database\MySQLi\Connection->execute()
+#2 /home/u504444817/domains/geomy.site/public_html/API_CREDIT/system/Database/BaseConnection.php(636): CodeIgniter\Database\BaseConnection->simpleQuery()
+#3 /home/u504444817/domains/geomy.site/public_html/API_CREDIT/system/Database/BaseBuilder.php(1629): CodeIgniter\Database\BaseConnection->query()
+#4 /home/u504444817/domains/geomy.site/public_html/API_CREDIT/system/Model.php(319): CodeIgniter\Database\BaseBuilder->get()
+#5 /home/u504444817/domains/geomy.site/public_html/API_CREDIT/system/BaseModel.php(714): CodeIgniter\Model->doFirst()
+#6 /home/u504444817/domains/geomy.site/public_html/API_CREDIT/app/Controllers/CreditoController.php(180): CodeIgniter\BaseModel->first()
+#7 /home/u504444817/domains/geomy.site/public_html/API_CREDIT/system/CodeIgniter.php(933): App\Controllers\CreditoController->obtenerResumenNegocio()
+#8 /home/u504444817/domains/geomy.site/public_html/API_CREDIT/system/CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController()
+#9 /home/u504444817/domains/geomy.site/public_html/API_CREDIT/system/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest()
+#10 /home/u504444817/domains/geomy.site/public_html/API_CREDIT/system/Boot.php(312): CodeIgniter\CodeIgniter->run()
+#11 /home/u504444817/domains/geomy.site/public_html/API_CREDIT/system/Boot.php(67): CodeIgniter\Boot::runCodeIgniter()
+#12 /home/u504444817/domains/geomy.site/public_html/API_CREDIT/public/index.php(56): CodeIgniter\Boot::bootWeb()
+#13 {main}
+CRITICAL - 2025-07-15 17:32:20 --> CodeIgniter\Database\Exceptions\DatabaseException: Unknown column 'cliente.monto' in 'SELECT'
+[Method: GET, Route: api/v2/resumen]
+in SYSTEMPATH/Database/BaseConnection.php on line 676.
+ 1 SYSTEMPATH/Database/BaseBuilder.php(1629): CodeIgniter\Database\BaseConnection->query()
+ 2 SYSTEMPATH/Model.php(319): CodeIgniter\Database\BaseBuilder->get()
+ 3 SYSTEMPATH/BaseModel.php(714): CodeIgniter\Model->doFirst()
+ 4 APPPATH/Controllers/CreditoController.php(180): CodeIgniter\BaseModel->first()
+ 5 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\CreditoController->obtenerResumenNegocio()
+ 6 SYSTEMPATH/CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController()
+ 7 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest()
+ 8 SYSTEMPATH/Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter()
+10 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb()
+CRITICAL - 2025-07-15 17:32:20 --> [Caused by] CodeIgniter\Database\Exceptions\DatabaseException: Unknown column 'cliente.monto' in 'SELECT'
+in SYSTEMPATH/Database/MySQLi/Connection.php on line 313.
+ 1 SYSTEMPATH/Database/BaseConnection.php(722): CodeIgniter\Database\MySQLi\Connection->execute()
+ 2 SYSTEMPATH/Database/BaseConnection.php(636): CodeIgniter\Database\BaseConnection->simpleQuery()
+ 3 SYSTEMPATH/Database/BaseBuilder.php(1629): CodeIgniter\Database\BaseConnection->query()
+ 4 SYSTEMPATH/Model.php(319): CodeIgniter\Database\BaseBuilder->get()
+ 5 SYSTEMPATH/BaseModel.php(714): CodeIgniter\Model->doFirst()
+ 6 APPPATH/Controllers/CreditoController.php(180): CodeIgniter\BaseModel->first()
+ 7 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\CreditoController->obtenerResumenNegocio()
+ 8 SYSTEMPATH/CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController()
+ 9 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest()
+10 SYSTEMPATH/Boot.php(312): CodeIgniter\CodeIgniter->run()
+11 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter()
+12 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb()
+CRITICAL - 2025-07-15 17:32:20 --> [Caused by] mysqli_sql_exception: Unknown column 'cliente.monto' in 'SELECT'
+in SYSTEMPATH/Database/MySQLi/Connection.php on line 308.
+ 1 SYSTEMPATH/Database/MySQLi/Connection.php(308): mysqli->query()
+ 2 SYSTEMPATH/Database/BaseConnection.php(722): CodeIgniter\Database\MySQLi\Connection->execute()
+ 3 SYSTEMPATH/Database/BaseConnection.php(636): CodeIgniter\Database\BaseConnection->simpleQuery()
+ 4 SYSTEMPATH/Database/BaseBuilder.php(1629): CodeIgniter\Database\BaseConnection->query()
+ 5 SYSTEMPATH/Model.php(319): CodeIgniter\Database\BaseBuilder->get()
+ 6 SYSTEMPATH/BaseModel.php(714): CodeIgniter\Model->doFirst()
+ 7 APPPATH/Controllers/CreditoController.php(180): CodeIgniter\BaseModel->first()
+ 8 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\CreditoController->obtenerResumenNegocio()
+ 9 SYSTEMPATH/CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController()
+10 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest()
+11 SYSTEMPATH/Boot.php(312): CodeIgniter\CodeIgniter->run()
+12 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter()
+13 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb()
+ERROR - 2025-07-15 17:33:27 --> mysqli_sql_exception: Unknown column 'credito.estado' in 'WHERE' in /home/u504444817/domains/geomy.site/public_html/API_CREDIT/system/Database/MySQLi/Connection.php:308
+Stack trace:
+#0 /home/u504444817/domains/geomy.site/public_html/API_CREDIT/system/Database/MySQLi/Connection.php(308): mysqli->query()
+#1 /home/u504444817/domains/geomy.site/public_html/API_CREDIT/system/Database/BaseConnection.php(722): CodeIgniter\Database\MySQLi\Connection->execute()
+#2 /home/u504444817/domains/geomy.site/public_html/API_CREDIT/system/Database/BaseConnection.php(636): CodeIgniter\Database\BaseConnection->simpleQuery()
+#3 /home/u504444817/domains/geomy.site/public_html/API_CREDIT/system/Database/BaseBuilder.php(1713): CodeIgniter\Database\BaseConnection->query()
+#4 /home/u504444817/domains/geomy.site/public_html/API_CREDIT/system/Model.php(667): CodeIgniter\Database\BaseBuilder->countAllResults()
+#5 /home/u504444817/domains/geomy.site/public_html/API_CREDIT/app/Controllers/CreditoController.php(167): CodeIgniter\Model->countAllResults()
+#6 /home/u504444817/domains/geomy.site/public_html/API_CREDIT/system/CodeIgniter.php(933): App\Controllers\CreditoController->obtenerResumenNegocio()
+#7 /home/u504444817/domains/geomy.site/public_html/API_CREDIT/system/CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController()
+#8 /home/u504444817/domains/geomy.site/public_html/API_CREDIT/system/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest()
+#9 /home/u504444817/domains/geomy.site/public_html/API_CREDIT/system/Boot.php(312): CodeIgniter\CodeIgniter->run()
+#10 /home/u504444817/domains/geomy.site/public_html/API_CREDIT/system/Boot.php(67): CodeIgniter\Boot::runCodeIgniter()
+#11 /home/u504444817/domains/geomy.site/public_html/API_CREDIT/public/index.php(56): CodeIgniter\Boot::bootWeb()
+#12 {main}
+CRITICAL - 2025-07-15 17:33:27 --> CodeIgniter\Database\Exceptions\DatabaseException: Unknown column 'credito.estado' in 'WHERE'
+[Method: GET, Route: api/v2/resumen]
+in SYSTEMPATH/Database/BaseConnection.php on line 676.
+ 1 SYSTEMPATH/Database/BaseBuilder.php(1713): CodeIgniter\Database\BaseConnection->query()
+ 2 SYSTEMPATH/Model.php(667): CodeIgniter\Database\BaseBuilder->countAllResults()
+ 3 APPPATH/Controllers/CreditoController.php(167): CodeIgniter\Model->countAllResults()
+ 4 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\CreditoController->obtenerResumenNegocio()
+ 5 SYSTEMPATH/CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest()
+ 7 SYSTEMPATH/Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter()
+ 9 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb()
+CRITICAL - 2025-07-15 17:33:27 --> [Caused by] CodeIgniter\Database\Exceptions\DatabaseException: Unknown column 'credito.estado' in 'WHERE'
+in SYSTEMPATH/Database/MySQLi/Connection.php on line 313.
+ 1 SYSTEMPATH/Database/BaseConnection.php(722): CodeIgniter\Database\MySQLi\Connection->execute()
+ 2 SYSTEMPATH/Database/BaseConnection.php(636): CodeIgniter\Database\BaseConnection->simpleQuery()
+ 3 SYSTEMPATH/Database/BaseBuilder.php(1713): CodeIgniter\Database\BaseConnection->query()
+ 4 SYSTEMPATH/Model.php(667): CodeIgniter\Database\BaseBuilder->countAllResults()
+ 5 APPPATH/Controllers/CreditoController.php(167): CodeIgniter\Model->countAllResults()
+ 6 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\CreditoController->obtenerResumenNegocio()
+ 7 SYSTEMPATH/CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController()
+ 8 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest()
+ 9 SYSTEMPATH/Boot.php(312): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter()
+11 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb()
+CRITICAL - 2025-07-15 17:33:27 --> [Caused by] mysqli_sql_exception: Unknown column 'credito.estado' in 'WHERE'
+in SYSTEMPATH/Database/MySQLi/Connection.php on line 308.
+ 1 SYSTEMPATH/Database/MySQLi/Connection.php(308): mysqli->query()
+ 2 SYSTEMPATH/Database/BaseConnection.php(722): CodeIgniter\Database\MySQLi\Connection->execute()
+ 3 SYSTEMPATH/Database/BaseConnection.php(636): CodeIgniter\Database\BaseConnection->simpleQuery()
+ 4 SYSTEMPATH/Database/BaseBuilder.php(1713): CodeIgniter\Database\BaseConnection->query()
+ 5 SYSTEMPATH/Model.php(667): CodeIgniter\Database\BaseBuilder->countAllResults()
+ 6 APPPATH/Controllers/CreditoController.php(167): CodeIgniter\Model->countAllResults()
+ 7 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\CreditoController->obtenerResumenNegocio()
+ 8 SYSTEMPATH/CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController()
+ 9 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest()
+10 SYSTEMPATH/Boot.php(312): CodeIgniter\CodeIgniter->run()
+11 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter()
+12 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb()
+ERROR - 2025-07-15 17:34:31 --> mysqli_sql_exception: Unknown column 'transaccion.monto' in 'SELECT' in /home/u504444817/domains/geomy.site/public_html/API_CREDIT/system/Database/MySQLi/Connection.php:308
+Stack trace:
+#0 /home/u504444817/domains/geomy.site/public_html/API_CREDIT/system/Database/MySQLi/Connection.php(308): mysqli->query()
+#1 /home/u504444817/domains/geomy.site/public_html/API_CREDIT/system/Database/BaseConnection.php(722): CodeIgniter\Database\MySQLi\Connection->execute()
+#2 /home/u504444817/domains/geomy.site/public_html/API_CREDIT/system/Database/BaseConnection.php(636): CodeIgniter\Database\BaseConnection->simpleQuery()
+#3 /home/u504444817/domains/geomy.site/public_html/API_CREDIT/system/Database/BaseBuilder.php(1629): CodeIgniter\Database\BaseConnection->query()
+#4 /home/u504444817/domains/geomy.site/public_html/API_CREDIT/system/Model.php(319): CodeIgniter\Database\BaseBuilder->get()
+#5 /home/u504444817/domains/geomy.site/public_html/API_CREDIT/system/BaseModel.php(714): CodeIgniter\Model->doFirst()
+#6 /home/u504444817/domains/geomy.site/public_html/API_CREDIT/app/Controllers/CreditoController.php(180): CodeIgniter\BaseModel->first()
+#7 /home/u504444817/domains/geomy.site/public_html/API_CREDIT/system/CodeIgniter.php(933): App\Controllers\CreditoController->obtenerResumenNegocio()
+#8 /home/u504444817/domains/geomy.site/public_html/API_CREDIT/system/CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController()
+#9 /home/u504444817/domains/geomy.site/public_html/API_CREDIT/system/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest()
+#10 /home/u504444817/domains/geomy.site/public_html/API_CREDIT/system/Boot.php(312): CodeIgniter\CodeIgniter->run()
+#11 /home/u504444817/domains/geomy.site/public_html/API_CREDIT/system/Boot.php(67): CodeIgniter\Boot::runCodeIgniter()
+#12 /home/u504444817/domains/geomy.site/public_html/API_CREDIT/public/index.php(56): CodeIgniter\Boot::bootWeb()
+#13 {main}
+CRITICAL - 2025-07-15 17:34:31 --> CodeIgniter\Database\Exceptions\DatabaseException: Unknown column 'transaccion.monto' in 'SELECT'
+[Method: GET, Route: api/v2/resumen]
+in SYSTEMPATH/Database/BaseConnection.php on line 676.
+ 1 SYSTEMPATH/Database/BaseBuilder.php(1629): CodeIgniter\Database\BaseConnection->query()
+ 2 SYSTEMPATH/Model.php(319): CodeIgniter\Database\BaseBuilder->get()
+ 3 SYSTEMPATH/BaseModel.php(714): CodeIgniter\Model->doFirst()
+ 4 APPPATH/Controllers/CreditoController.php(180): CodeIgniter\BaseModel->first()
+ 5 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\CreditoController->obtenerResumenNegocio()
+ 6 SYSTEMPATH/CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController()
+ 7 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest()
+ 8 SYSTEMPATH/Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter()
+10 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb()
+CRITICAL - 2025-07-15 17:34:31 --> [Caused by] CodeIgniter\Database\Exceptions\DatabaseException: Unknown column 'transaccion.monto' in 'SELECT'
+in SYSTEMPATH/Database/MySQLi/Connection.php on line 313.
+ 1 SYSTEMPATH/Database/BaseConnection.php(722): CodeIgniter\Database\MySQLi\Connection->execute()
+ 2 SYSTEMPATH/Database/BaseConnection.php(636): CodeIgniter\Database\BaseConnection->simpleQuery()
+ 3 SYSTEMPATH/Database/BaseBuilder.php(1629): CodeIgniter\Database\BaseConnection->query()
+ 4 SYSTEMPATH/Model.php(319): CodeIgniter\Database\BaseBuilder->get()
+ 5 SYSTEMPATH/BaseModel.php(714): CodeIgniter\Model->doFirst()
+ 6 APPPATH/Controllers/CreditoController.php(180): CodeIgniter\BaseModel->first()
+ 7 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\CreditoController->obtenerResumenNegocio()
+ 8 SYSTEMPATH/CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController()
+ 9 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest()
+10 SYSTEMPATH/Boot.php(312): CodeIgniter\CodeIgniter->run()
+11 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter()
+12 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb()
+CRITICAL - 2025-07-15 17:34:31 --> [Caused by] mysqli_sql_exception: Unknown column 'transaccion.monto' in 'SELECT'
+in SYSTEMPATH/Database/MySQLi/Connection.php on line 308.
+ 1 SYSTEMPATH/Database/MySQLi/Connection.php(308): mysqli->query()
+ 2 SYSTEMPATH/Database/BaseConnection.php(722): CodeIgniter\Database\MySQLi\Connection->execute()
+ 3 SYSTEMPATH/Database/BaseConnection.php(636): CodeIgniter\Database\BaseConnection->simpleQuery()
+ 4 SYSTEMPATH/Database/BaseBuilder.php(1629): CodeIgniter\Database\BaseConnection->query()
+ 5 SYSTEMPATH/Model.php(319): CodeIgniter\Database\BaseBuilder->get()
+ 6 SYSTEMPATH/BaseModel.php(714): CodeIgniter\Model->doFirst()
+ 7 APPPATH/Controllers/CreditoController.php(180): CodeIgniter\BaseModel->first()
+ 8 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\CreditoController->obtenerResumenNegocio()
+ 9 SYSTEMPATH/CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController()
+10 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest()
+11 SYSTEMPATH/Boot.php(312): CodeIgniter\CodeIgniter->run()
+12 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter()
+13 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb()
+ERROR - 2025-07-15 17:35:01 --> mysqli_sql_exception: Unknown column 'transacciones.monto' in 'SELECT' in /home/u504444817/domains/geomy.site/public_html/API_CREDIT/system/Database/MySQLi/Connection.php:308
+Stack trace:
+#0 /home/u504444817/domains/geomy.site/public_html/API_CREDIT/system/Database/MySQLi/Connection.php(308): mysqli->query()
+#1 /home/u504444817/domains/geomy.site/public_html/API_CREDIT/system/Database/BaseConnection.php(722): CodeIgniter\Database\MySQLi\Connection->execute()
+#2 /home/u504444817/domains/geomy.site/public_html/API_CREDIT/system/Database/BaseConnection.php(636): CodeIgniter\Database\BaseConnection->simpleQuery()
+#3 /home/u504444817/domains/geomy.site/public_html/API_CREDIT/system/Database/BaseBuilder.php(1629): CodeIgniter\Database\BaseConnection->query()
+#4 /home/u504444817/domains/geomy.site/public_html/API_CREDIT/system/Model.php(319): CodeIgniter\Database\BaseBuilder->get()
+#5 /home/u504444817/domains/geomy.site/public_html/API_CREDIT/system/BaseModel.php(714): CodeIgniter\Model->doFirst()
+#6 /home/u504444817/domains/geomy.site/public_html/API_CREDIT/app/Controllers/CreditoController.php(180): CodeIgniter\BaseModel->first()
+#7 /home/u504444817/domains/geomy.site/public_html/API_CREDIT/system/CodeIgniter.php(933): App\Controllers\CreditoController->obtenerResumenNegocio()
+#8 /home/u504444817/domains/geomy.site/public_html/API_CREDIT/system/CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController()
+#9 /home/u504444817/domains/geomy.site/public_html/API_CREDIT/system/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest()
+#10 /home/u504444817/domains/geomy.site/public_html/API_CREDIT/system/Boot.php(312): CodeIgniter\CodeIgniter->run()
+#11 /home/u504444817/domains/geomy.site/public_html/API_CREDIT/system/Boot.php(67): CodeIgniter\Boot::runCodeIgniter()
+#12 /home/u504444817/domains/geomy.site/public_html/API_CREDIT/public/index.php(56): CodeIgniter\Boot::bootWeb()
+#13 {main}
+CRITICAL - 2025-07-15 17:35:01 --> CodeIgniter\Database\Exceptions\DatabaseException: Unknown column 'transacciones.monto' in 'SELECT'
+[Method: GET, Route: api/v2/resumen]
+in SYSTEMPATH/Database/BaseConnection.php on line 676.
+ 1 SYSTEMPATH/Database/BaseBuilder.php(1629): CodeIgniter\Database\BaseConnection->query()
+ 2 SYSTEMPATH/Model.php(319): CodeIgniter\Database\BaseBuilder->get()
+ 3 SYSTEMPATH/BaseModel.php(714): CodeIgniter\Model->doFirst()
+ 4 APPPATH/Controllers/CreditoController.php(180): CodeIgniter\BaseModel->first()
+ 5 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\CreditoController->obtenerResumenNegocio()
+ 6 SYSTEMPATH/CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController()
+ 7 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest()
+ 8 SYSTEMPATH/Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter()
+10 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb()
+CRITICAL - 2025-07-15 17:35:01 --> [Caused by] CodeIgniter\Database\Exceptions\DatabaseException: Unknown column 'transacciones.monto' in 'SELECT'
+in SYSTEMPATH/Database/MySQLi/Connection.php on line 313.
+ 1 SYSTEMPATH/Database/BaseConnection.php(722): CodeIgniter\Database\MySQLi\Connection->execute()
+ 2 SYSTEMPATH/Database/BaseConnection.php(636): CodeIgniter\Database\BaseConnection->simpleQuery()
+ 3 SYSTEMPATH/Database/BaseBuilder.php(1629): CodeIgniter\Database\BaseConnection->query()
+ 4 SYSTEMPATH/Model.php(319): CodeIgniter\Database\BaseBuilder->get()
+ 5 SYSTEMPATH/BaseModel.php(714): CodeIgniter\Model->doFirst()
+ 6 APPPATH/Controllers/CreditoController.php(180): CodeIgniter\BaseModel->first()
+ 7 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\CreditoController->obtenerResumenNegocio()
+ 8 SYSTEMPATH/CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController()
+ 9 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest()
+10 SYSTEMPATH/Boot.php(312): CodeIgniter\CodeIgniter->run()
+11 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter()
+12 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb()
+CRITICAL - 2025-07-15 17:35:01 --> [Caused by] mysqli_sql_exception: Unknown column 'transacciones.monto' in 'SELECT'
+in SYSTEMPATH/Database/MySQLi/Connection.php on line 308.
+ 1 SYSTEMPATH/Database/MySQLi/Connection.php(308): mysqli->query()
+ 2 SYSTEMPATH/Database/BaseConnection.php(722): CodeIgniter\Database\MySQLi\Connection->execute()
+ 3 SYSTEMPATH/Database/BaseConnection.php(636): CodeIgniter\Database\BaseConnection->simpleQuery()
+ 4 SYSTEMPATH/Database/BaseBuilder.php(1629): CodeIgniter\Database\BaseConnection->query()
+ 5 SYSTEMPATH/Model.php(319): CodeIgniter\Database\BaseBuilder->get()
+ 6 SYSTEMPATH/BaseModel.php(714): CodeIgniter\Model->doFirst()
+ 7 APPPATH/Controllers/CreditoController.php(180): CodeIgniter\BaseModel->first()
+ 8 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\CreditoController->obtenerResumenNegocio()
+ 9 SYSTEMPATH/CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController()
+10 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest()
+11 SYSTEMPATH/Boot.php(312): CodeIgniter\CodeIgniter->run()
+12 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter()
+13 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb()
+ERROR - 2025-07-15 17:35:41 --> mysqli_sql_exception: Unknown column 'transacciones.monto' in 'SELECT' in /home/u504444817/domains/geomy.site/public_html/API_CREDIT/system/Database/MySQLi/Connection.php:308
+Stack trace:
+#0 /home/u504444817/domains/geomy.site/public_html/API_CREDIT/system/Database/MySQLi/Connection.php(308): mysqli->query()
+#1 /home/u504444817/domains/geomy.site/public_html/API_CREDIT/system/Database/BaseConnection.php(722): CodeIgniter\Database\MySQLi\Connection->execute()
+#2 /home/u504444817/domains/geomy.site/public_html/API_CREDIT/system/Database/BaseConnection.php(636): CodeIgniter\Database\BaseConnection->simpleQuery()
+#3 /home/u504444817/domains/geomy.site/public_html/API_CREDIT/system/Database/BaseBuilder.php(1629): CodeIgniter\Database\BaseConnection->query()
+#4 /home/u504444817/domains/geomy.site/public_html/API_CREDIT/system/Model.php(319): CodeIgniter\Database\BaseBuilder->get()
+#5 /home/u504444817/domains/geomy.site/public_html/API_CREDIT/system/BaseModel.php(714): CodeIgniter\Model->doFirst()
+#6 /home/u504444817/domains/geomy.site/public_html/API_CREDIT/app/Controllers/CreditoController.php(180): CodeIgniter\BaseModel->first()
+#7 /home/u504444817/domains/geomy.site/public_html/API_CREDIT/system/CodeIgniter.php(933): App\Controllers\CreditoController->obtenerResumenNegocio()
+#8 /home/u504444817/domains/geomy.site/public_html/API_CREDIT/system/CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController()
+#9 /home/u504444817/domains/geomy.site/public_html/API_CREDIT/system/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest()
+#10 /home/u504444817/domains/geomy.site/public_html/API_CREDIT/system/Boot.php(312): CodeIgniter\CodeIgniter->run()
+#11 /home/u504444817/domains/geomy.site/public_html/API_CREDIT/system/Boot.php(67): CodeIgniter\Boot::runCodeIgniter()
+#12 /home/u504444817/domains/geomy.site/public_html/API_CREDIT/public/index.php(56): CodeIgniter\Boot::bootWeb()
+#13 {main}
+CRITICAL - 2025-07-15 17:35:41 --> CodeIgniter\Database\Exceptions\DatabaseException: Unknown column 'transacciones.monto' in 'SELECT'
+[Method: GET, Route: api/v2/resumen]
+in SYSTEMPATH/Database/BaseConnection.php on line 676.
+ 1 SYSTEMPATH/Database/BaseBuilder.php(1629): CodeIgniter\Database\BaseConnection->query()
+ 2 SYSTEMPATH/Model.php(319): CodeIgniter\Database\BaseBuilder->get()
+ 3 SYSTEMPATH/BaseModel.php(714): CodeIgniter\Model->doFirst()
+ 4 APPPATH/Controllers/CreditoController.php(180): CodeIgniter\BaseModel->first()
+ 5 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\CreditoController->obtenerResumenNegocio()
+ 6 SYSTEMPATH/CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController()
+ 7 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest()
+ 8 SYSTEMPATH/Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter()
+10 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb()
+CRITICAL - 2025-07-15 17:35:41 --> [Caused by] CodeIgniter\Database\Exceptions\DatabaseException: Unknown column 'transacciones.monto' in 'SELECT'
+in SYSTEMPATH/Database/MySQLi/Connection.php on line 313.
+ 1 SYSTEMPATH/Database/BaseConnection.php(722): CodeIgniter\Database\MySQLi\Connection->execute()
+ 2 SYSTEMPATH/Database/BaseConnection.php(636): CodeIgniter\Database\BaseConnection->simpleQuery()
+ 3 SYSTEMPATH/Database/BaseBuilder.php(1629): CodeIgniter\Database\BaseConnection->query()
+ 4 SYSTEMPATH/Model.php(319): CodeIgniter\Database\BaseBuilder->get()
+ 5 SYSTEMPATH/BaseModel.php(714): CodeIgniter\Model->doFirst()
+ 6 APPPATH/Controllers/CreditoController.php(180): CodeIgniter\BaseModel->first()
+ 7 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\CreditoController->obtenerResumenNegocio()
+ 8 SYSTEMPATH/CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController()
+ 9 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest()
+10 SYSTEMPATH/Boot.php(312): CodeIgniter\CodeIgniter->run()
+11 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter()
+12 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb()
+CRITICAL - 2025-07-15 17:35:41 --> [Caused by] mysqli_sql_exception: Unknown column 'transacciones.monto' in 'SELECT'
+in SYSTEMPATH/Database/MySQLi/Connection.php on line 308.
+ 1 SYSTEMPATH/Database/MySQLi/Connection.php(308): mysqli->query()
+ 2 SYSTEMPATH/Database/BaseConnection.php(722): CodeIgniter\Database\MySQLi\Connection->execute()
+ 3 SYSTEMPATH/Database/BaseConnection.php(636): CodeIgniter\Database\BaseConnection->simpleQuery()
+ 4 SYSTEMPATH/Database/BaseBuilder.php(1629): CodeIgniter\Database\BaseConnection->query()
+ 5 SYSTEMPATH/Model.php(319): CodeIgniter\Database\BaseBuilder->get()
+ 6 SYSTEMPATH/BaseModel.php(714): CodeIgniter\Model->doFirst()
+ 7 APPPATH/Controllers/CreditoController.php(180): CodeIgniter\BaseModel->first()
+ 8 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\CreditoController->obtenerResumenNegocio()
+ 9 SYSTEMPATH/CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController()
+10 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest()
+11 SYSTEMPATH/Boot.php(312): CodeIgniter\CodeIgniter->run()
+12 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter()
+13 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb()
+ERROR - 2025-07-15 17:49:56 --> 44
+ERROR - 2025-07-15 17:49:56 --> clienteeee
+ERROR - 2025-07-15 17:49:56 --> SELECT * FROM creditos 
+                WHERE cliente_id = 44 AND estado != 'eliminado'
+ERROR - 2025-07-15 17:49:57 --> SELECT * FROM transacciones 
+                WHERE id_credito = "69"
+ERROR - 2025-07-15 17:50:06 --> 26
+ERROR - 2025-07-15 17:50:06 --> clienteeee
+ERROR - 2025-07-15 17:50:06 --> SELECT * FROM creditos 
+                WHERE cliente_id = 26 AND estado != 'eliminado'
+ERROR - 2025-07-15 17:50:07 --> SELECT * FROM transacciones 
+                WHERE id_credito = "68"
+ERROR - 2025-07-15 17:50:19 --> 27
+ERROR - 2025-07-15 17:50:19 --> clienteeee
+ERROR - 2025-07-15 17:50:19 --> SELECT * FROM creditos 
+                WHERE cliente_id = 27 AND estado != 'eliminado'
+ERROR - 2025-07-15 21:21:46 --> 44
+ERROR - 2025-07-15 21:21:46 --> clienteeee
+ERROR - 2025-07-15 21:21:46 --> SELECT * FROM creditos 
+                WHERE cliente_id = 44 AND estado != 'eliminado'
+ERROR - 2025-07-15 21:21:47 --> SELECT * FROM transacciones 
+                WHERE id_credito = "69"
+ERROR - 2025-07-15 21:21:57 --> 41
+ERROR - 2025-07-15 21:21:57 --> clienteeee
+ERROR - 2025-07-15 21:21:57 --> SELECT * FROM creditos 
+                WHERE cliente_id = 41 AND estado != 'eliminado'
+ERROR - 2025-07-15 21:22:15 --> 28
+ERROR - 2025-07-15 21:22:15 --> clienteeee
+ERROR - 2025-07-15 21:22:15 --> SELECT * FROM creditos 
+                WHERE cliente_id = 28 AND estado != 'eliminado'
+ERROR - 2025-07-15 21:22:26 --> SELECT * FROM transacciones 
+                WHERE id_credito = "47"
+ERROR - 2025-07-15 23:02:27 --> 44
+ERROR - 2025-07-15 23:02:27 --> clienteeee
+ERROR - 2025-07-15 23:02:27 --> SELECT * FROM creditos 
+                WHERE cliente_id = 44 AND estado != 'eliminado'
+ERROR - 2025-07-15 23:35:13 --> 44
+ERROR - 2025-07-15 23:35:13 --> clienteeee
+ERROR - 2025-07-15 23:35:13 --> SELECT * FROM creditos 
+                WHERE cliente_id = 44 AND estado != 'eliminado'
+ERROR - 2025-07-15 23:35:14 --> SELECT * FROM transacciones 
+                WHERE id_credito = "69"
+ERROR - 2025-07-15 23:35:29 --> SELECT * FROM transacciones 
+                WHERE id_credito = "69"
+ERROR - 2025-07-15 23:35:34 --> SELECT * FROM transacciones 
+                WHERE id_credito = "69"
+ERROR - 2025-07-15 23:35:42 --> 44
+ERROR - 2025-07-15 23:35:42 --> clienteeee
+ERROR - 2025-07-15 23:35:42 --> SELECT * FROM creditos 
+                WHERE cliente_id = 44 AND estado != 'eliminado'
+ERROR - 2025-07-15 23:35:45 --> SELECT * FROM transacciones 
+                WHERE id_credito = "69"
+ERROR - 2025-07-15 23:35:47 --> SELECT * FROM transacciones 
+                WHERE id_credito = "69"
+ERROR - 2025-07-15 23:35:54 --> 44
+ERROR - 2025-07-15 23:35:54 --> clienteeee
+ERROR - 2025-07-15 23:35:54 --> SELECT * FROM creditos 
+                WHERE cliente_id = 44 AND estado != 'eliminado'
+ERROR - 2025-07-15 23:36:02 --> 26
+ERROR - 2025-07-15 23:36:02 --> clienteeee
+ERROR - 2025-07-15 23:36:02 --> SELECT * FROM creditos 
+                WHERE cliente_id = 26 AND estado != 'eliminado'
+ERROR - 2025-07-15 23:36:13 --> 27
+ERROR - 2025-07-15 23:36:13 --> clienteeee
+ERROR - 2025-07-15 23:36:13 --> SELECT * FROM creditos 
+                WHERE cliente_id = 27 AND estado != 'eliminado'

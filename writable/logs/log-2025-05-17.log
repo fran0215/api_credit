@@ -1,0 +1,8 @@
+ERROR - 2025-05-17 14:09:26 --> 10
+ERROR - 2025-05-17 14:09:26 --> clienteeee
+ERROR - 2025-05-17 14:09:27 --> SELECT * FROM creditos 
+                WHERE cliente_id = 10  
+ERROR - 2025-05-17 16:23:41 --> 9
+ERROR - 2025-05-17 16:23:41 --> clienteeee
+ERROR - 2025-05-17 16:23:41 --> SELECT * FROM creditos 
+                WHERE cliente_id = 9  

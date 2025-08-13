@@ -1,0 +1,96 @@
+ERROR - 2025-05-27 02:59:08 --> 11
+ERROR - 2025-05-27 02:59:08 --> clienteeee
+ERROR - 2025-05-27 02:59:08 --> SELECT * FROM creditos 
+                WHERE cliente_id = 11 AND estado != 'eliminado'
+ERROR - 2025-05-27 02:59:14 --> 11
+ERROR - 2025-05-27 02:59:14 --> clienteeee
+ERROR - 2025-05-27 02:59:14 --> SELECT * FROM creditos 
+                WHERE cliente_id = 11 AND estado != 'eliminado'
+ERROR - 2025-05-27 02:59:25 --> 11
+ERROR - 2025-05-27 02:59:25 --> clienteeee
+ERROR - 2025-05-27 02:59:25 --> SELECT * FROM creditos 
+                WHERE cliente_id = 11 AND estado != 'eliminado'
+ERROR - 2025-05-27 02:59:27 --> 10
+ERROR - 2025-05-27 02:59:27 --> clienteeee
+ERROR - 2025-05-27 02:59:27 --> SELECT * FROM creditos 
+                WHERE cliente_id = 10 AND estado != 'eliminado'
+ERROR - 2025-05-27 02:59:33 --> 10
+ERROR - 2025-05-27 02:59:33 --> clienteeee
+ERROR - 2025-05-27 02:59:33 --> SELECT * FROM creditos 
+                WHERE cliente_id = 10 AND estado != 'eliminado'
+ERROR - 2025-05-27 02:59:38 --> 22
+ERROR - 2025-05-27 02:59:38 --> clienteeee
+ERROR - 2025-05-27 02:59:38 --> SELECT * FROM creditos 
+                WHERE cliente_id = 22 AND estado != 'eliminado'
+ERROR - 2025-05-27 02:59:48 --> 23
+ERROR - 2025-05-27 02:59:48 --> clienteeee
+ERROR - 2025-05-27 02:59:48 --> SELECT * FROM creditos 
+                WHERE cliente_id = 23 AND estado != 'eliminado'
+ERROR - 2025-05-27 02:59:52 --> 23
+ERROR - 2025-05-27 02:59:52 --> clienteeee
+ERROR - 2025-05-27 02:59:52 --> SELECT * FROM creditos 
+                WHERE cliente_id = 23 AND estado != 'eliminado'
+ERROR - 2025-05-27 02:59:58 --> 23
+ERROR - 2025-05-27 02:59:58 --> clienteeee
+ERROR - 2025-05-27 02:59:58 --> SELECT * FROM creditos 
+                WHERE cliente_id = 23 AND estado != 'eliminado'
+ERROR - 2025-05-27 02:59:59 --> SELECT * FROM transacciones 
+                WHERE id_credito = "34"
+ERROR - 2025-05-27 03:00:27 --> 7
+ERROR - 2025-05-27 03:00:27 --> clienteeee
+ERROR - 2025-05-27 03:00:27 --> SELECT * FROM creditos 
+                WHERE cliente_id = 7 AND estado != 'eliminado'
+ERROR - 2025-05-27 03:00:31 --> 8
+ERROR - 2025-05-27 03:00:31 --> clienteeee
+ERROR - 2025-05-27 03:00:31 --> SELECT * FROM creditos 
+                WHERE cliente_id = 8 AND estado != 'eliminado'
+ERROR - 2025-05-27 03:00:34 --> 8
+ERROR - 2025-05-27 03:00:34 --> clienteeee
+ERROR - 2025-05-27 03:00:34 --> SELECT * FROM creditos 
+                WHERE cliente_id = 8 AND estado != 'eliminado'
+ERROR - 2025-05-27 03:00:38 --> 9
+ERROR - 2025-05-27 03:00:38 --> clienteeee
+ERROR - 2025-05-27 03:00:38 --> SELECT * FROM creditos 
+                WHERE cliente_id = 9 AND estado != 'eliminado'
+ERROR - 2025-05-27 03:00:40 --> 9
+ERROR - 2025-05-27 03:00:40 --> clienteeee
+ERROR - 2025-05-27 03:00:40 --> SELECT * FROM creditos 
+                WHERE cliente_id = 9 AND estado != 'eliminado'
+ERROR - 2025-05-27 03:00:43 --> 10
+ERROR - 2025-05-27 03:00:43 --> clienteeee
+ERROR - 2025-05-27 03:00:43 --> SELECT * FROM creditos 
+                WHERE cliente_id = 10 AND estado != 'eliminado'
+ERROR - 2025-05-27 03:00:44 --> 11
+ERROR - 2025-05-27 03:00:44 --> clienteeee
+ERROR - 2025-05-27 03:00:44 --> SELECT * FROM creditos 
+                WHERE cliente_id = 11 AND estado != 'eliminado'
+ERROR - 2025-05-27 03:00:47 --> 13
+ERROR - 2025-05-27 03:00:47 --> clienteeee
+ERROR - 2025-05-27 03:00:47 --> SELECT * FROM creditos 
+                WHERE cliente_id = 13 AND estado != 'eliminado'
+ERROR - 2025-05-27 03:00:52 --> SELECT * FROM transacciones 
+                WHERE id_credito = "16"
+ERROR - 2025-05-27 03:01:19 --> 14
+ERROR - 2025-05-27 03:01:19 --> clienteeee
+ERROR - 2025-05-27 03:01:19 --> SELECT * FROM creditos 
+                WHERE cliente_id = 14 AND estado != 'eliminado'
+ERROR - 2025-05-27 03:01:34 --> SELECT * FROM transacciones 
+                WHERE id_credito = "24"
+ERROR - 2025-05-27 03:01:37 --> 14
+ERROR - 2025-05-27 03:01:37 --> clienteeee
+ERROR - 2025-05-27 03:01:37 --> SELECT * FROM creditos 
+                WHERE cliente_id = 14 AND estado != 'eliminado'
+ERROR - 2025-05-27 03:01:42 --> 23
+ERROR - 2025-05-27 03:01:42 --> clienteeee
+ERROR - 2025-05-27 03:01:42 --> SELECT * FROM creditos 
+                WHERE cliente_id = 23 AND estado != 'eliminado'
+ERROR - 2025-05-27 03:01:43 --> SELECT * FROM transacciones 
+                WHERE id_credito = "34"
+ERROR - 2025-05-27 03:01:52 --> 16
+ERROR - 2025-05-27 03:01:52 --> clienteeee
+ERROR - 2025-05-27 03:01:52 --> SELECT * FROM creditos 
+                WHERE cliente_id = 16 AND estado != 'eliminado'
+ERROR - 2025-05-27 03:01:54 --> 11
+ERROR - 2025-05-27 03:01:54 --> clienteeee
+ERROR - 2025-05-27 03:01:54 --> SELECT * FROM creditos 
+                WHERE cliente_id = 11 AND estado != 'eliminado'

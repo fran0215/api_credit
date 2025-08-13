@@ -1,0 +1,575 @@
+ERROR - 2025-07-11 01:40:13 --> 27
+ERROR - 2025-07-11 01:40:13 --> clienteeee
+ERROR - 2025-07-11 01:40:13 --> SELECT * FROM creditos 
+                WHERE cliente_id = 27 AND estado != 'eliminado'
+ERROR - 2025-07-11 01:40:15 --> SELECT * FROM transacciones 
+                WHERE id_credito = "64"
+ERROR - 2025-07-11 01:40:35 --> SELECT * FROM transacciones 
+                WHERE id_credito = "64"
+ERROR - 2025-07-11 01:40:47 --> SELECT * FROM transacciones 
+                WHERE id_credito = "64"
+ERROR - 2025-07-11 01:40:59 --> 41
+ERROR - 2025-07-11 01:40:59 --> clienteeee
+ERROR - 2025-07-11 01:40:59 --> SELECT * FROM creditos 
+                WHERE cliente_id = 41 AND estado != 'eliminado'
+ERROR - 2025-07-11 01:41:00 --> SELECT * FROM transacciones 
+                WHERE id_credito = "65"
+ERROR - 2025-07-11 01:41:14 --> 26
+ERROR - 2025-07-11 01:41:14 --> clienteeee
+ERROR - 2025-07-11 01:41:14 --> SELECT * FROM creditos 
+                WHERE cliente_id = 26 AND estado != 'eliminado'
+ERROR - 2025-07-11 01:41:16 --> SELECT * FROM transacciones 
+                WHERE id_credito = "44"
+ERROR - 2025-07-11 01:42:51 --> 30
+ERROR - 2025-07-11 01:42:51 --> clienteeee
+ERROR - 2025-07-11 01:42:51 --> SELECT * FROM creditos 
+                WHERE cliente_id = 30 AND estado != 'eliminado'
+ERROR - 2025-07-11 01:42:53 --> SELECT * FROM transacciones 
+                WHERE id_credito = "52"
+ERROR - 2025-07-11 01:43:16 --> 32
+ERROR - 2025-07-11 01:43:16 --> clienteeee
+ERROR - 2025-07-11 01:43:16 --> SELECT * FROM creditos 
+                WHERE cliente_id = 32 AND estado != 'eliminado'
+ERROR - 2025-07-11 01:52:12 --> 27
+ERROR - 2025-07-11 01:52:12 --> clienteeee
+ERROR - 2025-07-11 01:52:12 --> SELECT * FROM creditos 
+                WHERE cliente_id = 27 AND estado != 'eliminado'
+ERROR - 2025-07-11 01:52:14 --> SELECT * FROM transacciones 
+                WHERE id_credito = "64"
+ERROR - 2025-07-11 01:54:39 --> 27
+ERROR - 2025-07-11 01:54:39 --> clienteeee
+ERROR - 2025-07-11 01:54:39 --> SELECT * FROM creditos 
+                WHERE cliente_id = 27 AND estado != 'eliminado'
+ERROR - 2025-07-11 01:54:42 --> SELECT * FROM transacciones 
+                WHERE id_credito = "64"
+ERROR - 2025-07-11 01:54:56 --> SELECT * FROM transacciones 
+                WHERE id_credito = "64"
+ERROR - 2025-07-11 02:31:45 --> 32
+ERROR - 2025-07-11 02:31:45 --> clienteeee
+ERROR - 2025-07-11 02:31:45 --> SELECT * FROM creditos 
+                WHERE cliente_id = 32 AND estado != 'eliminado'
+ERROR - 2025-07-11 02:32:05 --> 41
+ERROR - 2025-07-11 02:32:05 --> clienteeee
+ERROR - 2025-07-11 02:32:05 --> SELECT * FROM creditos 
+                WHERE cliente_id = 41 AND estado != 'eliminado'
+ERROR - 2025-07-11 02:32:07 --> SELECT * FROM transacciones 
+                WHERE id_credito = "65"
+ERROR - 2025-07-11 02:32:16 --> SELECT * FROM transacciones 
+                WHERE id_credito = "65"
+ERROR - 2025-07-11 03:35:57 --> 42
+ERROR - 2025-07-11 03:35:57 --> clienteeee
+ERROR - 2025-07-11 03:35:57 --> SELECT * FROM creditos 
+                WHERE cliente_id = 42 AND estado != 'eliminado'
+ERROR - 2025-07-11 03:38:04 --> 42
+ERROR - 2025-07-11 03:38:04 --> clienteeee
+ERROR - 2025-07-11 03:38:04 --> SELECT * FROM creditos 
+                WHERE cliente_id = 42 AND estado != 'eliminado'
+ERROR - 2025-07-11 03:38:29 --> Cantidad de pagos: 30
+ERROR - 2025-07-11 03:38:29 --> Fecha Pago: 2025-06-10
+ERROR - 2025-07-11 03:38:29 --> Monto Pago antes de conversión: 4000
+ERROR - 2025-07-11 03:38:29 --> Monto Pago después de conversión: 4000
+ERROR - 2025-07-11 03:38:29 --> Fecha Pago: 2025-06-11
+ERROR - 2025-07-11 03:38:29 --> Monto Pago antes de conversión: 4000
+ERROR - 2025-07-11 03:38:29 --> Monto Pago después de conversión: 4000
+ERROR - 2025-07-11 03:38:29 --> Fecha Pago: 2025-06-12
+ERROR - 2025-07-11 03:38:29 --> Monto Pago antes de conversión: 4000
+ERROR - 2025-07-11 03:38:29 --> Monto Pago después de conversión: 4000
+ERROR - 2025-07-11 03:38:29 --> Fecha Pago: 2025-06-13
+ERROR - 2025-07-11 03:38:29 --> Monto Pago antes de conversión: 4000
+ERROR - 2025-07-11 03:38:29 --> Monto Pago después de conversión: 4000
+ERROR - 2025-07-11 03:38:29 --> Fecha Pago: 2025-06-14
+ERROR - 2025-07-11 03:38:29 --> Monto Pago antes de conversión: 4000
+ERROR - 2025-07-11 03:38:29 --> Monto Pago después de conversión: 4000
+ERROR - 2025-07-11 03:38:29 --> Fecha Pago: 2025-06-15
+ERROR - 2025-07-11 03:38:29 --> Monto Pago antes de conversión: 4000
+ERROR - 2025-07-11 03:38:29 --> Monto Pago después de conversión: 4000
+ERROR - 2025-07-11 03:38:29 --> Fecha Pago: 2025-06-16
+ERROR - 2025-07-11 03:38:29 --> Monto Pago antes de conversión: 4000
+ERROR - 2025-07-11 03:38:29 --> Monto Pago después de conversión: 4000
+ERROR - 2025-07-11 03:38:29 --> Fecha Pago: 2025-06-17
+ERROR - 2025-07-11 03:38:29 --> Monto Pago antes de conversión: 4000
+ERROR - 2025-07-11 03:38:29 --> Monto Pago después de conversión: 4000
+ERROR - 2025-07-11 03:38:29 --> Fecha Pago: 2025-06-18
+ERROR - 2025-07-11 03:38:29 --> Monto Pago antes de conversión: 4000
+ERROR - 2025-07-11 03:38:29 --> Monto Pago después de conversión: 4000
+ERROR - 2025-07-11 03:38:29 --> Fecha Pago: 2025-06-19
+ERROR - 2025-07-11 03:38:29 --> Monto Pago antes de conversión: 4000
+ERROR - 2025-07-11 03:38:29 --> Monto Pago después de conversión: 4000
+ERROR - 2025-07-11 03:38:29 --> Fecha Pago: 2025-06-20
+ERROR - 2025-07-11 03:38:29 --> Monto Pago antes de conversión: 4000
+ERROR - 2025-07-11 03:38:29 --> Monto Pago después de conversión: 4000
+ERROR - 2025-07-11 03:38:29 --> Fecha Pago: 2025-06-21
+ERROR - 2025-07-11 03:38:29 --> Monto Pago antes de conversión: 4000
+ERROR - 2025-07-11 03:38:29 --> Monto Pago después de conversión: 4000
+ERROR - 2025-07-11 03:38:29 --> Fecha Pago: 2025-06-22
+ERROR - 2025-07-11 03:38:29 --> Monto Pago antes de conversión: 4000
+ERROR - 2025-07-11 03:38:29 --> Monto Pago después de conversión: 4000
+ERROR - 2025-07-11 03:38:29 --> Fecha Pago: 2025-06-23
+ERROR - 2025-07-11 03:38:29 --> Monto Pago antes de conversión: 4000
+ERROR - 2025-07-11 03:38:29 --> Monto Pago después de conversión: 4000
+ERROR - 2025-07-11 03:38:29 --> Fecha Pago: 2025-06-24
+ERROR - 2025-07-11 03:38:29 --> Monto Pago antes de conversión: 4000
+ERROR - 2025-07-11 03:38:29 --> Monto Pago después de conversión: 4000
+ERROR - 2025-07-11 03:38:29 --> Fecha Pago: 2025-06-25
+ERROR - 2025-07-11 03:38:29 --> Monto Pago antes de conversión: 4000
+ERROR - 2025-07-11 03:38:29 --> Monto Pago después de conversión: 4000
+ERROR - 2025-07-11 03:38:29 --> Fecha Pago: 2025-06-26
+ERROR - 2025-07-11 03:38:29 --> Monto Pago antes de conversión: 4000
+ERROR - 2025-07-11 03:38:29 --> Monto Pago después de conversión: 4000
+ERROR - 2025-07-11 03:38:29 --> Fecha Pago: 2025-06-27
+ERROR - 2025-07-11 03:38:29 --> Monto Pago antes de conversión: 4000
+ERROR - 2025-07-11 03:38:29 --> Monto Pago después de conversión: 4000
+ERROR - 2025-07-11 03:38:29 --> Fecha Pago: 2025-06-28
+ERROR - 2025-07-11 03:38:29 --> Monto Pago antes de conversión: 4000
+ERROR - 2025-07-11 03:38:29 --> Monto Pago después de conversión: 4000
+ERROR - 2025-07-11 03:38:29 --> Fecha Pago: 2025-06-29
+ERROR - 2025-07-11 03:38:29 --> Monto Pago antes de conversión: 4000
+ERROR - 2025-07-11 03:38:29 --> Monto Pago después de conversión: 4000
+ERROR - 2025-07-11 03:38:29 --> Fecha Pago: 2025-06-30
+ERROR - 2025-07-11 03:38:29 --> Monto Pago antes de conversión: 4000
+ERROR - 2025-07-11 03:38:29 --> Monto Pago después de conversión: 4000
+ERROR - 2025-07-11 03:38:29 --> Fecha Pago: 2025-07-01
+ERROR - 2025-07-11 03:38:29 --> Monto Pago antes de conversión: 4000
+ERROR - 2025-07-11 03:38:29 --> Monto Pago después de conversión: 4000
+ERROR - 2025-07-11 03:38:29 --> Fecha Pago: 2025-07-02
+ERROR - 2025-07-11 03:38:29 --> Monto Pago antes de conversión: 4000
+ERROR - 2025-07-11 03:38:29 --> Monto Pago después de conversión: 4000
+ERROR - 2025-07-11 03:38:29 --> Fecha Pago: 2025-07-03
+ERROR - 2025-07-11 03:38:29 --> Monto Pago antes de conversión: 4000
+ERROR - 2025-07-11 03:38:29 --> Monto Pago después de conversión: 4000
+ERROR - 2025-07-11 03:38:29 --> Fecha Pago: 2025-07-04
+ERROR - 2025-07-11 03:38:29 --> Monto Pago antes de conversión: 4000
+ERROR - 2025-07-11 03:38:29 --> Monto Pago después de conversión: 4000
+ERROR - 2025-07-11 03:38:29 --> Fecha Pago: 2025-07-05
+ERROR - 2025-07-11 03:38:29 --> Monto Pago antes de conversión: 4000
+ERROR - 2025-07-11 03:38:29 --> Monto Pago después de conversión: 4000
+ERROR - 2025-07-11 03:38:29 --> Fecha Pago: 2025-07-06
+ERROR - 2025-07-11 03:38:29 --> Monto Pago antes de conversión: 4000
+ERROR - 2025-07-11 03:38:29 --> Monto Pago después de conversión: 4000
+ERROR - 2025-07-11 03:38:29 --> Fecha Pago: 2025-07-07
+ERROR - 2025-07-11 03:38:29 --> Monto Pago antes de conversión: 4000
+ERROR - 2025-07-11 03:38:29 --> Monto Pago después de conversión: 4000
+ERROR - 2025-07-11 03:38:29 --> Fecha Pago: 2025-07-08
+ERROR - 2025-07-11 03:38:29 --> Monto Pago antes de conversión: 4000
+ERROR - 2025-07-11 03:38:29 --> Monto Pago después de conversión: 4000
+ERROR - 2025-07-11 03:38:29 --> Fecha Pago: 2025-07-09
+ERROR - 2025-07-11 03:38:29 --> Monto Pago antes de conversión: 4000
+ERROR - 2025-07-11 03:38:29 --> Monto Pago después de conversión: 4000
+ERROR - 2025-07-11 03:38:34 --> 42
+ERROR - 2025-07-11 03:38:34 --> clienteeee
+ERROR - 2025-07-11 03:38:34 --> SELECT * FROM creditos 
+                WHERE cliente_id = 42 AND estado != 'eliminado'
+ERROR - 2025-07-11 03:38:36 --> SELECT * FROM transacciones 
+                WHERE id_credito = "66"
+ERROR - 2025-07-11 03:39:00 --> SELECT * FROM transacciones 
+                WHERE id_credito = "66"
+ERROR - 2025-07-11 03:39:19 --> SELECT * FROM transacciones 
+                WHERE id_credito = "66"
+ERROR - 2025-07-11 03:39:34 --> SELECT * FROM transacciones 
+                WHERE id_credito = "66"
+ERROR - 2025-07-11 03:39:50 --> SELECT * FROM transacciones 
+                WHERE id_credito = "66"
+ERROR - 2025-07-11 03:40:16 --> SELECT * FROM transacciones 
+                WHERE id_credito = "66"
+ERROR - 2025-07-11 03:40:36 --> SELECT * FROM transacciones 
+                WHERE id_credito = "66"
+ERROR - 2025-07-11 03:40:52 --> SELECT * FROM transacciones 
+                WHERE id_credito = "66"
+ERROR - 2025-07-11 03:41:13 --> 42
+ERROR - 2025-07-11 03:41:13 --> clienteeee
+ERROR - 2025-07-11 03:41:13 --> SELECT * FROM creditos 
+                WHERE cliente_id = 42 AND estado != 'eliminado'
+ERROR - 2025-07-11 03:41:27 --> SELECT * FROM transacciones 
+                WHERE id_credito = "66"
+ERROR - 2025-07-11 03:41:39 --> SELECT * FROM transacciones 
+                WHERE id_credito = "66"
+ERROR - 2025-07-11 03:42:04 --> 42
+ERROR - 2025-07-11 03:42:04 --> clienteeee
+ERROR - 2025-07-11 03:42:04 --> SELECT * FROM creditos 
+                WHERE cliente_id = 42 AND estado != 'eliminado'
+ERROR - 2025-07-11 03:42:09 --> SELECT * FROM transacciones 
+                WHERE id_credito = "66"
+ERROR - 2025-07-11 03:42:39 --> SELECT * FROM transacciones 
+                WHERE id_credito = "66"
+ERROR - 2025-07-11 03:43:10 --> 35
+ERROR - 2025-07-11 03:43:10 --> clienteeee
+ERROR - 2025-07-11 03:43:10 --> SELECT * FROM creditos 
+                WHERE cliente_id = 35 AND estado != 'eliminado'
+ERROR - 2025-07-11 03:43:16 --> SELECT * FROM transacciones 
+                WHERE id_credito = "56"
+ERROR - 2025-07-11 03:43:41 --> SELECT * FROM transacciones 
+                WHERE id_credito = "56"
+ERROR - 2025-07-11 03:43:53 --> SELECT * FROM transacciones 
+                WHERE id_credito = "56"
+ERROR - 2025-07-11 03:44:07 --> 42
+ERROR - 2025-07-11 03:44:07 --> clienteeee
+ERROR - 2025-07-11 03:44:07 --> SELECT * FROM creditos 
+                WHERE cliente_id = 42 AND estado != 'eliminado'
+ERROR - 2025-07-11 03:45:27 --> Cantidad de pagos: 30
+ERROR - 2025-07-11 03:45:27 --> Fecha Pago: 2025-06-27
+ERROR - 2025-07-11 03:45:27 --> Monto Pago antes de conversión: 4000
+ERROR - 2025-07-11 03:45:27 --> Monto Pago después de conversión: 4000
+ERROR - 2025-07-11 03:45:27 --> Fecha Pago: 2025-06-28
+ERROR - 2025-07-11 03:45:27 --> Monto Pago antes de conversión: 4000
+ERROR - 2025-07-11 03:45:27 --> Monto Pago después de conversión: 4000
+ERROR - 2025-07-11 03:45:27 --> Fecha Pago: 2025-06-29
+ERROR - 2025-07-11 03:45:27 --> Monto Pago antes de conversión: 4000
+ERROR - 2025-07-11 03:45:27 --> Monto Pago después de conversión: 4000
+ERROR - 2025-07-11 03:45:27 --> Fecha Pago: 2025-06-30
+ERROR - 2025-07-11 03:45:27 --> Monto Pago antes de conversión: 4000
+ERROR - 2025-07-11 03:45:27 --> Monto Pago después de conversión: 4000
+ERROR - 2025-07-11 03:45:27 --> Fecha Pago: 2025-07-01
+ERROR - 2025-07-11 03:45:27 --> Monto Pago antes de conversión: 4000
+ERROR - 2025-07-11 03:45:27 --> Monto Pago después de conversión: 4000
+ERROR - 2025-07-11 03:45:27 --> Fecha Pago: 2025-07-02
+ERROR - 2025-07-11 03:45:27 --> Monto Pago antes de conversión: 4000
+ERROR - 2025-07-11 03:45:27 --> Monto Pago después de conversión: 4000
+ERROR - 2025-07-11 03:45:27 --> Fecha Pago: 2025-07-03
+ERROR - 2025-07-11 03:45:27 --> Monto Pago antes de conversión: 4000
+ERROR - 2025-07-11 03:45:27 --> Monto Pago después de conversión: 4000
+ERROR - 2025-07-11 03:45:27 --> Fecha Pago: 2025-07-04
+ERROR - 2025-07-11 03:45:27 --> Monto Pago antes de conversión: 4000
+ERROR - 2025-07-11 03:45:27 --> Monto Pago después de conversión: 4000
+ERROR - 2025-07-11 03:45:27 --> Fecha Pago: 2025-07-05
+ERROR - 2025-07-11 03:45:27 --> Monto Pago antes de conversión: 4000
+ERROR - 2025-07-11 03:45:27 --> Monto Pago después de conversión: 4000
+ERROR - 2025-07-11 03:45:27 --> Fecha Pago: 2025-07-06
+ERROR - 2025-07-11 03:45:27 --> Monto Pago antes de conversión: 4000
+ERROR - 2025-07-11 03:45:27 --> Monto Pago después de conversión: 4000
+ERROR - 2025-07-11 03:45:27 --> Fecha Pago: 2025-07-07
+ERROR - 2025-07-11 03:45:27 --> Monto Pago antes de conversión: 4000
+ERROR - 2025-07-11 03:45:27 --> Monto Pago después de conversión: 4000
+ERROR - 2025-07-11 03:45:27 --> Fecha Pago: 2025-07-08
+ERROR - 2025-07-11 03:45:27 --> Monto Pago antes de conversión: 4000
+ERROR - 2025-07-11 03:45:27 --> Monto Pago después de conversión: 4000
+ERROR - 2025-07-11 03:45:27 --> Fecha Pago: 2025-07-09
+ERROR - 2025-07-11 03:45:27 --> Monto Pago antes de conversión: 4000
+ERROR - 2025-07-11 03:45:27 --> Monto Pago después de conversión: 4000
+ERROR - 2025-07-11 03:45:27 --> Fecha Pago: 2025-07-10
+ERROR - 2025-07-11 03:45:27 --> Monto Pago antes de conversión: 4000
+ERROR - 2025-07-11 03:45:27 --> Monto Pago después de conversión: 4000
+ERROR - 2025-07-11 03:45:27 --> Fecha Pago: 2025-07-11
+ERROR - 2025-07-11 03:45:27 --> Monto Pago antes de conversión: 4000
+ERROR - 2025-07-11 03:45:27 --> Monto Pago después de conversión: 4000
+ERROR - 2025-07-11 03:45:27 --> Fecha Pago: 2025-07-12
+ERROR - 2025-07-11 03:45:27 --> Monto Pago antes de conversión: 4000
+ERROR - 2025-07-11 03:45:27 --> Monto Pago después de conversión: 4000
+ERROR - 2025-07-11 03:45:27 --> Fecha Pago: 2025-07-13
+ERROR - 2025-07-11 03:45:27 --> Monto Pago antes de conversión: 4000
+ERROR - 2025-07-11 03:45:27 --> Monto Pago después de conversión: 4000
+ERROR - 2025-07-11 03:45:27 --> Fecha Pago: 2025-07-14
+ERROR - 2025-07-11 03:45:27 --> Monto Pago antes de conversión: 4000
+ERROR - 2025-07-11 03:45:27 --> Monto Pago después de conversión: 4000
+ERROR - 2025-07-11 03:45:27 --> Fecha Pago: 2025-07-15
+ERROR - 2025-07-11 03:45:27 --> Monto Pago antes de conversión: 4000
+ERROR - 2025-07-11 03:45:27 --> Monto Pago después de conversión: 4000
+ERROR - 2025-07-11 03:45:27 --> Fecha Pago: 2025-07-16
+ERROR - 2025-07-11 03:45:27 --> Monto Pago antes de conversión: 4000
+ERROR - 2025-07-11 03:45:27 --> Monto Pago después de conversión: 4000
+ERROR - 2025-07-11 03:45:27 --> Fecha Pago: 2025-07-17
+ERROR - 2025-07-11 03:45:27 --> Monto Pago antes de conversión: 4000
+ERROR - 2025-07-11 03:45:27 --> Monto Pago después de conversión: 4000
+ERROR - 2025-07-11 03:45:27 --> Fecha Pago: 2025-07-18
+ERROR - 2025-07-11 03:45:27 --> Monto Pago antes de conversión: 4000
+ERROR - 2025-07-11 03:45:27 --> Monto Pago después de conversión: 4000
+ERROR - 2025-07-11 03:45:27 --> Fecha Pago: 2025-07-19
+ERROR - 2025-07-11 03:45:27 --> Monto Pago antes de conversión: 4000
+ERROR - 2025-07-11 03:45:27 --> Monto Pago después de conversión: 4000
+ERROR - 2025-07-11 03:45:27 --> Fecha Pago: 2025-07-20
+ERROR - 2025-07-11 03:45:27 --> Monto Pago antes de conversión: 4000
+ERROR - 2025-07-11 03:45:27 --> Monto Pago después de conversión: 4000
+ERROR - 2025-07-11 03:45:27 --> Fecha Pago: 2025-07-21
+ERROR - 2025-07-11 03:45:27 --> Monto Pago antes de conversión: 4000
+ERROR - 2025-07-11 03:45:27 --> Monto Pago después de conversión: 4000
+ERROR - 2025-07-11 03:45:27 --> Fecha Pago: 2025-07-22
+ERROR - 2025-07-11 03:45:27 --> Monto Pago antes de conversión: 4000
+ERROR - 2025-07-11 03:45:27 --> Monto Pago después de conversión: 4000
+ERROR - 2025-07-11 03:45:27 --> Fecha Pago: 2025-07-23
+ERROR - 2025-07-11 03:45:27 --> Monto Pago antes de conversión: 4000
+ERROR - 2025-07-11 03:45:27 --> Monto Pago después de conversión: 4000
+ERROR - 2025-07-11 03:45:27 --> Fecha Pago: 2025-07-24
+ERROR - 2025-07-11 03:45:27 --> Monto Pago antes de conversión: 4000
+ERROR - 2025-07-11 03:45:27 --> Monto Pago después de conversión: 4000
+ERROR - 2025-07-11 03:45:27 --> Fecha Pago: 2025-07-25
+ERROR - 2025-07-11 03:45:27 --> Monto Pago antes de conversión: 4000
+ERROR - 2025-07-11 03:45:27 --> Monto Pago después de conversión: 4000
+ERROR - 2025-07-11 03:45:27 --> Fecha Pago: 2025-07-26
+ERROR - 2025-07-11 03:45:27 --> Monto Pago antes de conversión: 4000
+ERROR - 2025-07-11 03:45:27 --> Monto Pago después de conversión: 4000
+ERROR - 2025-07-11 03:45:37 --> 28
+ERROR - 2025-07-11 03:45:37 --> clienteeee
+ERROR - 2025-07-11 03:45:37 --> SELECT * FROM creditos 
+                WHERE cliente_id = 28 AND estado != 'eliminado'
+ERROR - 2025-07-11 03:45:43 --> 27
+ERROR - 2025-07-11 03:45:43 --> clienteeee
+ERROR - 2025-07-11 03:45:43 --> SELECT * FROM creditos 
+                WHERE cliente_id = 27 AND estado != 'eliminado'
+ERROR - 2025-07-11 03:46:30 --> 27
+ERROR - 2025-07-11 03:46:30 --> clienteeee
+ERROR - 2025-07-11 03:46:30 --> SELECT * FROM creditos 
+                WHERE cliente_id = 27 AND estado != 'eliminado'
+ERROR - 2025-07-11 03:46:41 --> 26
+ERROR - 2025-07-11 03:46:41 --> clienteeee
+ERROR - 2025-07-11 03:46:41 --> SELECT * FROM creditos 
+                WHERE cliente_id = 26 AND estado != 'eliminado'
+ERROR - 2025-07-11 03:46:47 --> 42
+ERROR - 2025-07-11 03:46:47 --> clienteeee
+ERROR - 2025-07-11 03:46:47 --> SELECT * FROM creditos 
+                WHERE cliente_id = 42 AND estado != 'eliminado'
+ERROR - 2025-07-11 03:47:04 --> SELECT * FROM transacciones 
+                WHERE id_credito = "66"
+ERROR - 2025-07-11 03:47:09 --> SELECT * FROM transacciones 
+                WHERE id_credito = "67"
+ERROR - 2025-07-11 03:47:32 --> SELECT * FROM transacciones 
+                WHERE id_credito = "67"
+ERROR - 2025-07-11 03:48:08 --> 28
+ERROR - 2025-07-11 03:48:08 --> clienteeee
+ERROR - 2025-07-11 03:48:08 --> SELECT * FROM creditos 
+                WHERE cliente_id = 28 AND estado != 'eliminado'
+ERROR - 2025-07-11 03:48:26 --> SELECT * FROM transacciones 
+                WHERE id_credito = "47"
+ERROR - 2025-07-11 03:49:01 --> 28
+ERROR - 2025-07-11 03:49:01 --> clienteeee
+ERROR - 2025-07-11 03:49:01 --> SELECT * FROM creditos 
+                WHERE cliente_id = 28 AND estado != 'eliminado'
+ERROR - 2025-07-11 03:49:06 --> SELECT * FROM transacciones 
+                WHERE id_credito = "47"
+ERROR - 2025-07-11 03:49:38 --> SELECT * FROM transacciones 
+                WHERE id_credito = "47"
+ERROR - 2025-07-11 03:50:32 --> SELECT * FROM transacciones 
+                WHERE id_credito = "47"
+ERROR - 2025-07-11 03:50:43 --> SELECT * FROM transacciones 
+                WHERE id_credito = "47"
+ERROR - 2025-07-11 03:50:52 --> SELECT * FROM transacciones 
+                WHERE id_credito = "47"
+ERROR - 2025-07-11 03:51:01 --> SELECT * FROM transacciones 
+                WHERE id_credito = "47"
+ERROR - 2025-07-11 03:51:11 --> SELECT * FROM transacciones 
+                WHERE id_credito = "47"
+ERROR - 2025-07-11 03:51:19 --> SELECT * FROM transacciones 
+                WHERE id_credito = "47"
+ERROR - 2025-07-11 03:51:33 --> SELECT * FROM transacciones 
+                WHERE id_credito = "47"
+ERROR - 2025-07-11 03:51:52 --> SELECT * FROM transacciones 
+                WHERE id_credito = "47"
+ERROR - 2025-07-11 03:52:05 --> SELECT * FROM transacciones 
+                WHERE id_credito = "47"
+ERROR - 2025-07-11 03:52:23 --> SELECT * FROM transacciones 
+                WHERE id_credito = "47"
+ERROR - 2025-07-11 11:46:09 --> 26
+ERROR - 2025-07-11 11:46:09 --> clienteeee
+ERROR - 2025-07-11 11:46:09 --> SELECT * FROM creditos 
+                WHERE cliente_id = 26 AND estado != 'eliminado'
+ERROR - 2025-07-11 11:46:12 --> SELECT * FROM transacciones 
+                WHERE id_credito = "44"
+ERROR - 2025-07-11 11:46:45 --> SELECT * FROM transacciones 
+                WHERE id_credito = "44"
+ERROR - 2025-07-11 11:47:01 --> SELECT * FROM transacciones 
+                WHERE id_credito = "44"
+ERROR - 2025-07-11 11:47:19 --> SELECT * FROM transacciones 
+                WHERE id_credito = "44"
+ERROR - 2025-07-11 11:47:35 --> SELECT * FROM transacciones 
+                WHERE id_credito = "44"
+ERROR - 2025-07-11 11:47:54 --> 26
+ERROR - 2025-07-11 11:47:54 --> clienteeee
+ERROR - 2025-07-11 11:47:54 --> SELECT * FROM creditos 
+                WHERE cliente_id = 26 AND estado != 'eliminado'
+ERROR - 2025-07-11 11:47:59 --> 27
+ERROR - 2025-07-11 11:47:59 --> clienteeee
+ERROR - 2025-07-11 11:47:59 --> SELECT * FROM creditos 
+                WHERE cliente_id = 27 AND estado != 'eliminado'
+ERROR - 2025-07-11 11:48:05 --> 28
+ERROR - 2025-07-11 11:48:05 --> clienteeee
+ERROR - 2025-07-11 11:48:05 --> SELECT * FROM creditos 
+                WHERE cliente_id = 28 AND estado != 'eliminado'
+ERROR - 2025-07-11 11:48:14 --> 26
+ERROR - 2025-07-11 11:48:14 --> clienteeee
+ERROR - 2025-07-11 11:48:14 --> SELECT * FROM creditos 
+                WHERE cliente_id = 26 AND estado != 'eliminado'
+ERROR - 2025-07-11 11:48:38 --> Cantidad de pagos: 30
+ERROR - 2025-07-11 11:48:38 --> Fecha Pago: 2025-06-07
+ERROR - 2025-07-11 11:48:38 --> Monto Pago antes de conversión: 6000
+ERROR - 2025-07-11 11:48:38 --> Monto Pago después de conversión: 6000
+ERROR - 2025-07-11 11:48:38 --> Fecha Pago: 2025-06-08
+ERROR - 2025-07-11 11:48:38 --> Monto Pago antes de conversión: 6000
+ERROR - 2025-07-11 11:48:38 --> Monto Pago después de conversión: 6000
+ERROR - 2025-07-11 11:48:38 --> Fecha Pago: 2025-06-09
+ERROR - 2025-07-11 11:48:38 --> Monto Pago antes de conversión: 6000
+ERROR - 2025-07-11 11:48:38 --> Monto Pago después de conversión: 6000
+ERROR - 2025-07-11 11:48:38 --> Fecha Pago: 2025-06-10
+ERROR - 2025-07-11 11:48:38 --> Monto Pago antes de conversión: 6000
+ERROR - 2025-07-11 11:48:38 --> Monto Pago después de conversión: 6000
+ERROR - 2025-07-11 11:48:38 --> Fecha Pago: 2025-06-11
+ERROR - 2025-07-11 11:48:38 --> Monto Pago antes de conversión: 6000
+ERROR - 2025-07-11 11:48:38 --> Monto Pago después de conversión: 6000
+ERROR - 2025-07-11 11:48:38 --> Fecha Pago: 2025-06-12
+ERROR - 2025-07-11 11:48:38 --> Monto Pago antes de conversión: 6000
+ERROR - 2025-07-11 11:48:38 --> Monto Pago después de conversión: 6000
+ERROR - 2025-07-11 11:48:38 --> Fecha Pago: 2025-06-13
+ERROR - 2025-07-11 11:48:38 --> Monto Pago antes de conversión: 6000
+ERROR - 2025-07-11 11:48:38 --> Monto Pago después de conversión: 6000
+ERROR - 2025-07-11 11:48:38 --> Fecha Pago: 2025-06-14
+ERROR - 2025-07-11 11:48:38 --> Monto Pago antes de conversión: 6000
+ERROR - 2025-07-11 11:48:38 --> Monto Pago después de conversión: 6000
+ERROR - 2025-07-11 11:48:38 --> Fecha Pago: 2025-06-15
+ERROR - 2025-07-11 11:48:38 --> Monto Pago antes de conversión: 6000
+ERROR - 2025-07-11 11:48:38 --> Monto Pago después de conversión: 6000
+ERROR - 2025-07-11 11:48:38 --> Fecha Pago: 2025-06-16
+ERROR - 2025-07-11 11:48:38 --> Monto Pago antes de conversión: 6000
+ERROR - 2025-07-11 11:48:38 --> Monto Pago después de conversión: 6000
+ERROR - 2025-07-11 11:48:38 --> Fecha Pago: 2025-06-17
+ERROR - 2025-07-11 11:48:38 --> Monto Pago antes de conversión: 6000
+ERROR - 2025-07-11 11:48:38 --> Monto Pago después de conversión: 6000
+ERROR - 2025-07-11 11:48:38 --> Fecha Pago: 2025-06-18
+ERROR - 2025-07-11 11:48:38 --> Monto Pago antes de conversión: 6000
+ERROR - 2025-07-11 11:48:38 --> Monto Pago después de conversión: 6000
+ERROR - 2025-07-11 11:48:38 --> Fecha Pago: 2025-06-19
+ERROR - 2025-07-11 11:48:38 --> Monto Pago antes de conversión: 6000
+ERROR - 2025-07-11 11:48:38 --> Monto Pago después de conversión: 6000
+ERROR - 2025-07-11 11:48:38 --> Fecha Pago: 2025-06-20
+ERROR - 2025-07-11 11:48:38 --> Monto Pago antes de conversión: 6000
+ERROR - 2025-07-11 11:48:38 --> Monto Pago después de conversión: 6000
+ERROR - 2025-07-11 11:48:38 --> Fecha Pago: 2025-06-21
+ERROR - 2025-07-11 11:48:38 --> Monto Pago antes de conversión: 6000
+ERROR - 2025-07-11 11:48:38 --> Monto Pago después de conversión: 6000
+ERROR - 2025-07-11 11:48:38 --> Fecha Pago: 2025-06-22
+ERROR - 2025-07-11 11:48:38 --> Monto Pago antes de conversión: 6000
+ERROR - 2025-07-11 11:48:38 --> Monto Pago después de conversión: 6000
+ERROR - 2025-07-11 11:48:38 --> Fecha Pago: 2025-06-23
+ERROR - 2025-07-11 11:48:38 --> Monto Pago antes de conversión: 6000
+ERROR - 2025-07-11 11:48:38 --> Monto Pago después de conversión: 6000
+ERROR - 2025-07-11 11:48:38 --> Fecha Pago: 2025-06-24
+ERROR - 2025-07-11 11:48:38 --> Monto Pago antes de conversión: 6000
+ERROR - 2025-07-11 11:48:38 --> Monto Pago después de conversión: 6000
+ERROR - 2025-07-11 11:48:38 --> Fecha Pago: 2025-06-25
+ERROR - 2025-07-11 11:48:38 --> Monto Pago antes de conversión: 6000
+ERROR - 2025-07-11 11:48:38 --> Monto Pago después de conversión: 6000
+ERROR - 2025-07-11 11:48:38 --> Fecha Pago: 2025-06-26
+ERROR - 2025-07-11 11:48:38 --> Monto Pago antes de conversión: 6000
+ERROR - 2025-07-11 11:48:38 --> Monto Pago después de conversión: 6000
+ERROR - 2025-07-11 11:48:38 --> Fecha Pago: 2025-06-27
+ERROR - 2025-07-11 11:48:38 --> Monto Pago antes de conversión: 6000
+ERROR - 2025-07-11 11:48:38 --> Monto Pago después de conversión: 6000
+ERROR - 2025-07-11 11:48:38 --> Fecha Pago: 2025-06-28
+ERROR - 2025-07-11 11:48:38 --> Monto Pago antes de conversión: 6000
+ERROR - 2025-07-11 11:48:38 --> Monto Pago después de conversión: 6000
+ERROR - 2025-07-11 11:48:38 --> Fecha Pago: 2025-06-29
+ERROR - 2025-07-11 11:48:38 --> Monto Pago antes de conversión: 6000
+ERROR - 2025-07-11 11:48:38 --> Monto Pago después de conversión: 6000
+ERROR - 2025-07-11 11:48:38 --> Fecha Pago: 2025-06-30
+ERROR - 2025-07-11 11:48:38 --> Monto Pago antes de conversión: 6000
+ERROR - 2025-07-11 11:48:38 --> Monto Pago después de conversión: 6000
+ERROR - 2025-07-11 11:48:38 --> Fecha Pago: 2025-07-01
+ERROR - 2025-07-11 11:48:38 --> Monto Pago antes de conversión: 6000
+ERROR - 2025-07-11 11:48:38 --> Monto Pago después de conversión: 6000
+ERROR - 2025-07-11 11:48:38 --> Fecha Pago: 2025-07-02
+ERROR - 2025-07-11 11:48:38 --> Monto Pago antes de conversión: 6000
+ERROR - 2025-07-11 11:48:38 --> Monto Pago después de conversión: 6000
+ERROR - 2025-07-11 11:48:38 --> Fecha Pago: 2025-07-03
+ERROR - 2025-07-11 11:48:38 --> Monto Pago antes de conversión: 6000
+ERROR - 2025-07-11 11:48:38 --> Monto Pago después de conversión: 6000
+ERROR - 2025-07-11 11:48:38 --> Fecha Pago: 2025-07-04
+ERROR - 2025-07-11 11:48:38 --> Monto Pago antes de conversión: 6000
+ERROR - 2025-07-11 11:48:38 --> Monto Pago después de conversión: 6000
+ERROR - 2025-07-11 11:48:38 --> Fecha Pago: 2025-07-05
+ERROR - 2025-07-11 11:48:38 --> Monto Pago antes de conversión: 6000
+ERROR - 2025-07-11 11:48:38 --> Monto Pago después de conversión: 6000
+ERROR - 2025-07-11 11:48:38 --> Fecha Pago: 2025-07-06
+ERROR - 2025-07-11 11:48:38 --> Monto Pago antes de conversión: 6000
+ERROR - 2025-07-11 11:48:38 --> Monto Pago después de conversión: 6000
+ERROR - 2025-07-11 11:48:46 --> 26
+ERROR - 2025-07-11 11:48:46 --> clienteeee
+ERROR - 2025-07-11 11:48:46 --> SELECT * FROM creditos 
+                WHERE cliente_id = 26 AND estado != 'eliminado'
+ERROR - 2025-07-11 11:48:56 --> SELECT * FROM transacciones 
+                WHERE id_credito = "68"
+ERROR - 2025-07-11 11:49:08 --> SELECT * FROM transacciones 
+                WHERE id_credito = "68"
+ERROR - 2025-07-11 11:49:20 --> SELECT * FROM transacciones 
+                WHERE id_credito = "68"
+ERROR - 2025-07-11 11:49:32 --> SELECT * FROM transacciones 
+                WHERE id_credito = "68"
+ERROR - 2025-07-11 11:49:44 --> SELECT * FROM transacciones 
+                WHERE id_credito = "68"
+ERROR - 2025-07-11 11:49:58 --> SELECT * FROM transacciones 
+                WHERE id_credito = "68"
+ERROR - 2025-07-11 11:50:16 --> SELECT * FROM transacciones 
+                WHERE id_credito = "68"
+ERROR - 2025-07-11 11:50:37 --> SELECT * FROM transacciones 
+                WHERE id_credito = "68"
+ERROR - 2025-07-11 11:50:55 --> SELECT * FROM transacciones 
+                WHERE id_credito = "68"
+ERROR - 2025-07-11 11:51:11 --> SELECT * FROM transacciones 
+                WHERE id_credito = "68"
+ERROR - 2025-07-11 11:51:26 --> SELECT * FROM transacciones 
+                WHERE id_credito = "68"
+ERROR - 2025-07-11 11:51:37 --> SELECT * FROM transacciones 
+                WHERE id_credito = "68"
+ERROR - 2025-07-11 11:51:58 --> SELECT * FROM transacciones 
+                WHERE id_credito = "68"
+ERROR - 2025-07-11 11:52:09 --> SELECT * FROM transacciones 
+                WHERE id_credito = "68"
+ERROR - 2025-07-11 11:52:21 --> SELECT * FROM transacciones 
+                WHERE id_credito = "68"
+ERROR - 2025-07-11 11:52:53 --> 26
+ERROR - 2025-07-11 11:52:53 --> clienteeee
+ERROR - 2025-07-11 11:52:53 --> SELECT * FROM creditos 
+                WHERE cliente_id = 26 AND estado != 'eliminado'
+ERROR - 2025-07-11 11:53:08 --> 27
+ERROR - 2025-07-11 11:53:08 --> clienteeee
+ERROR - 2025-07-11 11:53:08 --> SELECT * FROM creditos 
+                WHERE cliente_id = 27 AND estado != 'eliminado'
+ERROR - 2025-07-11 11:53:12 --> 28
+ERROR - 2025-07-11 11:53:12 --> clienteeee
+ERROR - 2025-07-11 11:53:12 --> SELECT * FROM creditos 
+                WHERE cliente_id = 28 AND estado != 'eliminado'
+ERROR - 2025-07-11 11:53:15 --> 30
+ERROR - 2025-07-11 11:53:15 --> clienteeee
+ERROR - 2025-07-11 11:53:15 --> SELECT * FROM creditos 
+                WHERE cliente_id = 30 AND estado != 'eliminado'
+ERROR - 2025-07-11 11:53:26 --> 30
+ERROR - 2025-07-11 11:53:26 --> clienteeee
+ERROR - 2025-07-11 11:53:26 --> SELECT * FROM creditos 
+                WHERE cliente_id = 30 AND estado != 'eliminado'
+ERROR - 2025-07-11 11:53:38 --> 42
+ERROR - 2025-07-11 11:53:38 --> clienteeee
+ERROR - 2025-07-11 11:53:38 --> SELECT * FROM creditos 
+                WHERE cliente_id = 42 AND estado != 'eliminado'
+ERROR - 2025-07-11 11:56:19 --> 41
+ERROR - 2025-07-11 11:56:19 --> clienteeee
+ERROR - 2025-07-11 11:56:19 --> SELECT * FROM creditos 
+                WHERE cliente_id = 41 AND estado != 'eliminado'
+ERROR - 2025-07-11 16:37:03 --> 43
+ERROR - 2025-07-11 16:37:03 --> clienteeee
+ERROR - 2025-07-11 16:37:03 --> SELECT * FROM creditos 
+                WHERE cliente_id = 43 AND estado != 'eliminado'
+ERROR - 2025-07-11 16:37:07 --> 26
+ERROR - 2025-07-11 16:37:07 --> clienteeee
+ERROR - 2025-07-11 16:37:07 --> SELECT * FROM creditos 
+                WHERE cliente_id = 26 AND estado != 'eliminado'
+ERROR - 2025-07-11 16:37:10 --> SELECT * FROM transacciones 
+                WHERE id_credito = "68"
+ERROR - 2025-07-11 16:37:15 --> 30
+ERROR - 2025-07-11 16:37:15 --> clienteeee
+ERROR - 2025-07-11 16:37:15 --> SELECT * FROM creditos 
+                WHERE cliente_id = 30 AND estado != 'eliminado'
+ERROR - 2025-07-11 16:37:16 --> SELECT * FROM transacciones 
+                WHERE id_credito = "52"
+ERROR - 2025-07-11 16:37:27 --> 26
+ERROR - 2025-07-11 16:37:27 --> clienteeee
+ERROR - 2025-07-11 16:37:27 --> SELECT * FROM creditos 
+                WHERE cliente_id = 26 AND estado != 'eliminado'
+ERROR - 2025-07-11 16:37:31 --> SELECT * FROM transacciones 
+                WHERE id_credito = "68"
+ERROR - 2025-07-11 16:37:40 --> 40
+ERROR - 2025-07-11 16:37:40 --> clienteeee
+ERROR - 2025-07-11 16:37:40 --> SELECT * FROM creditos 
+                WHERE cliente_id = 40 AND estado != 'eliminado'
+ERROR - 2025-07-11 16:37:41 --> SELECT * FROM transacciones 
+                WHERE id_credito = "62"
+ERROR - 2025-07-11 17:56:26 --> 42
+ERROR - 2025-07-11 17:56:26 --> clienteeee
+ERROR - 2025-07-11 17:56:26 --> SELECT * FROM creditos 
+                WHERE cliente_id = 42 AND estado != 'eliminado'
+ERROR - 2025-07-11 17:56:43 --> SELECT * FROM transacciones 
+                WHERE id_credito = "67"

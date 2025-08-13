@@ -1,0 +1,56 @@
+CRITICAL - 2025-04-22 03:52:38 --> ErrorException: Undefined property: App\Controllers\CreditoController::$db
+[Method: POST, Route: api/v2/credito/nuevoPago]
+in APPPATH/Controllers/CreditoController.php on line 344.
+ 1 APPPATH/Controllers/CreditoController.php(344): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\CreditoController->registrarPago()
+ 3 SYSTEMPATH/CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController()
+ 4 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest()
+ 5 SYSTEMPATH/Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter()
+ 7 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb()
+ERROR - 2025-04-22 03:55:23 --> mysqli_sql_exception: Unknown column 'saldo_restante' in 'SET' in /home/u504444817/domains/geomy.site/public_html/API_CREDIT/system/Database/MySQLi/Connection.php:308
+Stack trace:
+#0 /home/u504444817/domains/geomy.site/public_html/API_CREDIT/system/Database/MySQLi/Connection.php(308): mysqli->query()
+#1 /home/u504444817/domains/geomy.site/public_html/API_CREDIT/system/Database/BaseConnection.php(722): CodeIgniter\Database\MySQLi\Connection->execute()
+#2 /home/u504444817/domains/geomy.site/public_html/API_CREDIT/system/Database/BaseConnection.php(636): CodeIgniter\Database\BaseConnection->simpleQuery()
+#3 /home/u504444817/domains/geomy.site/public_html/API_CREDIT/app/Controllers/CreditoController.php(358): CodeIgniter\Database\BaseConnection->query()
+#4 /home/u504444817/domains/geomy.site/public_html/API_CREDIT/system/CodeIgniter.php(933): App\Controllers\CreditoController->registrarPago()
+#5 /home/u504444817/domains/geomy.site/public_html/API_CREDIT/system/CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController()
+#6 /home/u504444817/domains/geomy.site/public_html/API_CREDIT/system/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest()
+#7 /home/u504444817/domains/geomy.site/public_html/API_CREDIT/system/Boot.php(312): CodeIgniter\CodeIgniter->run()
+#8 /home/u504444817/domains/geomy.site/public_html/API_CREDIT/system/Boot.php(67): CodeIgniter\Boot::runCodeIgniter()
+#9 /home/u504444817/domains/geomy.site/public_html/API_CREDIT/public/index.php(56): CodeIgniter\Boot::bootWeb()
+#10 {main}
+CRITICAL - 2025-04-22 03:55:23 --> CodeIgniter\Database\Exceptions\DatabaseException: Unknown column 'saldo_restante' in 'SET'
+[Method: POST, Route: api/v2/credito/nuevoPago]
+in SYSTEMPATH/Database/BaseConnection.php on line 676.
+ 1 APPPATH/Controllers/CreditoController.php(358): CodeIgniter\Database\BaseConnection->query()
+ 2 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\CreditoController->registrarPago()
+ 3 SYSTEMPATH/CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController()
+ 4 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest()
+ 5 SYSTEMPATH/Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter()
+ 7 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb()
+CRITICAL - 2025-04-22 03:55:23 --> [Caused by] CodeIgniter\Database\Exceptions\DatabaseException: Unknown column 'saldo_restante' in 'SET'
+in SYSTEMPATH/Database/MySQLi/Connection.php on line 313.
+ 1 SYSTEMPATH/Database/BaseConnection.php(722): CodeIgniter\Database\MySQLi\Connection->execute()
+ 2 SYSTEMPATH/Database/BaseConnection.php(636): CodeIgniter\Database\BaseConnection->simpleQuery()
+ 3 APPPATH/Controllers/CreditoController.php(358): CodeIgniter\Database\BaseConnection->query()
+ 4 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\CreditoController->registrarPago()
+ 5 SYSTEMPATH/CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest()
+ 7 SYSTEMPATH/Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter()
+ 9 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb()
+CRITICAL - 2025-04-22 03:55:23 --> [Caused by] mysqli_sql_exception: Unknown column 'saldo_restante' in 'SET'
+in SYSTEMPATH/Database/MySQLi/Connection.php on line 308.
+ 1 SYSTEMPATH/Database/MySQLi/Connection.php(308): mysqli->query()
+ 2 SYSTEMPATH/Database/BaseConnection.php(722): CodeIgniter\Database\MySQLi\Connection->execute()
+ 3 SYSTEMPATH/Database/BaseConnection.php(636): CodeIgniter\Database\BaseConnection->simpleQuery()
+ 4 APPPATH/Controllers/CreditoController.php(358): CodeIgniter\Database\BaseConnection->query()
+ 5 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\CreditoController->registrarPago()
+ 6 SYSTEMPATH/CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController()
+ 7 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest()
+ 8 SYSTEMPATH/Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter()
+10 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb()

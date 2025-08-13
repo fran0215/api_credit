@@ -1,0 +1,6 @@
+ERROR - 2025-07-07 16:00:47 --> 30
+ERROR - 2025-07-07 16:00:47 --> clienteeee
+ERROR - 2025-07-07 16:00:47 --> SELECT * FROM creditos 
+                WHERE cliente_id = 30 AND estado != 'eliminado'
+ERROR - 2025-07-07 16:00:54 --> SELECT * FROM transacciones 
+                WHERE id_credito = "52"
