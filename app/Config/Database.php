@@ -26,10 +26,10 @@ class Database extends Config
      */
     public array $default = [
         'DSN'          => '',
-        'hostname'     => 'localhost',
-        'username' => 'u504444817_credit_admin',
-        'password' => 'Credit_2025**',
-        'database' => 'u504444817_credit',
+        'hostname'     => 'mainline.proxy.rlwy.net',
+        'username'     => 'root',
+        'password'     => 'LsShhLcyoAiZyDwFxdSWVcYgMgTfRNSp',
+        'database'     => 'railway',
         'DBDriver'     => 'MySQLi',
         'DBPrefix'     => '',
         'pConnect'     => false,
