@@ -1,1 +1,1 @@
-web: php spark serve --port=$PORT --host=0.0.0.0
+web: php spark serve --host=0.0.0.0 --port=$PORT
